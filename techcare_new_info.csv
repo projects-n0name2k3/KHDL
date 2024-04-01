@@ -1,0 +1,698 @@
+Branch,CPU,RAM,Storage,GPU,Screen,Pin,Status,Price
+Asus,Core i5-13500H,8 GB,SSD 512GB,Intel Iris Xe Graphics,14.5 inch 2K+,70 WHrs,New,15.000.000
+Dell,Core i5-1335U,8 GB,SSD 512GB,Intel Iris Xe Graphics,14 inch Full HD cảm ứng,4 Cell 54 Wh,New,15.900.000
+Lenovo,AMD Ryzen 5-7535HS,8 GB,SSD 512GB,Nvidia GeForce RTX 2050 4GB,15.6 inch Full HD,Integrated 45Wh,New,15.700.000
+Lenovo,Core i5-12450H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,Integrated 60Wh,New,18.900.000
+Lenovo,Core i5-13420H,8 GB,SSD 1TB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,Integrated 60Wh,New,19.500.000
+Lenovo,Ryzen 7-7840HS,8 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,Integrated 60Wh,New,20.500.000
+Dell,Core i5-13450HX,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,20.900.000
+Dell,Core i5-13450HX,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,21.600.000
+Dell,Core i5-13450HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,23.600.000
+Dell,Core i7-13650HX,8 GB,SSD 1TB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,24.900.000
+Dell,Core i7-13650HX,16 GB,SSD 1TB,Nvidia GeForce RTX 4060 8GB,15.6 inch Full HD,3 Cell 56WHrs,New,28.900.000
+Acer,Core i5-13500HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,21.500.000
+Acer,Core i5-13500HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,24.200.000
+Acer,Core i7-13700HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,25.700.000
+Acer,Core i7-13700HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,28.900.000
+Acer,Core i9-13900HX,16 GB,SSD 1TB,Nvidia GeForce RTX 4060 8GB,16 inch 2.5K,"4-cell, 90 Wh",New,32.800.000
+HP,AMD Ryzen 3 3300U,8 GB,SSD 256GB,AMD Radeon Vega 6 Graphics,15.6 inch Full HD,"3-cell, 41 Wh Li-ion",New,7.900.000
+Lenovo,Core i3-1115G4,8 GB,SSD 128GB,Intel UHD Graphics,15.6 inch Full HD,2 Cells 38WHrs,New,7.900.000
+Dell,AMD Athlon Silver 3050U,8 GB,SSD 256GB,AMD Radeon Vega 8,15.6 inch HD,41 Wh,New,8.800.000
+Dell,AMD Ryzen 5-3500U,8 GB,SSD 256GB,AMD Radeon Vega 8,15.6 inch HD,41 Wh,New,10.200.000
+Asus,Core i5-13500H,8 GB,SSD 512GB,Intel Iris Xe Graphics,14.5 inch 2K+,70 WHrs,New,15.000.000
+Dell,Core i5-1335U,8 GB,SSD 512GB,Intel Iris Xe Graphics,14 inch Full HD cảm ứng,4 Cell 54 Wh,New,15.900.000
+Asus,Core i5-10300H,8 GB,SSD 512GB,Nvidia GeForce GTX 1650 4GB,15.6 inch Full HD,3 Cell 48WHr,New,11.700.000
+Asus,Core i5-10200H,8 GB,SSD 512GB,Nvidia GeForce GTX 1650Ti 4GB,15.6 inch Full HD,3 Cell 48WHr,New,12.100.000
+Asus,Core i7-10870H,8 GB,SSD 512GB,Nvidia Geforce GTX 1660Ti 6GB,15.6 inch Full HD,3 Cell 48WHr,New,13.700.000
+Lenovo,AMD Ryzen 5-7535HS,8 GB,SSD 512GB,Nvidia GeForce RTX 2050 4GB,15.6 inch Full HD,Integrated 45Wh,New,15.700.000
+MSI,Core i5-12450H,8 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,3-Cell 53.5 Battery (Whr),New,20.500.000
+Lenovo,Core i5-12450H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,Integrated 60Wh,New,18.900.000
+Lenovo,Core i5-13420H,8 GB,SSD 1TB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,Integrated 60Wh,New,19.500.000
+Lenovo,Ryzen 7-7840HS,8 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,Integrated 60Wh,New,20.500.000
+Dell,Core i5-13450HX,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,20.900.000
+Dell,Core i5-13450HX,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,21.600.000
+Dell,Core i5-13450HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,23.600.000
+Dell,Core i7-13650HX,8 GB,SSD 1TB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,24.900.000
+Dell,Core i7-13650HX,16 GB,SSD 1TB,Nvidia GeForce RTX 4060 8GB,15.6 inch Full HD,3 Cell 56WHrs,New,28.900.000
+Acer,Core i5-13500HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,21.500.000
+Acer,Core i5-13500HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,24.200.000
+Acer,Core i7-13700HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,25.700.000
+Acer,Core i7-13700HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,28.900.000
+Acer,Core i9-13900HX,16 GB,SSD 1TB,Nvidia GeForce RTX 4060 8GB,16 inch 2.5K,"4-cell, 90 Wh",New,32.800.000
+Lenovo,Core i5-13500H,16 GB,SSD 1TB,Nvidia GeForce RTX 4050 6GB,16 inch 2.5K,4 cell 80whr Super Rapid Charge,New,26.900.000
+Lenovo,Core i7-13620H,16 GB,SSD 1TB,Nvidia GeForce RTX 4050 6GB,16 inch 2.5K,4 cell 80whr Super Rapid Charge,New,27.900.000
+Lenovo,Core i7-13620H,16 GB,SSD 1TB,Nvidia GeForce RTX 4060 8GB,16 inch 2.5K,4 cell 80whr Super Rapid Charge,New,29.900.000
+Lenovo,Core i7-13700H,16 GB,SSD 1TB,Nvidia GeForce RTX 4060 8GB,16 inch 2.5K,4 cell 80whr Super Rapid Charge,New,30.900.000
+Dell,Core i5-1135G7,8 GB,SSD 256GB,Intel Iris Xe Graphics,15.6 inch Full HD,"3 Cell, 41Whr",New,11.400.000
+Dell,AMD Ryzen R5-5625U,16 GB,SSD 512GB,AMD Radeon Graphics,14 inch FHD+,4 Cell 54Wh,New,11.900.000
+Dell,AMD Ryzen R5-5625U,16 GB,SSD 512GB,AMD Radeon Graphics,14 inch FHD+,4 Cell 54Wh,New,13.400.000
+Dell,AMD Ryzen R5-5625U,16 GB,SSD 512GB,AMD Radeon Graphics,14 inch 2K,4 Cell 54Wh,New,13.700.000
+Dell,AMD Ryzen R7-5825U,16 GB,SSD 512GB,AMD Radeon Graphics,14 inch FHD+,4 Cell 54Wh,New,14.900.000
+Dell,AMD Ryzen R7-5825U,16 GB,SSD 512GB,AMD Radeon Graphics,14 inch FHD+,4 Cell 54Wh,New,16.300.000
+Surface,AMD Ryzen 5-3580U,8 GB,SSD 128GB,Radeon Vega 9 Graphics,15 inch (2496x1664) pixel,11.5 Tiếng,New,13.400.000
+Dell,AMD Ryzen 5-7530U,8 GB,SSD 512GB,AMD Radeon Graphics,14 inch FHD+,4-Cell 65WHr,New,13.700.000
+Dell,Core i5-1240P,16 GB,SSD 512GB,Intel Iris Xe Graphics,16.0 inch FHD+,4 Cell 54Wh,New,14.500.000
+Dell,Core i7-1260P,16 GB,SSD 512GB,Intel Iris Xe Graphics,16.0 inch FHD+,4 Cell 54Wh,New,16.500.000
+Asus,Core i5-1240P,8 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch 2.8K,63Wh,New,14.800.000
+Dell,Core i5-1335U,8 GB,SSD 512GB,Intel UHD Graphics,15.6 inch Full HD,3 cell 41 Wh,New,14.600.000
+HP,Core i5-1135G7,8 GB,SSD 256GB,Intel Iris Xe Graphics,15.6 inch Full HD cảm ứng,"3-cell, 51 Wh Li-ion polymer",New,16.400.000
+Dell,Core i5-1135G7,8 GB,SSD 256GB,Intel Iris Xe Graphics,13.4 inch Full HD,51WHr,New,18.800.000
+Dell,Core i5-1230U,8 GB,SSD 512GB,Intel Iris Xe Graphics,13.4 inch FHD+,"3-Cell Battery, 51 Whr (Integrated)",New,19.900.000
+Dell,Core i5-1230U,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.4 inch FHD+,"3-Cell Battery, 51 Whr (Integrated)",New,21.500.000
+Dell,Core i7-10750H,16 GB,SSD 512GB,Nvidia GeForce GTX 1650Ti 4GB,15.6 inch Full HD,"68 Whr, 6-cell",New,21.900.000
+Dell,Core i7-13700H,16 GB,SSD 512GB,Intel ARC 370M 4GB,15.6 inch FHD+,86 Wh Lithium-Ion,New,36.900.000
+Dell,Core i7-13700H,16 GB,SSD 1TB,Nvidia GeForce RTX 4050 6GB,15.6 inch FHD+,86 Wh Lithium-Ion,New,44.500.000
+Asus,Core i5-13500H,8 GB,SSD 512GB,Intel Iris Xe Graphics,14.5 inch 2K+,70 WHrs,New,15.000.000
+Dell,Core i5-1335U,8 GB,SSD 512GB,Intel Iris Xe Graphics,14 inch Full HD cảm ứng,4 Cell 54 Wh,New,15.900.000
+Lenovo,AMD Ryzen 5-7535HS,8 GB,SSD 512GB,Nvidia GeForce RTX 2050 4GB,15.6 inch Full HD,Integrated 45Wh,New,15.700.000
+Lenovo,Core i5-12450H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,Integrated 60Wh,New,18.900.000
+Lenovo,Core i5-13420H,8 GB,SSD 1TB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,Integrated 60Wh,New,19.500.000
+Lenovo,Ryzen 7-7840HS,8 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,Integrated 60Wh,New,20.500.000
+Dell,Core i5-13450HX,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,20.900.000
+Dell,Core i5-13450HX,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,21.600.000
+Dell,Core i5-13450HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,23.600.000
+Dell,Core i7-13650HX,8 GB,SSD 1TB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,24.900.000
+Dell,Core i7-13650HX,16 GB,SSD 1TB,Nvidia GeForce RTX 4060 8GB,15.6 inch Full HD,3 Cell 56WHrs,New,28.900.000
+Acer,Core i5-13500HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,21.500.000
+Acer,Core i5-13500HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,24.200.000
+Acer,Core i7-13700HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,25.700.000
+Acer,Core i7-13700HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,28.900.000
+Acer,Core i9-13900HX,16 GB,SSD 1TB,Nvidia GeForce RTX 4060 8GB,16 inch 2.5K,"4-cell, 90 Wh",New,32.800.000
+Dell,AMD Ryzen 5 5600H,8 GB,SSD 256GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,56WHr,New,15.700.000
+Dell,AMD Ryzen 5 5600H,16 GB,SSD 256GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,56WHr,New,16.400.000
+Dell,AMD Ryzen 5 5600H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,56WHr,New,16.700.000
+Dell,AMD Ryzen 5 5600H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,56WHr,New,17.400.000
+Acer,Core i5-12500H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,4 Cell – 58.75 Wh,New,17.600.000
+Acer,Core i5-12450H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,4 Cell – 58.75 Wh,New,18.000.000
+Acer,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050Ti 4GB,15.6 inch Full HD 165GHz,4 Cell – 58.75 Wh,New,18.900.000
+Acer,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD 165GHz,4 Cell – 58.75 Wh,New,19.700.000
+Acer,Core i7-12700H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050Ti 4GB,15.6 inch Full HD,4 Cell – 58.75 Wh,New,19.800.000
+Acer,Core i7-12700H,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,4 Cell – 58.75 Wh,New,22.700.000
+Acer,Core i9-12900H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,4 Cell – 58.75 Wh,New,23.500.000
+Acer,Core i7-12650H,16 GB,SSD 512GB,Nvidia GeForce RTX 4060 8GB,15.6 inch Full HD,4 Cell – 58.75 Wh,New,26.300.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,"3-cell, 56WHz",New,18.900.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,"3-cell, 56WHz",New,20.500.000
+Dell,Core i7-12700H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,"3-cell, 56WHz",New,22.000.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050Ti 4GB,15.6 inch Full HD,"3-cell, 56WHz",New,22.500.000
+Dell,Core i7-12650H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,"3-cell, 56WHz",New,23.500.000
+Dell,Core i7-12700H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,"3-cell, 56WHz",New,24.000.000
+Lenovo,AMD Ryzen 7-5800H,16 GB,SSD 512GB,,15.6 inch Full HD,"3-cell, 56WHz",New,25.700.000
+Dell,Core i5-11300H,8 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch 2.5K,"4-Cell, 54WHr (pin liền)",New,12.200.000
+Dell,Core i5-11300H,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch 2.5K,"4-Cell, 54WHr (pin liền)",New,12.700.000
+Dell,Core i5-11300H,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch 2.5K,"4-Cell, 54WHr (pin liền)",New,14.800.000
+Dell,Core i5-11300H,8 GB,SSD 512GB,Nvidia Geforce MX450 2GB,13.3 inch 2.5K,"4-Cell, 54WHr (pin liền)",New,15.200.000
+Dell,Core i7-11390H,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch 2.5K,"4-Cell, 54WHr (pin liền)",New,16.900.000
+Dell,Core i5-1240P,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch QHD+,54WHrs,New,13.700.000
+Dell,Core i7-1260P,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch QHD+,54WHrs,New,14.900.000
+Dell,Core i5-1240P,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch QHD+,54WHrs,New,15.900.000
+Dell,Core i7-1260P,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch QHD+,54WHrs,New,17.400.000
+Dell,Core i7-1265U,16 GB,SSD 512GB,Intel Iris Xe Graphics,14 inch Full HD,3 Cell 41WHrs,New,14.800.000
+MacBook,Apple M1,8 GB,SSD 256GB,Intel Iris Plus Graphics,13.3 inch (2560x1600)pixel,18 tiếng,New,14.900.000
+MacBook,Apple M1,8 GB,SSD 512GB,Intel Iris Plus Graphics,13.3 inch (2560x1600)pixel,18 tiếng,New,17.900.000
+MacBook,Apple M1,8 GB,SSD 256GB,Intel Iris Plus Graphics,13.3 inch (2560x1600)pixel,18 tiếng,New,18.900.000
+HP,Core i5-1135G7,16 GB,SSD 512GB,Intel Iris Xe Graphics,15.6 inch Full HD,"3-cell, 45 Wh Li-ion",New,9.500.000
+HP,Core i5-1135G7,16 GB,SSD 512GB,Intel Iris Xe Graphics,15.6 inch Full HD,"3-cell, 45 Wh Li-ion",New,11.900.000
+HP,Core i7-1165G7,16 GB,SSD 512GB,Intel Iris Xe Graphics,15.6 inch Full HD,"3-cell, 45 Wh Li-ion",New,13.500.000
+HP,Core i7-1065G7,8 GB,SSD 256GB,Intel HD Graphics 620,15.6 inch Full HD,"3-cell, 41 Wh Li-ion",New,9.800.000
+HP,Core i7-1065G7,16 GB,SSD 512GB,Intel HD Graphics 620,15.6 inch Full HD,"3-cell, 41 Wh Li-ion",New,10.800.000
+Lenovo,Core i3-1215U,4 GB,SSD 256GB,Intel UHD Graphics,14 inch Full HD,2 cell 38Wh,New,10.400.000
+Dell,Core i5-1235U,8 GB,SSD 256GB,Intel Iris Xe Graphics,15.6 inch Full HD,63Wh 4-cell battery,New,13.900.000
+Dell,Core i7-1265U,16 GB,SSD 512GB,Intel Iris Xe Graphics,15.6 inch Full HD,63Wh 4-cell battery,New,16.900.000
+Lenovo,Core i5-1135G7,16 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,57Whr,New,14.200.000
+Lenovo,Core i5-1145G7,16 GB,SSD 512GB,Intel Iris Xe Graphics,14 inch Full HD,57Whr,New,16.900.000
+Asus,AMD Ryzen 7-5700U,8 GB,SSD 256GB,Nvidia Geforce MX450 2GB,15.6 inch Full HD,"56WHrs, 4S1P, 4-cell Li-ion",New,14.790.000
+Dell,Core i5-11320H,16 GB,SSD 512GB,Intel Iris Xe Graphics,15.6 inch Full HD,"4 cell, 54wh",New,15.400.000
+Dell,Core i5-11320H,16 GB,SSD 512GB,Nvidia Geforce MX450 2GB,15.6 inch Full HD,"4 cell, 54wh",New,16.400.000
+Dell,Core i5-1240P,8 GB,SSD 256GB,Intel Iris Xe Graphics,16.0 inch FHD+,4 Cell 54 Wh,New,15.900.000
+Dell,Core i5-1240P,16 GB,SSD 256GB,Intel Iris Xe Graphics,16.0 inch FHD+,4 Cell 54 Wh,New,16.400.000
+Dell,Core i5-1240P,8 GB,SSD 512GB,Intel Iris Xe Graphics,16.0 inch FHD+,4 Cell 54 Wh,New,16.400.000
+Dell,Core i5-1240P,16 GB,SSD 512GB,Intel Iris Xe Graphics,16.0 inch FHD+,4 Cell 54 Wh,New,16.900.000
+Dell,Core i7-1260P,16 GB,SSD 512GB,Intel Iris Xe Graphics,16.0 inch FHD+,4 Cell 54 Wh,New,18.500.000
+Dell,Core i5-1340P,8 GB,SSD 512GB,Intel Iris Xe Graphics,16.0 inch FHD+,"4-Cell, 54Wh",New,15.400.000
+Dell,Core i5-1340P,16 GB,SSD 512GB,Intel Iris Xe Graphics,16.0 inch FHD+,"4-Cell, 54Wh",New,16.200.000
+Dell,Core i7-1360P,16 GB,SSD 512GB,Intel Iris Xe Graphics,16 inch 2.5K,"4-Cell, 54Wh",New,20.500.000
+Dell,Core i5-1340P,16 GB,SSD 512GB,Intel Iris Xe Graphics,14 inch FHD+,4-Cell Battery,New,16.200.000
+Dell,Core i7-1360P,16 GB,SSD 1TB,Intel Iris Xe Graphics,14 inch 2.5K,4-Cell Battery,New,19.900.000
+Dell,Core i5-1235U,8 GB,SSD 512GB,Intel Iris Xe Graphics,14 inch FHD+ cảm ứng,4 Cell 54 Wh integrated,New,16.900.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Intel Iris Xe Graphics,14 inch 2.2K,4 Cell 54 Wh integrated,New,17.800.000
+Dell,Core i7-1255U,16 GB,SSD 512GB,Intel Iris Xe Graphics,14 inch FHD+ cảm ứng,4 Cell 54 Wh integrated,New,19.500.000
+Dell,Core i7-1255U,16 GB,SSD 512GB,Intel Iris Xe Graphics,14 inch FHD+ cảm ứng,4 Cell 54 Wh integrated,New,21.500.000
+Dell,Core i7-13620H,16 GB,SSD 1TB,Intel Iris Xe Graphics,14 inch 2.5K,4 Cell 64 Wh integrated,New,19.900.000
+Macbook,8 nhân GPU,16 nhân Neural Engine,8 GB,SSD 256GB,8 nhân GPU,4 Cell 64 Wh integrated,New,21.900.000
+Macbook,8 nhân GPU,16 nhân Neural Engine,8 GB,SSD 256GB,8 nhân GPU,4 Cell 64 Wh integrated,New,26.500.000
+MacBook,Apple M2,8 GB,SSD 256GB,10 nhân GPU,13.3 inch (2560x1600)pixel,10 tiếng,New,22.990.000
+MacBook,Apple M2,8 GB,SSD 256GB,10 nhân GPU,13.3 inch (2560x1600)pixel,10 tiếng,New,29.600.000
+Dell,Core i5-1240P,8 GB,SSD 512GB,Intel Iris Xe Graphics,13.4 inch FHD+,60 Wh Lithium-Ion,New,23.400.000
+Dell,Core i5-1240P,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.4 inch Full HD cảm ứng,60 Wh Lithium-Ion,New,24.300.000
+Dell,Core i7-1260P,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.4 inch Full HD cảm ứng,60 Wh Lithium-Ion,New,28.800.000
+Dell,Core i7-1260P,32 GB,SSD 1TB,Intel Iris Xe Graphics,13.4 inch Full HD,60 Wh Lithium-Ion,New,37.500.000
+Dell,Core i7-13620H,16 GB,SSD 1TB,Intel UHD Graphics,16 inch 2.5K,"6 Cell, 86 Wh",New,23.490.000
+Asus,Core i5-13500H,8 GB,SSD 512GB,Intel Iris Xe Graphics,14.5 inch 2K+,70 WHrs,New,15.000.000
+Dell,Core i5-1335U,8 GB,SSD 512GB,Intel Iris Xe Graphics,14 inch Full HD cảm ứng,4 Cell 54 Wh,New,15.900.000
+Lenovo,AMD Ryzen 5-7535HS,8 GB,SSD 512GB,Nvidia GeForce RTX 2050 4GB,15.6 inch Full HD,Integrated 45Wh,New,15.700.000
+Lenovo,Core i5-12450H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,Integrated 60Wh,New,18.900.000
+Lenovo,Core i5-13420H,8 GB,SSD 1TB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,Integrated 60Wh,New,19.500.000
+Lenovo,Ryzen 7-7840HS,8 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,Integrated 60Wh,New,20.500.000
+Dell,Core i5-13450HX,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,20.900.000
+Dell,Core i5-13450HX,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,21.600.000
+Dell,Core i5-13450HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,23.600.000
+Dell,Core i7-13650HX,8 GB,SSD 1TB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,24.900.000
+Dell,Core i7-13650HX,16 GB,SSD 1TB,Nvidia GeForce RTX 4060 8GB,15.6 inch Full HD,3 Cell 56WHrs,New,28.900.000
+Acer,Core i5-13500HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,21.500.000
+Acer,Core i5-13500HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,24.200.000
+Acer,Core i7-13700HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,25.700.000
+Acer,Core i7-13700HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,28.900.000
+Acer,Core i9-13900HX,16 GB,SSD 1TB,Nvidia GeForce RTX 4060 8GB,16 inch 2.5K,"4-cell, 90 Wh",New,32.800.000
+Dell,Core i5-1245U,16 GB,SSD 256GB,Intel Iris Xe Graphics,15.6 inch Full HD,4 Cell 58 Whr,New,24.500.000
+Lenovo,Core i7-1185G7,16 GB,SSD 512GB,Intel Iris Xe Graphics,14 inch Full HD cảm ứng,4Cell 57WHrs,New,28.900.000
+Lenovo,Core i7-1185G7,16 GB,SSD 512GB,Intel Iris Xe Graphics,14 inch Full HD cảm ứng,4Cell 57WHrs,New,32.500.000
+Dell,Core i7-12700H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch FHD+,86WHr,New,30.900.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050Ti 4GB,17.0 inch FHD+,"6 Cell, 97 Wh",New,67.600.000
+HP,Core i5-1135G7,8 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,3 cell 45 Wh,New,11.500.000
+HP,Core i5-1145G7,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch Full HD,"3 Cell, 45WHr",New,11.900.000
+Asus,Core i5-1135G7,8 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,3 cell 42 Wh,New,12.900.000
+Asus,Core i5-1240P,16 GB,SSD 512GB,Intel Iris Xe Graphics,15.6 inch Full HD,3 Cells 42Whrs,New,13.500.000
+Asus,AMD Ryzen 7-5800H,8 GB,SSD 512GB,AMD Radeon Graphics,14 inch WQXGA+,"63WHrs, 3S1P, 3-cell Li-ion",New,13.900.000
+Dell,Core i5-1335U,16 GB,SSD 512GB,Intel UHD Graphics,15.6 inch Full HD,"3-cell Li-ion, 41 Wh",New,14.600.000
+Dell,Core i7-1355U,8 GB,SSD 512GB,Intel UHD Graphics,15.6 inch Full HD,"3-cell Li-ion, 41 Wh",New,17.600.000
+Dell,AMD Ryzen 5-7530U,8 GB,SSD 512GB,AMD Radeon Graphics,16.0 inch FHD+,4 Cell 54 Wh integrated,New,15.900.000
+Asus,Core i5-1240P,16 GB,SSD 512GB,Intel Iris Xe Graphics,14 inch 2.8K,4 Cells 75WHrs,New,15.900.000
+Asus,Core i7-1260P,16 GB,SSD 512GB,Intel Iris Xe Graphics,14 inch 2.8K,4 Cells 75WHrs,New,17.800.000
+HP,Core i5-1335U,16 GB,SSD 512GB,Intel Iris Xe Graphics,14 inch Full HD,3-cell 51 Wh,New,17.800.000
+HP,Core i7-1355U,16 GB,SSD 512GB,Intel Iris Xe Graphics,15.6 inch Full HD cảm ứng,"4-cell, 55 Wh Li-ion polymer",New,20.900.000
+Dell,Core i5-1135G7,8 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,3 cell Pin liền,New,11.500.000
+Dell,Core i7-1165G7,16 GB,SSD 512GB,Intel Iris Xe Graphics,14 inch Full HD,3 cell Pin liền,New,14.400.000
+Asus,AMD Ryzen 7-5800H,16 GB,SSD 512GB,AMD Radeon Graphics,14 inch 2.8K,3Cell 63WHrs,New,13.900.000
+HP,Core i5-1235U,8 GB,SSD 512GB,Intel UHD Graphics,13.3 inch Full HD,3 Cell 42Whr,New,13.900.000
+HP,Core i5-1335U,8 GB,SSD 512GB,Intel Iris Xe Graphics,14 inch Full HD cảm ứng,"3 Cells, 45Wh",New,14.900.000
+Dell,Core i5-1340P,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch QHD+,"4-Cell, 54Wh",New,17.700.000
+Dell,Core i7-1360P,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch 2.5K,"4-Cell, 54Wh",New,21.400.000
+Lenovo,Core i5-1235U,8 GB,SSD 512GB,Intel Iris Xe Graphics,14 inch Full HD,3 Cell 45WHr,New,17.900.000
+Lenovo,Core i5-1340P,16 GB,SSD 256GB,Intel UHD Graphics,14 inch Full HD,3 Cell Li-Polymer 39.3Wh,New,26.500.000
+Dell,Core i3-1115G4,4 GB,SSD 120GB,Intel Iris Xe Graphics,15.6 inch Full HD,3 Cell-41Wh,New,10.900.000
+Acer,Core i5-1235U,8 GB,SSD 256GB,Intel Iris Xe Graphics,15.6 inch Full HD,3 Cell 48WHrs,New,11.800.000
+HP,Core i5-1135G7,8 GB,SSD 256GB,Intel Iris Xe Graphics,15.6 inch Full HD,"3-cell, 41 Wh Li-ion",New,12.800.000
+Asus,Core i5-13500H,8 GB,SSD 512GB,Intel Iris Xe Graphics,14.5 inch 2K+,70 WHrs,New,15.000.000
+Dell,Core i5-1335U,8 GB,SSD 512GB,Intel Iris Xe Graphics,14 inch Full HD cảm ứng,4 Cell 54 Wh,New,15.900.000
+Lenovo,AMD Ryzen 5-7535HS,8 GB,SSD 512GB,Nvidia GeForce RTX 2050 4GB,15.6 inch Full HD,Integrated 45Wh,New,15.700.000
+Lenovo,Core i5-12450H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,Integrated 60Wh,New,18.900.000
+Lenovo,Core i5-13420H,8 GB,SSD 1TB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,Integrated 60Wh,New,19.500.000
+Lenovo,Ryzen 7-7840HS,8 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,Integrated 60Wh,New,20.500.000
+Dell,Core i5-13450HX,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,20.900.000
+Dell,Core i5-13450HX,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,21.600.000
+Dell,Core i5-13450HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,23.600.000
+Dell,Core i7-13650HX,8 GB,SSD 1TB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,24.900.000
+Dell,Core i7-13650HX,16 GB,SSD 1TB,Nvidia GeForce RTX 4060 8GB,15.6 inch Full HD,3 Cell 56WHrs,New,28.900.000
+Acer,Core i5-13500HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,21.500.000
+Acer,Core i5-13500HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,24.200.000
+Acer,Core i7-13700HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,25.700.000
+Acer,Core i7-13700HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,28.900.000
+Acer,Core i9-13900HX,16 GB,SSD 1TB,Nvidia GeForce RTX 4060 8GB,16 inch 2.5K,"4-cell, 90 Wh",New,32.800.000
+Dell,AMD Ryzen 5 5500U,8 GB,SSD 256GB,AMD Radeon Graphics,14 inch Full HD,4 cell,New,12.900.000
+Dell,AMD Ryzen 5 5500U,8 GB,SSD 512GB,AMD Radeon Graphics,14 inch Full HD,4 cell,New,13.300.000
+Dell,AMD Ryzen 5 5500U,16 GB,SSD 256GB,AMD Radeon Graphics,14 inch Full HD,4 cell,New,13.300.000
+Dell,AMD Ryzen 5 5500U,16 GB,SSD 512GB,AMD Radeon Graphics,14 inch Full HD,4 cell,New,13.700.000
+Samsung,Core i5-1135G7,8 GB,SSD 256GB,Intel Iris Xe Graphics,13.3 inch Full HD,68 Wh Lithium-Ion,New,14.800.000
+Samsung,Core i5-1135G7,8 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch Full HD,68 Wh Lithium-Ion,New,15.600.000
+Samsung,Core i7-1165G7,8 GB,SSD 256GB,Intel Iris Xe Graphics,13.3 inch Full HD,68 Wh Lithium-Ion,New,15.800.000
+Samsung,Core i7-1165G7,8 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch Full HD,68 Wh Lithium-Ion,New,16.400.000
+Dell,Core i5-1240P,16 GB,SSD 512GB,Intel UHD Graphics,14.0 inch FHD+,4 cell 54 Wh,New,14.300.000
+Dell,Core i5-1240P,16 GB,SSD 512GB,Intel UHD Graphics,14 inch 2.2K,4 cell 54 Wh,New,15.400.000
+Dell,Core i7-1260P,16 GB,SSD 512GB,Intel UHD Graphics,14 inch 2K,4 cell 54 Wh,New,17.100.000
+Dell,Core i5-1340P,8 GB,SSD 512GB,Intel Iris Xe Graphics,16.0 inch FHD+,4 Cell 54Wh,New,15.500.000
+Dell,Core i5-1340P,16 GB,SSD 512GB,Intel Iris Xe Graphics,16.0 inch FHD+,4 Cell 54Wh,New,16.600.000
+Dell,Core i7-1360P,16 GB,SSD 512GB,Intel Iris Xe Graphics,16 inch 2.5K,4 Cell 54Wh,New,21.000.000
+HP,Core i5-1135G7,8 GB,SSD 256GB,Intel Iris Xe Graphics,13.3 inch Full HD,3 Cell 53Whr,New,16.500.000
+HP,Core i5-1235U,8 GB,SSD 512GB,Intel Iris Xe Graphics,14 inch Full HD cảm ứng,3 Cell 43 Wh 3560 mAh Lithium-Polymer,New,18.500.000
+HP,Core i7-1250U,8 GB,SSD 512GB,Intel Iris Xe Graphics,14 inch Full HD cảm ứng,3 Cell 43 Wh 3560 mAh Lithium-Polymer,New,21.600.000
+Lenovo,Core i5-1240P,16 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch FHD+,4 Cell 39.3Wh,New,18.900.000
+HP,Core i7-1250U,8 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 Inch Full HD cảm ứng,"3Cells, 51Whr",New,20.500.000
+Dell,Core i7-11800H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,16.0 inch 3K,"3 Cell, 56WHr",New,22.900.000
+Dell,Core i7-11800H,16 GB,SSD 1TB,Intel UHD Graphics,16.0 inch 3K,"3 Cell, 56WHr",New,24.300.000
+Lenovo,Core i5-1235U,16 GB,SSD 512GB,Intel Iris Xe Graphics,14 inch Full HD,4 Cell 57Wh internal battery,New,24.900.000
+Lenovo,Core i7-1260P,16 GB,SSD 512GB,Intel Iris Xe Graphics,14 inch WUXGA,4 Cell 57Wh internal battery,New,27.500.000
+Lenovo,Core i5-1240P,16 GB,SSD 512GB,Intel Iris Xe Graphics,14 inch Full HD,57Whr,New,29.900.000
+Lenovo,Core i5-1240P,16 GB,SSD 512GB,Intel Iris Xe Graphics,14 inch 2.2K,57Whr,New,36.900.000
+HP,Core i5-1235U,8 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch WUXGA,3 Cell 51Whr,New,31.500.000
+HP,Core i7-1260P,8 GB,SSD 512GB,Intel Iris Xe Graphics,14 inch WUXGA,3 Cell 51 Wh,New,36.900.000
+Acer,AMD Ryzen 5 5600H,8 GB,SSD 256GB,Nvidia GeForce GTX 1650 4GB,15.6 inch Full HD,4 Cell 57Wh,New,12.800.000
+Acer,AMD Ryzen 5 5600H,8 GB,SSD 512GB,Nvidia GeForce GTX 1650 4GB,15.6 inch Full HD,4 Cell 57Wh,New,13.400.000
+Acer,AMD Ryzen 7-5800H,8 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,4 Cell 57Wh,New,19.100.000
+Hp,AMD Ryzen 5 5600H,8 GB,SSD 256GB,Nvidia GeForce GTX 1650 4GB,16.1 inch Full HD,4 Cell 70WHr Li-ion polymer,New,15.300.000
+Hp,AMD Ryzen 5 5600H,8 GB,SSD 512GB,Nvidia GeForce GTX 1650 4GB,16.1 inch Full HD,4 Cell 70WHr Li-ion polymer,New,16.200.000
+Hp,AMD Ryzen 5 5600H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,16.1 inch Full HD,4 Cell 70WHr Li-ion polymer,New,17.200.000
+Dell,Core i5-11260H,8 GB,SSD 256GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,"3-Cell Battery, 56WHr (Integrated)",New,15.400.000
+Dell,Core i5-11260H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,"3-Cell Battery, 56WHr (Integrated)",New,15.800.000
+Dell,Core i5-11260H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,"3-Cell Battery, 56WHr (Integrated)",New,16.400.000
+Dell,Core i7-11800H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,"3-Cell Battery, 56WHr (Integrated)",New,17.400.000
+HP,AMD Ryzen 5-7535HS,8 GB,SSD 512GB,Nvidia GeForce RTX 2050 4GB,15.6 inch Full HD,4 Cells 52Wh,New,15.590.000
+Lenovo,AMD Ryzen 5-7535HS,8 GB,SSD 512GB,Nvidia GeForce RTX 2050 4GB,15.6 inch Full HD,60 Wh,New,15.700.000
+Asus,AMD Ryzen 7-4800H,8 GB,SSD 512GB,Nvidia GeForce GTX 1650 4GB,15.6 inch Full HD,4 Cell 56WHrs,New,15.700.000
+Asus,AMD Ryzen 7-4800H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,4 Cell 56WHrs,New,17.100.000
+Asus,AMD Ryzen 7-4800H,8 GB,SSD 512GB,Nvidia GeForce GTX 1650 4GB,15.6 inch Full HD,4 Cell 56WHrs,New,17.700.000
+Asus,AMD Ryzen 7-4800H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050Ti 4GB,15.6 inch Full HD,4 Cell 56WHrs,New,18.700.000
+MSI,Core i5-12450H,8 GB,SSD 1TB,Nvidia GeForce RTX 2050 4GB,15.6 inch Full HD 144GHz,3 Cell 52.4 WHr,New,15.700.000
+MSI,Core i5-12450H,8 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,3 Cell 52.4 WHr,New,16.700.000
+MSI,Core i7-12650H,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD 144GHz,3 Cell 52.4 WHr,New,20.700.000
+HP,Core i5-12450H,8 GB,SSD 512GB,Nvidia GeForce GTX 1650 4GB,15.6 inch Full HD,3-cell 52.5 Wh Li-ion polymer,New,15.900.000
+Asus,Core i5-11300H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,4 Cell – 76Wh,New,15.900.000
+Asus,Core i7-11370H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050Ti 4GB,15.6 inch Full HD,4 Cell – 76Wh,New,17.500.000
+Acer,Core i7-11800H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,4 cell 57.5WHr,New,15.900.000
+Acer,Core i7-11800H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050Ti 4GB,15.6 inch Full HD,4 cell 57.5WHr,New,16.400.000
+Acer,Core i7-11800H,8 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,4 cell 57.5WHr,New,17.200.000
+HP,Core i5-11400H,8 GB,SSD 256GB,Nvidia GeForce RTX 3050 4GB,16.1 inch Full HD,4 Cell 70WHr Li-ion polymer,New,16.200.000
+HP,Core i5-11400H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,16.1 inch Full HD,4 Cell 70WHr Li-ion polymer,New,17.000.000
+HP,Core i7-11800H,8 GB,SSD 256GB,Nvidia GeForce RTX 3050 4GB,16.1 inch Full HD,4 Cell 70WHr Li-ion polymer,New,17.200.000
+HP,Core i7-11800H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,16.1 inch Full HD,4 Cell 70WHr Li-ion polymer,New,18.000.000
+Asus,Core i5-13500H,8 GB,SSD 512GB,Intel Iris Xe Graphics,14.5 inch 2K+,70 WHrs,New,15.000.000
+Dell,Core i5-1335U,8 GB,SSD 512GB,Intel Iris Xe Graphics,14 inch Full HD cảm ứng,4 Cell 54 Wh,New,15.900.000
+Lenovo,AMD Ryzen 5-7535HS,8 GB,SSD 512GB,Nvidia GeForce RTX 2050 4GB,15.6 inch Full HD,Integrated 45Wh,New,15.700.000
+Lenovo,Core i5-12450H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,Integrated 60Wh,New,18.900.000
+Lenovo,Core i5-13420H,8 GB,SSD 1TB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,Integrated 60Wh,New,19.500.000
+Lenovo,Ryzen 7-7840HS,8 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,Integrated 60Wh,New,20.500.000
+Dell,Core i5-13450HX,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,20.900.000
+Dell,Core i5-13450HX,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,21.600.000
+Dell,Core i5-13450HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,23.600.000
+Dell,Core i7-13650HX,8 GB,SSD 1TB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,24.900.000
+Dell,Core i7-13650HX,16 GB,SSD 1TB,Nvidia GeForce RTX 4060 8GB,15.6 inch Full HD,3 Cell 56WHrs,New,28.900.000
+Acer,Core i5-13500HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,21.500.000
+Acer,Core i5-13500HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,24.200.000
+Acer,Core i7-13700HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,25.700.000
+Acer,Core i7-13700HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,28.900.000
+Acer,Core i9-13900HX,16 GB,SSD 1TB,Nvidia GeForce RTX 4060 8GB,16 inch 2.5K,"4-cell, 90 Wh",New,32.800.000
+Dell,AMD Ryzen 5-6600H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,3 Cell 56Wh,New,17.400.000
+Dell,AMD Ryzen 5-6600H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050Ti 4GB,15.6 inch Full HD,3 Cell 56Wh,New,18.300.000
+Dell,AMD Ryzen 7-6800H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,3 Cell 56Wh,New,20.900.000
+Dell,AMD Ryzen 7-6800H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050Ti 4GB,15.6 inch Full HD,3 Cell 56Wh,New,21.800.000
+Dell,AMD Ryzen 7-6800H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,3 Cell 56Wh,New,22.800.000
+Lenovo,Core i5-11300H,8 GB,SSD 512GB,Nvidia Geforce MX450 2GB,16 inch WQXGA,"75Wh, 4 cell",New,17.900.000
+HP,Core i5-13420H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,4 Cells 70Wh,New,18.400.000
+Lenovo,Core i5-12500H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,60Wh,New,18.900.000
+Acer,Core i7-11800H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050Ti 4GB,15.6 inch Full HD,"4-cell, 59Wh",New,19.800.000
+Asus,AMD Ryzen 7-6800H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,4 cell 56WHrs,New,19.800.000
+Asus,AMD Ryzen 7-6800H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,4 cell 56WHrs,New,22.900.000
+Asus,AMD Ryzen 7-6800H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,4 cell 56WHrs,New,25.500.000
+Asus,AMD Ryzen 7-6800H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,4 Cell 56WHr,New,19.800.000
+Lenovo,Core i7-11370H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,3 Cell 45WH,New,20.500.000
+Asus,Core i7-11370H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB & Intel UHD Graphics,15.6 inch Full HD,4 Cell 76Whr,New,20.700.000
+Dell,AMD Ryzen 5 7640HS,16 GB,SSD 1TB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,3 Cells 56Wh,New,20.700.000
+Asus,AMD Ryzen 7-6800H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050Ti 4GB,15.6 inch Full HD,3 Cells 56Wh,New,20.800.000
+Acer,Core i7-11375H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050Ti 4GB,14 inch Full HD,4 Cells,New,20.900.000
+Acer,Core i7-12700H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch 2K 165GHz,4-cell 90Wh,New,22.500.000
+Acer,Core i7-12700H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch 2K 165GHz,4-cell 90Wh,New,25.500.000
+Acer,Core i5-13500H,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16.0 inch FHD+,4 Cell 90 WH,New,22.900.000
+Acer,Core i5-13500H,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16.0 inch FHD+,4 Cell 90 WH,New,24.900.000
+Asus,AMD Ryzen 7 5800HS,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,14 inch Full HD,"4-cell, 76WHrs",New,22.900.000
+Dell,Core i7-12700H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,16 inch QHD,"6 cells, 81-Wh",New,22.900.000
+Dell,Core i7-12700H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050Ti 4GB,16 inch QHD,"6 cells, 81-Wh",New,23.400.000
+Dell,Core i7-12700H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,16 inch QHD+,"6 cells, 81-Wh",New,24.500.000
+Lenovo,AMD Ryzen 5 5600H,8 GB,SSD 256GB,Nvidia GeForce GTX 1650 4GB,17.3 inch Full HD,80 Wh Lithium-Ion,New,23.200.000
+Lenovo,Core i7-12700H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050Ti 4GB,16 inch WQXGA,"4 cells, 80Wh",New,24.200.000
+Lenovo,Core i7-12700H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050Ti 4GB,16 inch WQXGA,"4 cells, 80Wh",New,26.900.000
+Acer,Core i7-11800H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,16 inch WQXGA,"4-cell, 99 Wh",New,24.500.000
+Lenovo,AMD Ryzen 7 7735H,16 GB,SSD 512GB,Nvidia GeForce RTX 4060 8GB,15.6 inch Full HD,4 cell 71whr Super Rapid Charge,New,27.500.000
+Lenovo,AMD Ryzen 7 7840H,16 GB,SSD 512GB,Nvidia GeForce RTX 4060 8GB,15.6 inch Full HD,"4 cell 80whr, Super Rapid Charge",New,27.900.000
+Asus,Core i7-12700H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,16 inch 2.5K,"4-cell, 90WHrs Li-ion",New,29.900.000
+Acer,Core i7-12700H,16 GB,SSD 512GB,Nvidia GeForce GTX 3070Ti 8GB,15.6 inch QHD,"4 cell, 90Whr",New,29.900.000
+Lenovo,Core i7-14650HX,16 GB,SSD 1TB,Nvidia GeForce RTX 4060 8GB,16 inch 2.5K,"80whr, Super Rapid Charge",New,33.990.000
+Asus,Core i5-13500H,8 GB,SSD 512GB,Intel Iris Xe Graphics,14.5 inch 2K+,70 WHrs,New,15.000.000
+Dell,Core i5-1335U,8 GB,SSD 512GB,Intel Iris Xe Graphics,14 inch Full HD cảm ứng,4 Cell 54 Wh,New,15.900.000
+Lenovo,AMD Ryzen 5-7535HS,8 GB,SSD 512GB,Nvidia GeForce RTX 2050 4GB,15.6 inch Full HD,Integrated 45Wh,New,15.700.000
+Lenovo,Core i5-12450H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,Integrated 60Wh,New,18.900.000
+Lenovo,Core i5-13420H,8 GB,SSD 1TB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,Integrated 60Wh,New,19.500.000
+Lenovo,Ryzen 7-7840HS,8 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,Integrated 60Wh,New,20.500.000
+Dell,Core i5-13450HX,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,20.900.000
+Dell,Core i5-13450HX,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,21.600.000
+Dell,Core i5-13450HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,23.600.000
+Dell,Core i7-13650HX,8 GB,SSD 1TB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,24.900.000
+Dell,Core i7-13650HX,16 GB,SSD 1TB,Nvidia GeForce RTX 4060 8GB,15.6 inch Full HD,3 Cell 56WHrs,New,28.900.000
+Acer,Core i5-13500HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,21.500.000
+Acer,Core i5-13500HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,24.200.000
+Acer,Core i7-13700HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,25.700.000
+Acer,Core i7-13700HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,28.900.000
+Acer,Core i9-13900HX,16 GB,SSD 1TB,Nvidia GeForce RTX 4060 8GB,16 inch 2.5K,"4-cell, 90 Wh",New,32.800.000
+Asus,AMD Ryzen 9 6900HS,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch WQHD,"4-cell, 90WHrs Li-ion",New,38.500.000
+Lenovo,Core i9-14900HX,16 GB,SSD 1TB,Nvidia GeForce RTX 4060 8GB,16 inch 2.5K,"80Whr, 3-Cell",New,39.990.000
+Lenovo,Core i7-13700HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4060 8GB,16 inch WQXGA,6-cell 80 Whr,New,43.000.000
+Alienware,Core i7-12700H,16 GB,SSD 1TB,Nvidia GeForce RTX 3060 6GB,15.6 inch QHD,3 Cell 56WHr Li-ion polymer,New,51.200.000
+Dell,Core i3-1115G4,4 GB,SSD 256GB,Intel UHD Graphics,14 inch HD,"3 Cell, 41Whr",New,11.200.000
+Dell,Core i5-11300H,8 GB,SSD 256GB,Intel UHD Graphics,15.6 inch Full HD,41Wh,New,11.500.000
+Dell,Core i5-11300H,8 GB,SSD 512GB,Intel UHD Graphics,15.6 inch Full HD,41Wh,New,12.000.000
+Dell,Core i5-11300H,16 GB,SSD 256GB,Intel UHD Graphics,15.6 inch Full HD,41Wh,New,12.100.000
+Dell,Core i5-11300H,16 GB,SSD 512GB,Intel UHD Graphics,15.6 inch Full HD,41Wh,New,12.600.000
+Dell,AMD Ryzen 5 5500U,8 GB,SSD 256GB,AMD Radeon Graphics,15.6 inch Full HD,4 Cells/ 54Whs,New,11.500.000
+Dell,AMD Ryzen 5 5500U,16 GB,SSD 512GB,AMD Radeon Graphics,15.6 inch Full HD,4 Cells/ 54Whs,New,13.500.000
+Dell,AMD Ryzen 5 5500U,8 GB,SSD 256GB,AMD Radeon Graphics,15.6 inch Full HD cảm ứng,4 Cells/ 54Whs,New,15.700.000
+Dell,AMD Ryzen 5 5500U,16 GB,SSD 512GB,AMD Radeon Graphics,15.6 inch Full HD cảm ứng,4 Cells/ 54Whs,New,16.700.000
+Dell,AMD Ryzen R5-5625U,8 GB,SSD 512GB,AMD Radeon Graphics,16.0 inch FHD+,4 Cell 54WHr,New,12.600.000
+Dell,AMD Ryzen R5-5625U,16 GB,SSD 512GB,AMD Radeon Graphics,16.0 inch FHD+,4 Cell 54WHr,New,13.000.000
+Surface,Core i5-1035G7,8 GB,SSD 256GB,Intel Iris Plus Graphics,13.5 inch 2K+,3 cell,New,13.800.000
+Dell,Core i5-11320H,16 GB,SSD 512GB,Intel Iris Xe Graphics,14 inch Full HD,4 cell 54 Whr,New,15.400.000
+Lenovo,Core i5-1235U,8 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,3 Cell 45WHr,New,16.900.000
+HP,Core i5-10310U,16 GB,SSD 256GB,Intel UHD Graphics,14 inch Full HD,"3 cell, 56 Wh",New,11.600.000
+Dell,Core i7-11800H,32 GB,SSD 512GB,Nvidia Quadro T1200 4GB,15.6 inch Full HD,6-cell 86 Whr,New,24.500.000
+Dell,Core i7-11800H,32 GB,SSD 512GB,Nvidia RTX A2000 4GB,15.6 inch Full HD,6-cell 86 Whr,New,26.900.000
+Dell,Core i7-11850H,32 GB,SSD 512GB,Nvidia RTX A2000 4GB,15.6 inch Full HD,"6 Cell, 95 Wh",New,25.900.000
+Dell,Core i7-11850H,32 GB,SSD 512GB,Nvidia RTX A3000 12GB,15.6 inch Full HD,"6 Cell, 95 Wh",New,26.900.000
+Dell,Xeon 11855M,32 GB,SSD 512GB,Nvidia RTX A3000 12GB,15.6 inch Full HD,"6 Cell, 95 Wh",New,27.300.000
+Dell,Core i7-11850H,32 GB,SSD 1TB,Nvidia RTX A4000 16GB,15.6 inch Full HD,"6 Cell, 95 Wh",New,27.900.000
+Dell,Core i7-11800H,32 GB,SSD 512GB,Nvidia RTX A2000 4GB,17.0 inch FHD+,97 Wh Lithium-Ion,New,31.500.000
+Dell,Core i7-12850HX,32 GB,SSD 1TB,NVIDIA RTX A1000 4GB,16.0 inch FHD+,83 WHr,New,35.500.000
+Dell,Core i7-12850HX,32 GB,SSD 512GB,Nvidia RTX A2000 8GB,16.0 inch FHD+,83 WHr,New,49.000.000
+Dell,Core i7-12850HX,32 GB,SSD 512GB,Nvidia RTX A3000 12GB,16.0 inch FHD+,83 WHr,New,54.000.000
+Lenovo,Core i7-11850H,32 GB,SSD 512GB,Nvidia RTX A2000 4GB,15.6 inch Full HD,83 WHr,New,25.000.000
+Dell,Core i7-12800H,32 GB,SSD 512GB,NVIDIA RTX A1000 4GB,15.6 inch FHD+,"6 Cell, 86 Wh",New,38.500.000
+Dell,Core i7-11850H,64 GB,SSD 1TB,Nvidia RTX A3000 12GB,17.3 inch Full HD 220 nits,95Wh,New,40.600.000
+Lenovo,Core i7-12850HX,32 GB,SSD 512GB,Nvidia RTX A2000 8GB,16 inch WQXGA,94 Wh Lithium-Ion,New,53.000.000
+Dell,Core i7-12850HX,32 GB,SSD 512GB,Nvidia RTX A3000 12GB,17.3 inch Full HD,6 Cell 83WHr Lithium Ion,New,55.900.000
+Dell,Core i5-10310U,8 GB,SSD 256GB,Intel UHD Graphics,13.3 inch Full HD,4 Cell 52WHr ExpressCharge Capable Battery,New,8.800.000
+Asus,Core i5-13500H,8 GB,SSD 512GB,Intel Iris Xe Graphics,14.5 inch 2K+,70 WHrs,New,15.000.000
+Dell,Core i5-1335U,8 GB,SSD 512GB,Intel Iris Xe Graphics,14 inch Full HD cảm ứng,4 Cell 54 Wh,New,15.900.000
+Lenovo,AMD Ryzen 5-7535HS,8 GB,SSD 512GB,Nvidia GeForce RTX 2050 4GB,15.6 inch Full HD,Integrated 45Wh,New,15.700.000
+Lenovo,Core i5-12450H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,Integrated 60Wh,New,18.900.000
+Lenovo,Core i5-13420H,8 GB,SSD 1TB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,Integrated 60Wh,New,19.500.000
+Lenovo,Ryzen 7-7840HS,8 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,Integrated 60Wh,New,20.500.000
+Dell,Core i5-13450HX,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,20.900.000
+Dell,Core i5-13450HX,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,21.600.000
+Dell,Core i5-13450HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,23.600.000
+Dell,Core i7-13650HX,8 GB,SSD 1TB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,24.900.000
+Dell,Core i7-13650HX,16 GB,SSD 1TB,Nvidia GeForce RTX 4060 8GB,15.6 inch Full HD,3 Cell 56WHrs,New,28.900.000
+Acer,Core i5-13500HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,21.500.000
+Acer,Core i5-13500HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,24.200.000
+Acer,Core i7-13700HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,25.700.000
+Acer,Core i7-13700HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,28.900.000
+Acer,Core i9-13900HX,16 GB,SSD 1TB,Nvidia GeForce RTX 4060 8GB,16 inch 2.5K,"4-cell, 90 Wh",New,32.800.000
+Asus,Core i3-1115G4,8 GB,SSD 256GB,Intel UHD Graphics,15.6 inch Full HD,2 cell 37Wh,New,9.500.000
+Asus,Core i3-1005G1,8 GB,SSD 256GB,Intel UHD Graphics,15.6 inch HD,37Wh,New,10.500.000
+Asus,Core i3-1005G1,8 GB,SSD 256GB,Intel UHD Graphics,15.6 inch Full HD,37Wh,New,11.000.000
+Asus,Core i3-1115G4,8 GB,SSD 256GB,Intel UHD Graphics,15.6 inch HD,37Wh,New,11.200.000
+Asus,Core i3-1115G4,8 GB,SSD 256GB,Intel UHD Graphics,15.6 inch Full HD,37Wh,New,11.700.000
+Dell,Core i5-1135G7,16 GB,SSD 512GB,Intel Iris Xe Graphics,14 inch Full HD,"4Cell, 53WHr",New,11.900.000
+Dell,Core i5-1135G7,8 GB,SSD 512GB,Intel Iris Xe Graphics,14 inch Full HD,"4Cell, 53WHr",New,14.500.000
+Dell,Core i5-1135G7,8 GB,SSD 512GB,Nvidia GeForce MX330 2GB,14 inch Full HD,"4Cell, 53WHr",New,15.000.000
+Dell,Core i7-1165G7,8 GB,SSD 512GB,Intel Iris Xe Graphics,14 inch Full HD,"4Cell, 53WHr",New,15.700.000
+Dell,Core i7-1165G7,8 GB,SSD 512GB,Nvidia GeForce MX330 2GB,14 inch Full HD,"4Cell, 53WHr",New,16.200.000
+Dell,Core i5-11300H,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch 2K,"4-cell Li-ion, 54 Wh",New,12.200.000
+Dell,Core i7-11390H,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch 2K,"4-cell Li-ion, 54 Wh",New,14.200.000
+Dell,Core i5-11320H,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch 2K,"4-cell Li-ion, 54 Wh",New,14.500.000
+Dell,Core i7-11370H,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch 2K,"4-cell Li-ion, 54 Wh",New,16.000.000
+Lenovo,AMD Ryzen 5 Pro 5650U,16 GB,SSD 256GB,AMD Radeon Graphics,14 inch Full HD,3 Cells 50 WHr,New,14.200.000
+Dell,AMD Ryzen 5 5500U,8 GB,SSD 256GB,AMD Radeon Graphics,14 inch Full HD,3 cells,New,15.900.000
+Dell,Core i5-10300H,8 GB,SSD 256GB,Intel UHD Graphics,15.6 inch Full HD,3 Cell 56WHr,New,17.900.000
+Asus,Core i5-12500H,8 GB,SSD 512GB,Intel Iris Xe Graphics,15.6 inch Full HD,70 Wh,New,19.890.000
+Asus,Core i5-12500H,8 GB,SSD 512GB,Intel Iris Xe Graphics,15.6 inch Full HD,70 Wh,New,19.890.000
+Lenovo,Core i3-1005G1,4 GB,SSD 128GB,Intel UHD Graphics,14 inch Full HD,2 cell 35 Wh,New,7.900.000
+Asus,Core i3-1005G1,4 GB,SSD 128GB,Intel UHD G1,14 inch Full HD,42Wh,New,9.500.000
+Dell,Core i5-1135G7,8 GB,SSD 512GB,Intel Iris Xe Graphics,15.6 inch Full HD cảm ứng,Cell-41Wh,New,10.300.000
+Dell,Core i5-1135G7,8 GB,SSD 256GB,Intel Iris Xe Graphics,15.6 inch Full HD cảm ứng,Cell-41Wh,New,11.900.000
+Dell,Core i5-1135G7,8 GB,SSD 256GB,Nvidia GeFore MX350 2GB GDDR5,15.6 inch Full HD cảm ứng,Cell-41Wh,New,11.900.000
+Dell,AMD Ryzen 3-3250U,8 GB,SSD 256GB,AMD Radeon Graphics,15.6 inch Full HD,3Cell 42Whrs,New,10.900.000
+Dell,Core i5-11300H,16 GB,SSD 512GB,Intel Iris Xe Graphics,14 inch Full HD,"4-cell, 54 WHr polymer, integrated",New,11.800.000
+Dell,Core i5-11300H,16 GB,SSD 512GB,Intel Iris Xe Graphics,14 inch Full HD,"4-cell, 54 WHr polymer, integrated",New,14.800.000
+Dell,Core i7-1195G7,16 GB,SSD 512GB,Intel Iris Xe Graphics,14 inch Full HD,"4-cell, 54 WHr polymer, integrated",New,16.100.000
+Dell,Core i7-11390H,16 GB,SSD 512GB,Intel Iris Xe Graphics,14 inch Full HD,"4-cell, 54 WHr polymer, integrated",New,17.300.000
+Dell,AMD Ryzen 5 3450U,8 GB,SSD 256GB,AMD Radeon Graphics,15.6 inch Full HD cảm ứng,3Cell 42Whrs,New,11.900.000
+Dell,AMD Ryzen 5 4500U,16 GB,SSD 512GB,AMD Radeon Graphics,14 inch Full HD,3 cell 40wh,New,12.200.000
+Dell,Core i5-1135G7,16 GB,SSD 512GB,Intel Iris Xe Graphics,15.6 inch Full HD,4 Cell – 51Wh,New,12.300.000
+Dell,Core i5-1135G7,8 GB,SSD 256GB,Intel Iris Xe Graphics,15.6 inch Full HD,4 Cell – 51Wh,New,15.300.000
+Dell,Core i5-1135G7,8 GB,SSD 256GB,Nvidia GeForce MX330 2GB,15.6 inch Full HD,4 Cell – 51Wh,New,16.000.000
+Dell,Core i7-1165G7,8 GB,SSD 256GB,Intel Iris Xe Graphics,15.6 inch Full HD,4 Cell – 51Wh,New,17.300.000
+Dell,Core i7-1165G7,8 GB,SSD 256GB,Nvidia GeForce MX330 2GB,15.6 inch Full HD,4 Cell – 51Wh,New,18.000.000
+Acer,AMD Ryzen 7-5700U,8 GB,SSD 512GB,AMD Radeon Graphics,14 inch Full HD,3 Cell 48Whr,New,13.900.000
+HP,Core i5-1135G7,8 GB,SSD 256GB,Intel Iris Xe Graphics,15.6 inch Full HD,"3-cell, 41 Wh Li-ion",New,14.500.000
+Dell,AMD Ryzen 5 5500U,8 GB,SSD 256GB,AMD Radeon Graphics,15.6 inch Full HD,"4-cell, 54 WHr, Polymer",New,14.800.000
+Dell,AMD Ryzen 5 5500U,8 GB,SSD 512GB,AMD Radeon Graphics,15.6 inch Full HD,"4-cell, 54 WHr, Polymer",New,15.500.000
+Dell,AMD Ryzen 5 5500U,16 GB,SSD 256GB,AMD Radeon Graphics,15.6 inch Full HD,"4-cell, 54 WHr, Polymer",New,15.500.000
+Dell,AMD Ryzen 5 5500U,16 GB,SSD 512GB,AMD Radeon Graphics,15.6 inch Full HD,"4-cell, 54 WHr, Polymer",New,16.200.000
+Lenovo,Intel Pentium Silver N5030,4 GB,SSD 256GB,Intel UHD Graphics 605,15.6 inch HD,"2 cell, 30Wh",New,6.890.000
+Dell,AMD Ryzen 5 5500U,8 GB,SSD 256GB,AMD Radeon Graphics,14 inch Full HD,"4-Cell Battery, 54WHr",New,14.400.000
+HP,Core i3-1125G4,8 GB,SSD 256GB,Intel UHD Graphics,14 inch Full HD,"3-cell, 43 Wh Li-ion polymer",New,14.500.000
+Asus,AMD Ryzen 5 5500U,8 GB,SSD 256GB,Nvidia Geforce MX450 2GB,14 inch Full HD,"3-cell, 43 Wh Li-ion polymer",New,14.800.000
+Asus,Core i5-13500H,8 GB,SSD 512GB,Intel Iris Xe Graphics,14.5 inch 2K+,70 WHrs,New,15.000.000
+Dell,Core i5-1335U,8 GB,SSD 512GB,Intel Iris Xe Graphics,14 inch Full HD cảm ứng,4 Cell 54 Wh,New,15.900.000
+Lenovo,AMD Ryzen 5-7535HS,8 GB,SSD 512GB,Nvidia GeForce RTX 2050 4GB,15.6 inch Full HD,Integrated 45Wh,New,15.700.000
+Lenovo,Core i5-12450H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,Integrated 60Wh,New,18.900.000
+Lenovo,Core i5-13420H,8 GB,SSD 1TB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,Integrated 60Wh,New,19.500.000
+Lenovo,Ryzen 7-7840HS,8 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,Integrated 60Wh,New,20.500.000
+Dell,Core i5-13450HX,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,20.900.000
+Dell,Core i5-13450HX,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,21.600.000
+Dell,Core i5-13450HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,23.600.000
+Dell,Core i7-13650HX,8 GB,SSD 1TB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,24.900.000
+Dell,Core i7-13650HX,16 GB,SSD 1TB,Nvidia GeForce RTX 4060 8GB,15.6 inch Full HD,3 Cell 56WHrs,New,28.900.000
+Acer,Core i5-13500HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,21.500.000
+Acer,Core i5-13500HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,24.200.000
+Acer,Core i7-13700HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,25.700.000
+Acer,Core i7-13700HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,28.900.000
+Acer,Core i9-13900HX,16 GB,SSD 1TB,Nvidia GeForce RTX 4060 8GB,16 inch 2.5K,"4-cell, 90 Wh",New,32.800.000
+Dell,AMD Ryzen R5-5625U,8 GB,SSD 512GB,AMD Radeon Graphics,14 inch FHD+ cảm ứng,54 Wh,New,14.800.000
+Lenovo,AMD Ryzen 5 5600H,8 GB,SSD 512GB,AMD Radeon Graphics,16 inch WQXGA,"4-Cell, 75Wh",New,16.300.000
+Samsung,Core i5-1135G7,8 GB,SSD 256GB,Intel Iris Xe G7,13.3 Inch Full HD cảm ứng,4 Cell – 54Wh,New,16.900.000
+Dell,Core i5-1135G7,8 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 Inch Full HD cảm ứng,4Cell 60WHrs,New,18.300.000
+Dell,Core i5-10210U,8 GB,SSD 256GB,Intel UHD Graphics,14 inch Full HD,4-Cell 52 Wh,New,22.300.000
+Acer,Intel Celeron Processor N4020,4 GB,SSD 128GB,Intel UHD Graphics,14 inch Full HD,48Wh,New,9.900.000
+Dell,AMD Ryzen 3-3250U,8 GB,SSD 128GB,AMD Radeon Graphics,15.6 inch Full HD,"3 Cell, 41Wh",New,10.900.000
+Dell,Intel Celeron Processor N4020,4 GB,SSD 128GB,Intel UHD Graphics,15.6 inch HD,"3-Cell, 42 WHr",New,10.900.000
+Acer,AMD Ryzen 3-3200U,4 GB,SSD 128GB,AMD Radeon Vega 3 Graphics,15.6 inch Full HD,48Wh,New,11.900.000
+Dell,AMD Ryzen 5 4500U,8 GB,SSD 256GB,AMD Radeon Graphics,15.6 inch Full HD,51Wh,New,14.500.000
+Dell,Core i3-1115G4,4 GB,HDD 1TB,Intel Iris Xe Graphics,15.6 inch Full HD,3 Cell – 42Wh,New,15.200.000
+Acer,Core i3-1135G4,8 GB,SSD 256GB,Intel UHD Graphics,14 inch Full HD,48 Wh,New,15.300.000
+Acer,AMD Ryzen 5 4500U,8 GB,SSD 512GB,AMD Radeon Graphics,14 inch Full HD,3 cell 48 Wh Pin liền,New,16.500.000
+Dell,Core i5-1135G7,8 GB,SSD 256GB,Intel Iris Xe Graphics,15.6 inch Full HD cảm ứng,53 Wh Lithium-Ion,New,16.900.000
+Dell,Core i5-1135G7,8 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch HD,3 Cell 40WHr,New,17.900.000
+Dell,Core i7-1165G7,8 GB,SSD 256GB,Intel Iris Xe Graphics,13.3 inch Full HD,52Wh,New,15.500.000
+Asus,Core i5-11400H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,"48WHrs, 3-cell Li-ion",New,15.800.000
+Lenovo,AMD Ryzen 5-7645HX,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 6GB,16 inch 2.5K,4 Cell 80 WHr,New,24.500.000
+Lenovo,AMD Ryzen 7-5800H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,16 inch WQXGA,4 Cell 80 WHr,New,29.900.000
+Asus,Core i7-12700H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,"4-cell, 56WHrs",New,25.500.000
+Lenovo,AMD Ryzen 7-5800H,8 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch WQXGA,4 Cell 71 WHr,New,33.590.000
+Asus,AMD Ryzen 7-4800H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,17.3 inch Full HD,90Whr,New,34.690.000
+Lenovo,Core i7-12700H,16 GB,SSD 1TB,Nvidia GeForce RTX 3060 6GB,16 inch WQXGA,80WHrs – 4 Cells,New,38.590.000
+Lenovo,AMD Ryzen 7-5800H,16 GB,SSD 512GB,Nvidia GeForce RTX 3070 8GB,16 inch WQXGA,4 Cell 80 WHr,New,39.590.000
+HP,Core i7-11800H,16 GB,SSD 1TB,Nvidia GeForce RTX 3070 8GB,16.1 inch QHD,"4-cell, 70 Wh Li-ion polymer",New,41.590.000
+Asus,Core i5-13500H,8 GB,SSD 512GB,Intel Iris Xe Graphics,14.5 inch 2K+,70 WHrs,New,15.000.000
+Dell,Core i5-1335U,8 GB,SSD 512GB,Intel Iris Xe Graphics,14 inch Full HD cảm ứng,4 Cell 54 Wh,New,15.900.000
+Lenovo,AMD Ryzen 5-7535HS,8 GB,SSD 512GB,Nvidia GeForce RTX 2050 4GB,15.6 inch Full HD,Integrated 45Wh,New,15.700.000
+Lenovo,Core i5-12450H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,Integrated 60Wh,New,18.900.000
+Lenovo,Core i5-13420H,8 GB,SSD 1TB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,Integrated 60Wh,New,19.500.000
+Lenovo,Ryzen 7-7840HS,8 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,Integrated 60Wh,New,20.500.000
+Dell,Core i5-13450HX,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,20.900.000
+Dell,Core i5-13450HX,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,21.600.000
+Dell,Core i5-13450HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,23.600.000
+Dell,Core i7-13650HX,8 GB,SSD 1TB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,24.900.000
+Dell,Core i7-13650HX,16 GB,SSD 1TB,Nvidia GeForce RTX 4060 8GB,15.6 inch Full HD,3 Cell 56WHrs,New,28.900.000
+Acer,Core i5-13500HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,21.500.000
+Acer,Core i5-13500HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,24.200.000
+Acer,Core i7-13700HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,25.700.000
+Acer,Core i7-13700HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,28.900.000
+Acer,Core i9-13900HX,16 GB,SSD 1TB,Nvidia GeForce RTX 4060 8GB,16 inch 2.5K,"4-cell, 90 Wh",New,32.800.000
+Asus,AMD Ryzen 7-5800H,16 GB,SSD 1TB,Nvidia GeForce RTX 3080 10GB GDDR6,15.6 inch Full HD,"4-cell Li-ion, 90WHrs, 4S1P",New,41.690.000
+Asus,AMD Ryzen R9-5900HX,32 GB,SSD 1TB,Nvidia GeForce RTX 3080 10GB GDDR6,15.6 inch Full HD,"4-cell Li-ion, 90WHrs, 4S1P",New,44.690.000
+Lenovo,AMD Ryzen 7-6800H,16 GB,SSD 1TB,Nvidia GeForce GTX 3070Ti 8GB,16 inch WQXGA,4 Cell 80 WHr,New,46.590.000
+Acer,Core i9-14900HX,16 GB,SSD 1TB,Nvidia GeForce RTX 4060 8GB,16 inch 2.5K,"4 cell, 90Whr",New,37.000.000
+HP,AMD Ryzen 5 7520U,16 GB,SSD 256GB,AMD Radeon Graphics,15.6 inch Full HD,3-cell,New,11.900.000
+Asus,Core i5-12450H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,4 Cell 76Whr,New,16.900.000
+Asus,Core i5-12450H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,4 Cell 76Whr,New,17.900.000
+Lenovo,AMD Ryzen 9 7945HX,16 GB,SSD 1TB,Nvidia GeForce RTX 4060 8GB,16 inch 2.5K,"4-Cell, 80 Wh",New,33.900.000
+Msi,Core i5-11400H,8 GB,SSD 512GB,NVIDIA GEFORCE RTX 1650 4GB,15.6 inch Full HD,3 cell 51Wh,New,13.100.000
+Msi,Core i5-11400H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,3 cell 51Wh,New,13.800.000
+Msi,Core i5-11400H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050Ti 4GB,15.6 inch Full HD,3 cell 51Wh,New,14.400.000
+MSI,Core i7-7700HQ,8 GB,HDD 1TB,Nvidia GeForce GTX 1050 2GB,15.6 inch Full HD,3 cell 51Wh,New,17.000.000
+MSI,Core i7-9750H,16 GB,HDD 1TB + SSD 512GB,Nvidia RTX 2070 8GB,17.3 inch Full HD,3 cell 51Wh,New,49.990.000
+MSI,Core i7-9750H,16 GB,SSD 512GB,Nvidia RTX 2070 MaxQ 8GB,17.3 inch Full HD,3 cell 51Wh,New,57.990.000
+MSI,Core i7-9750H,32 GB,HDD 1TB + SSD 512GB,Nvidia RTX 2070 8GB,17.3 inch 4K,3 cell 51Wh,New,82.990.000
+Msi,Core i5-10500H,8 GB,SSD 256GB,Nvidia GeForce GTX 1650 4GB,15.6 inch Full HD,"3 cell, 51Wh",New,11.400.000
+Msi,Core i5-10500H,16 GB,SSD 256GB,Nvidia GeForce GTX 1650 4GB,15.6 inch Full HD,"3 cell, 51Wh",New,12.800.000
+Msi,Core i5-10500H,8 GB,SSD 256GB,Nvidia GeForce GTX 1650 4GB,15.6 inch Full HD,"3 cell, 51Wh",New,13.800.000
+Msi,Core i5-10500H,16 GB,SSD 256GB,Nvidia GeForce GTX 1650 4GB,15.6 inch Full HD,"3 cell, 51Wh",New,14.300.000
+Lenovo,Core i5-1130G7,16 GB,SSD 512GB,Intel Iris Xe Graphics,13 inch 2K,48 Wh Lithium-Ion,New,34.600.000
+Dell,Core i7-11800H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,17.0 inch FHD+,97 Wh Lithium-Ion,New,45.200.000
+Dell,Core i5-10310U,8 GB,SSD 256GB,Intel HD Graphics 620,14 inch Full HD,4 Cell 68Whr,New,8.200.000
+Dell,Core i5-10310U,16 GB,SSD 256GB,Intel HD Graphics 620,14 inch Full HD,4 Cell 68Whr,New,8.600.000
+Acer,Core i3-1115G4,4 GB,SSD 128GB,Intel UHD Graphics,15.6 inch Full HD,48Wh (5 – 7 tiếng),New,9.900.000
+Asus,Core i3-1115G4,8 GB,SSD 128GB,Intel Iris Xe Graphics,14 inch Full HD,3 cell,New,10.300.000
+Asus,Core i3-1115G4,8 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,3 cell,New,10.900.000
+Asus,Core i5-1135G7,8 GB,SSD 128GB,Intel Iris Xe Graphics,14 inch Full HD,3 cell,New,13.700.000
+Asus,Core i5-1135G7,8 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,3 cell,New,14.300.000
+Dell,Intel Celeron Processor N4020,4 GB,SSD 128GB,Intel UHD Graphics 605,15.6 inch HD,"3-Cell, 42 WHr",New,10.300.000
+Dell,Intel Pentium Silver N5030,4 GB,SSD 128GB,Intel UHD Graphics 605,15.6 inch HD,"3-Cell, 42 WHr",New,11.300.000
+Dell,Core i5-1135G7,8 GB,SSD 256GB,Intel Iris Xe Graphics,15.6 inch Full HD,3 cell 42Wh,New,10.900.000
+Dell,Core i5-1135G7,8 GB,SSD 256GB,Nvidia GeForce MX330 2GB,15.6 inch Full HD,3 cell 42Wh,New,11.900.000
+HP,Core i3-1115G4,8 GB,SSD 256GB,Intel UHD Graphics,15.6 inch Full HD,6 Cells,New,12.300.000
+Dell,Core i3-1115G4,8 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch HD cảm ứng,3 Cell 40WHr,New,13.300.000
+Dell,Core i5-1135G7,16 GB,SSD 512GB,Intel Iris Xe Graphics,14 inch Full HD,"3-cell, 42 WHr",New,18.500.000
+Dell,Core i5-1135G7,8 GB,SSD 512GB,Intel Iris Xe Graphics,15.6 inch Full HD,3 cell 41Whr,New,11.900.000
+Asus,Core i5-13500H,8 GB,SSD 512GB,Intel Iris Xe Graphics,14.5 inch 2K+,70 WHrs,New,15.000.000
+Dell,Core i5-1335U,8 GB,SSD 512GB,Intel Iris Xe Graphics,14 inch Full HD cảm ứng,4 Cell 54 Wh,New,15.900.000
+Lenovo,AMD Ryzen 5-7535HS,8 GB,SSD 512GB,Nvidia GeForce RTX 2050 4GB,15.6 inch Full HD,Integrated 45Wh,New,15.700.000
+Lenovo,Core i5-12450H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,Integrated 60Wh,New,18.900.000
+Lenovo,Core i5-13420H,8 GB,SSD 1TB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,Integrated 60Wh,New,19.500.000
+Lenovo,Ryzen 7-7840HS,8 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,Integrated 60Wh,New,20.500.000
+Dell,Core i5-13450HX,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,20.900.000
+Dell,Core i5-13450HX,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,21.600.000
+Dell,Core i5-13450HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,23.600.000
+Dell,Core i7-13650HX,8 GB,SSD 1TB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,24.900.000
+Dell,Core i7-13650HX,16 GB,SSD 1TB,Nvidia GeForce RTX 4060 8GB,15.6 inch Full HD,3 Cell 56WHrs,New,28.900.000
+Acer,Core i5-13500HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,21.500.000
+Acer,Core i5-13500HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,24.200.000
+Acer,Core i7-13700HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,25.700.000
+Acer,Core i7-13700HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,28.900.000
+Acer,Core i9-13900HX,16 GB,SSD 1TB,Nvidia GeForce RTX 4060 8GB,16 inch 2.5K,"4-cell, 90 Wh",New,32.800.000
+Lenovo,AMD Ryzen 5-4600H,8 GB,SSD 512GB,Nvidia GeForce GTX 1650Ti 4GB,15.6 inch Full HD,4 Cell,New,18.800.000
+Dell,AMD Ryzen 7-5800H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,56WHr,New,18.500.000
+HP,Core i7-12650H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050Ti 4GB,15.6 inch Full HD,"4 Cells, 70 Wh",New,22.900.000
+Acer,Core i7-1165G7,8 GB,SSD 256GB,AMD Radeon Graphics,14 inch Full HD,3 Cell 48Whr,New,14.900.000
+Asus,AMD Ryzen 5-4600H,16 GB,SSD 512GB,Nvidia Geforce GTX 1660Ti 6GB,15.6 inch Full HD,3 Cell 48WHr,New,13.900.000
+Asus,AMD Ryzen 7-5800H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,3 Cell 48WHr,New,18.900.000
+ASUS,AMD Ryzen 7-4800H,16 GB,SSD 512GB,Nvidia RTX 2060 6GB,15.6 inch Full HD,4 Cell 90WHrs,New,15.500.000
+HP,Core i3-1115G4,4 GB,SSD 128GB,Intel UHD Graphics,14 inch HD cảm ứng,3 Cell,New,10.900.000
+Acer,Core i5-12500H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050Ti 4GB,15.6 inch Full HD,4 Cell – 57 Wh,New,20.400.000
+Acer,Core i7-12700H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050Ti 4GB,15.6 inch Full HD,4 Cell – 57 Wh,New,22.400.000
+Acer,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,4 Cell – 57 Wh,New,23.000.000
+Asus,AMD Ryzen 7-4800H,8 GB,SSD 512GB,Nvidia GeForce GTX 1650Ti 4GB,15.6 inch Full HD,3 Cell 48WHr,New,15.300.000
+Asus,AMD Ryzen 5-4600H,8 GB,SSD 512GB,Nvidia GeForce GTX 1650 4GB,15.6 inch Full HD,3 Cell 48WHr,New,13.900.000
+Lenovo,AMD Ryzen 7-4800H,8 GB,SSD 512GB,Nvidia GeForce GTX 1650 4GB,15.6 inch Full HD,4 Cell 60Whr,New,16.900.000
+Lenovo,AMD Ryzen 7 7735H,16 GB,SSD 512GB,Nvidia GeForce RTX 4060 8GB,15.6 inch 2K 165GHz,"4cell, 71whr, Super Rapid Charge",New,27.200.000
+Dell,Core i5-1235U,8 GB,SSD 512GB,Intel Iris Xe Graphics,15.6 inch Full HD,3 cell,New,10.900.000
+Dell,Core i5-1235U,8 GB,SSD 512GB,Intel Iris Xe Graphics,15.6 inch Full HD,3 cell,New,12.700.000
+Dell,Core i5-1235U,16 GB,SSD 512GB,Intel Iris Xe Graphics,15.6 inch Full HD,3 cell,New,13.200.000
+Acer,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050Ti 4GB,15.6 inch Full HD,4-cell,New,17.800.000
+Acer,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050Ti 4GB,15.6 inch Full HD 165GHz,4-cell,New,18.400.000
+Acer,AMD Ryzen 7-6800H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,4-cell,New,19.800.000
+Acer,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,4-cell,New,22.400.000
+Dell,Core i5-11320H,16 GB,SSD 512GB,Intel UHD Graphics,15.6 inch Full HD,41Wh,New,13.500.000
+Dell,Core i7-11390H,16 GB,SSD 512GB,Intel UHD Graphics,15.6 inch Full HD,41Wh,New,14.500.000
+Dell,Core i7-11390H,16 GB,SSD 512GB,Nvidia Geforce MX450 2GB,15.6 inch Full HD,41Wh,New,17.400.000
+Lenovo,Core i7-13650HX,16 GB,SSD 1TB,Nvidia GeForce RTX 4060 8GB,16 inch 2.5K,"4 Cell, 80 Wh",New,32.500.000
+Lenovo,Core i9-13900HX,16 GB,SSD 1TB,Nvidia GeForce RTX 4060 8GB,16 inch 2.5K,"4 Cell, 80 Wh",New,37.500.000
+HP,Core i3-1115G4,8 GB,SSD 256GB,Intel Iris Xe Graphics,15.6 inch HD,"3-cell, 41 Wh Li-ion",New,13.600.000
+HP,Core i3-1005G1,4 GB,HDD 1TB + SSD 128GB,Intel UHD Graphics,14 inch Full HD,3 Cell – 41Wh,New,12.500.000
+HP,Core i3-1005G1,4 GB,SSD 128GB,Intel UHD Graphics,14 inch HD,3-cell Lithium-Ion Battery,New,13.200.000
+HP,Core i5-8250U,8 GB,SSD 256GB,Intel HD Graphics 620,13 inch Full HD cảm ứng,4cell/50 Wh,New,39.290.000
+HP,Core i5-8250U,4 GB,HDD 1TB,Intel HD Graphics 620,14 inch Full HD,4cell/50 Wh,New,12.990.000
+Asus,Core i5-13500H,8 GB,SSD 512GB,Intel Iris Xe Graphics,14.5 inch 2K+,70 WHrs,New,15.000.000
+Dell,Core i5-1335U,8 GB,SSD 512GB,Intel Iris Xe Graphics,14 inch Full HD cảm ứng,4 Cell 54 Wh,New,15.900.000
+Lenovo,AMD Ryzen 5-7535HS,8 GB,SSD 512GB,Nvidia GeForce RTX 2050 4GB,15.6 inch Full HD,Integrated 45Wh,New,15.700.000
+Lenovo,Core i5-12450H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,Integrated 60Wh,New,18.900.000
+Lenovo,Core i5-13420H,8 GB,SSD 1TB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,Integrated 60Wh,New,19.500.000
+Lenovo,Ryzen 7-7840HS,8 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,Integrated 60Wh,New,20.500.000
+Dell,Core i5-13450HX,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,20.900.000
+Dell,Core i5-13450HX,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,21.600.000
+Dell,Core i5-13450HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,23.600.000
+Dell,Core i7-13650HX,8 GB,SSD 1TB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,24.900.000
+Dell,Core i7-13650HX,16 GB,SSD 1TB,Nvidia GeForce RTX 4060 8GB,15.6 inch Full HD,3 Cell 56WHrs,New,28.900.000
+Acer,Core i5-13500HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,21.500.000
+Acer,Core i5-13500HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,24.200.000
+Acer,Core i7-13700HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,25.700.000
+Acer,Core i7-13700HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,28.900.000
+Acer,Core i9-13900HX,16 GB,SSD 1TB,Nvidia GeForce RTX 4060 8GB,16 inch 2.5K,"4-cell, 90 Wh",New,32.800.000
+HP,Core i5-8300H,16 GB,SSD 512GB,Nvidia GeForce GTX 1050 2GB,15.6 inch Full HD,"4-cell, 90 Wh",New,38.290.000
+Asus,AMD Ryzen 5 4500U,8 GB,SSD 256GB,Nvidia GeFore MX350 2GB GDDR5,14 inch Full HD,50Wh / 4 Cells,New,19.400.000
+Asus,AMD Ryzen 5 2500U,4 GB,HDD 1TB,AMD Radeon Vega 8,15.6 inch HD,50Wh / 4 Cells,New,11.990.000
+Asus,Core i3-8130U,4 GB,HDD 1TB,Intel HD Graphics 620,14 inch HD,50Wh / 4 Cells,New,10.090.000
+Asus,Core i7-8565U,8 GB,SSD 256GB,Intel HD Graphics 620,14 inch Full HD,50Wh / 4 Cells,New,19.690.000
+Asus,Core i5-8265U,4 GB,SSD 512GB,Intel HD Graphics 620,15.6 inch Full HD,50Wh / 4 Cells,New,15.590.000
+Asus,Core i5-8250U,8 GB,SSD 512GB,Nvidia Geforce MX150 2GB,13.3 inch Full HD,Cells 42 Whrs Battery,New,19.390.000
+Asus,Core i5-8250U,4 GB,HDD 1TB,Nvidia Geforce MX130 2GB,15.6 inch Full HD,Cells 42 Whrs Battery,New,12.980.000
+Asus,Core i7-8565U,8 GB,SSD 512GB,Nvidia Geforce MX150 2GB,14 inch Full HD,3 Cell 50WHr Lithium-Polymer,New,26.690.000
+Asus,Core i3-8130U,4 GB,HDD 1TB,Intel HD Graphics 620,14 inch Full HD,3 Cells (42 Wh),New,11.990.000
+Asus,Core i7-6700HQ,8 GB,HDD 1TB + SSD 128GB,Nvidia GTX 960M 4GB,15.6 inch 4K,4 cell,New,17.900.000
+Asus,Core i5-8265U,8 GB,SSD 512GB,Nvidia Geforce MX150 2GB,13 inch Full HD,3 cell,New,23.590.000
+Asus,Core i7-8565U,8 GB,SSD 256GB,Intel HD Graphics 620,13.3 inch Full HD,3 cell,New,24.590.000
+Asus,Core i7-4720HQ,12 GB,SSD 120GB + HDD 750GB,Nvidia GTX 965M,17.3 inch Full HD,3 cell,New,19.900.000
+Asus,Core i5-8250U,8 GB,HDD 1TB,Nvidia GeForce GTX 1050 2GB,15.6 inch Full HD,3 cell,New,14.990.000
+Asus,Core i5-8300H,8 GB,HDD 1TB,Nvidia Geforce GTX 1050Ti 4GB,15.6 inch Full HD,3 cell,New,20.990.000
+Asus,Core i7-9750H,16 GB,SSD 512GB,Nvidia RTX 2060 6GB,15.6 inch Full HD,3 cell,New,39.990.000
+Asus,AMD Ryzen 5,4 GB,HDD 1TB,Nvidia GeForce GTX 1050 2GB,15.6 inch Full HD,3 cell,New,15.190.000
+Asus,AMD Ryzen 3 2200U,4 GB,HDD 1TB,AMD Radeon Vega 3,15.6 inch HD,3 cell,New,9.480.000
+Asus,Core i3-8145U,4 GB,HDD 1TB,Intel HD Graphics 620,14 inch Full HD,3 cell,New,12.390.000
+Asus,Core i7-8550U,8 GB,SSD 256GB,Intel HD Graphics 620,14 inch Full HD,3 cell,New,17.390.000
+Asus,Core i5-8265U,4 GB,HDD 1TB,Intel HD Graphics 620,15.6 inch Full HD,3 cell,New,14.590.000
+Asus,Core i7-8565U,8 GB,SSD 512GB,Intel HD Graphics 620,14 inch Full HD,3 cell,New,20.190.000
+Asus,Core i5-13500H,8 GB,SSD 512GB,Intel Iris Xe Graphics,14.5 inch 2K+,70 WHrs,New,15.000.000
+Dell,Core i5-1335U,8 GB,SSD 512GB,Intel Iris Xe Graphics,14 inch Full HD cảm ứng,4 Cell 54 Wh,New,15.900.000
+Lenovo,AMD Ryzen 5-7535HS,8 GB,SSD 512GB,Nvidia GeForce RTX 2050 4GB,15.6 inch Full HD,Integrated 45Wh,New,15.700.000
+Lenovo,Core i5-12450H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,Integrated 60Wh,New,18.900.000
+Lenovo,Core i5-13420H,8 GB,SSD 1TB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,Integrated 60Wh,New,19.500.000
+Lenovo,Ryzen 7-7840HS,8 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,Integrated 60Wh,New,20.500.000
+Dell,Core i5-13450HX,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,20.900.000
+Dell,Core i5-13450HX,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,21.600.000
+Dell,Core i5-13450HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,23.600.000
+Dell,Core i7-13650HX,8 GB,SSD 1TB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,24.900.000
+Dell,Core i7-13650HX,16 GB,SSD 1TB,Nvidia GeForce RTX 4060 8GB,15.6 inch Full HD,3 Cell 56WHrs,New,28.900.000
+Acer,Core i5-13500HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,21.500.000
+Acer,Core i5-13500HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,24.200.000
+Acer,Core i7-13700HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,25.700.000
+Acer,Core i7-13700HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,28.900.000
+Acer,Core i9-13900HX,16 GB,SSD 1TB,Nvidia GeForce RTX 4060 8GB,16 inch 2.5K,"4-cell, 90 Wh",New,32.800.000
+Asus,Core i3-8145U,4 GB,SSD 256GB,Intel HD Graphics 620,15.6 inch Full HD,"4-cell, 90 Wh",New,13.590.000
+Asus,Core i5-8265U,8 GB,SSD 256GB,Nvidia Geforce MX150 2GB,14 inch Full HD,"4-cell, 90 Wh",New,17.890.000
+Asus,Core i3-8145U,4 GB,HDD 1TB,Intel HD Graphics 620,15.6 inch Full HD,"4-cell, 90 Wh",New,12.290.000
+Dell,Core i5-8250U,4 GB,HDD 1TB,AMD Radeon 530 2GB,15.6 inch Full HD,"4-cell, 90 Wh",New,15.690.000
+Dell,Core i5-8265U,4 GB,HDD 1TB,Intel HD Graphics 620,14 inch Full HD,"4-cell, 90 Wh",New,16.690.000
+Lenovo,Intel Pentium Gold 5405U,4 GB,SSD 256GB,Intel HD Graphics 610,15.6 inch Full HD,"4-cell, 90 Wh",New,7.590.000
+Lenovo,Core i3-8145U,8 GB,HDD 1TB + SSD 128GB,Intel HD Graphics 620,14 inch Full HD,9 giờ,New,13.590.000
+Asus,Core i5-8250U,4 GB,HDD 1TB,Nvidia Geforce MX130 2GB,15.6 inch Full HD,9 giờ,New,12.890.000
+Asus,Core i5-13500H,8 GB,SSD 512GB,Intel Iris Xe Graphics,14.5 inch 2K+,70 WHrs,New,15.000.000
+Dell,Core i5-1335U,8 GB,SSD 512GB,Intel Iris Xe Graphics,14 inch Full HD cảm ứng,4 Cell 54 Wh,New,15.900.000
+Lenovo,AMD Ryzen 5-7535HS,8 GB,SSD 512GB,Nvidia GeForce RTX 2050 4GB,15.6 inch Full HD,Integrated 45Wh,New,15.700.000
+Lenovo,Core i5-12450H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,Integrated 60Wh,New,18.900.000
+Lenovo,Core i5-13420H,8 GB,SSD 1TB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,Integrated 60Wh,New,19.500.000
+Lenovo,Ryzen 7-7840HS,8 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,Integrated 60Wh,New,20.500.000
+Dell,Core i5-13450HX,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,20.900.000
+Dell,Core i5-13450HX,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,21.600.000
+Dell,Core i5-13450HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,23.600.000
+Dell,Core i7-13650HX,8 GB,SSD 1TB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,24.900.000
+Dell,Core i7-13650HX,16 GB,SSD 1TB,Nvidia GeForce RTX 4060 8GB,15.6 inch Full HD,3 Cell 56WHrs,New,28.900.000
+Acer,Core i5-13500HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,21.500.000
+Acer,Core i5-13500HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,24.200.000
+Acer,Core i7-13700HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,25.700.000
+Acer,Core i7-13700HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,28.900.000
+Acer,Core i9-13900HX,16 GB,SSD 1TB,Nvidia GeForce RTX 4060 8GB,16 inch 2.5K,"4-cell, 90 Wh",New,32.800.000
+Dell,Core i7-8705G,8 GB,SSD 256GB,Radeon RX VGA M GL Graphics 4GB,15.6 inch Full HD,6Cell 75WH,New,33.600.000
+Xiaomi,Core i7-8550U,8 GB,SSD 512GB,13.3 inch Full HD,New 100 %,6Cell 75WH,New,18.500.000
+Asus,Core i5-8300H,8 GB,HDD 1TB,Nvidia GeForce GTX 1050 2GB,15.6 inch Full HD,6Cell 75WH,New,18.490.000
+Asus,Core i5-8300H,8 GB,HDD 1TB,Nvidia GTX 1060 6GB,15.6 inch Full HD,6Cell 75WH,New,25.390.000
+Asus,Core i5-8250U,8 GB,SSD 256GB,Intel HD Graphics 620,14 inch Full HD,"3 Cell, 50Whr",New,18.790.000
+Asus,Core i7-8550U,8 GB,SSD 256GB,Nvidia Geforce MX150 2GB,14 inch Full HD,"3 cell 50 Wh , Pin liền",New,19.990.000
+Dell,Core i7-8565U,8 GB,HDD 1TB + SSD 128GB,Nvidia Geforce MX150 2GB,13.3 inch Full HD,"3 cell 50 Wh , Pin liền",New,23.590.000
+HP,Core i7-8750H,16 GB,SSD 512GB,Nvidia GeForce GTX 1050 2GB,15.6 inch Full HD,"3 cell 50 Wh , Pin liền",New,41.790.000
+Asus,Core i5-13500H,8 GB,SSD 512GB,Intel Iris Xe Graphics,14.5 inch 2K+,70 WHrs,New,15.000.000
+Dell,Core i5-1335U,8 GB,SSD 512GB,Intel Iris Xe Graphics,14 inch Full HD cảm ứng,4 Cell 54 Wh,New,15.900.000
+Lenovo,AMD Ryzen 5-7535HS,8 GB,SSD 512GB,Nvidia GeForce RTX 2050 4GB,15.6 inch Full HD,Integrated 45Wh,New,15.700.000
+Lenovo,Core i5-12450H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,Integrated 60Wh,New,18.900.000
+Lenovo,Core i5-13420H,8 GB,SSD 1TB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,Integrated 60Wh,New,19.500.000
+Lenovo,Ryzen 7-7840HS,8 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,Integrated 60Wh,New,20.500.000
+Dell,Core i5-13450HX,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,20.900.000
+Dell,Core i5-13450HX,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,21.600.000
+Dell,Core i5-13450HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,23.600.000
+Dell,Core i7-13650HX,8 GB,SSD 1TB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,3 Cell 56WHrs,New,24.900.000
+Dell,Core i7-13650HX,16 GB,SSD 1TB,Nvidia GeForce RTX 4060 8GB,15.6 inch Full HD,3 Cell 56WHrs,New,28.900.000
+Acer,Core i5-13500HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,21.500.000
+Acer,Core i5-13500HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,24.200.000
+Acer,Core i7-13700HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,25.700.000
+Acer,Core i7-13700HX,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,16 inch Full HD,"4-cell, 90 Wh",New,28.900.000
+Acer,Core i9-13900HX,16 GB,SSD 1TB,Nvidia GeForce RTX 4060 8GB,16 inch 2.5K,"4-cell, 90 Wh",New,32.800.000
+Asus,Core i5-8265U,8 GB,SSD 256GB,Intel HD Graphics 620,13.3 inch Full HD,"4-cell, 90 Wh",New,19.690.000
+Asus,Core i3-8145U,4 GB,SSD 256GB,Intel HD Graphics 620,14 inch Full HD,"4-cell, 90 Wh",New,13.390.000
+Asus,Core i7-8550U,8 GB,HDD 1TB,Nvidia Geforce MX150 2GB,15.5 inch Full HD,"4-cell, 90 Wh",New,20.990.000
+Asus,Core i7-8550U,8 GB,SSD 256GB,Nvidia Geforce MX150 2GB,15.5 inch Full HD,"4-cell, 90 Wh",New,21.390.000
+Asus,Core i5-8250U,8 GB,HDD 1TB,Nvidia Geforce MX150 2GB,14 inch Full HD,"4-cell, 90 Wh",New,17.990.000
+Dell,Core i7-8550U,8 GB,HDD 1TB,AMD Radeon 530 4GB,14 inch Full HD,"4-cell, 90 Wh",New,22.990.000
+ASUS,Core i3-8130U,4 GB,HDD 1TB,Intel HD Graphics 620,14 inch Full HD,3 Cell 42 Wh,New,10.500.000
+Dell,Core i7-8565U,8 GB,HDD 1TB + SSD 128GB,Nvidia Geforce MX130 2GB,14 inch Full HD,3 Cell 42 Wh,New,24.490.000
+Asus,Core i5-8250U,8 GB,SSD 512GB,Intel HD Graphics 620,13.3 inch Full HD,3 cell,New,17.990.000
+Asus,Core i5-8265U,8 GB,SSD 256GB,Intel HD Graphics 620,14 inch Full HD,3 cell,New,19.880.000
+Asus,Intel Pentium Silver N5000,4 GB,HDD 1TB,Intel HD Graphics 605,15.6 inch HD,3 Cells (33Wh),New,6.980.000
+Asus,Intel Pentium 4417,4 GB,HDD 1TB,Intel HD Graphics 610,15.6 inch Full HD,3 Cells (33Wh),New,7.390.000
+Asus,Core i7-8565U,8 GB,SSD 512GB,Intel HD Graphics 620,14 inch Full HD,3-Cell 50WHr,New,24.090.000
+Asus,Core i5-8250U,4 GB,HDD 1TB,Intel HD Graphics 620,15.6 inch Full HD,3 Cells (33Wh),New,12.290.000
+Asus,Core i5-8250U,8 GB,SSD 256GB,Intel HD Graphics 620,13.3 inch Full HD,3 cell 42 Wh,New,16.890.000
+Asus,Core i3-8130U,4 GB,HDD 1TB,Intel HD Graphics 620,14 inch HD,3 cell 42 Wh,New,9.600.000
+Asus,Core i5-8250U,4 GB,SSD 256GB,Intel HD Graphics 620,14 inch Full HD cảm ứng,3 Cell Int Lithium-polymer,New,18.190.000
+Asus,Core i5-8250U,4 GB,HDD 1TB,Intel HD Graphics 620,14 inch HD,3 Cell Int Lithium-polymer,New,11.990.000
+Asus,Core i5-8250U,4 GB,HDD 1TB,Nvidia Geforce MX150 2GB,14 inch HD,3 Cell Int Lithium-polymer,New,13.290.000
+Asus,Core i5-8250U,8 GB,SSD 256GB,Nvidia Geforce MX150 2GB,13 inch Full HD,3 Cell Int Lithium-polymer,New,17.990.000
+Asus,Core i3-8130U,4 GB,SSD 256GB,Intel HD Graphics 620,15.6 inch Full HD,3 Cell Int Lithium-polymer,New,11.590.000
+Asus,Core i3-8130U,4 GB,HDD 1TB,Intel HD Graphics 620,15.6 inch Full HD,3 Cell Int Lithium-polymer,New,12.190.000
+Asus,Core i7-8565U,8 GB,SSD 512GB,Nvidia GeForce GTX 1050 2GB,15.6 inch Full HD,4-cell 73WHrs,New,28.990.000
+Asus,Core i7-8550U,8 GB,SSD 256GB,Intel HD Graphics 620,13.3 inch Full HD,3 cell 42 Wh Pin liền,New,18.690.000

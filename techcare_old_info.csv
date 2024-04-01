@@ -1,0 +1,862 @@
+Branch,CPU,RAM,Storage,GPU,Screen,Pin,Status,Price
+Dell,Core i5-10310U,8 GB,SSD 512GB,Intel HD Graphics,14 inch Full HD,"4 Cell, 52WHr",Old,8.900.000
+Dell,Core i5-10310U,16 GB,SSD 512GB,Intel HD Graphics,14 inch Full HD,"4 Cell, 52WHr",Old,9.600.000
+Dell,Core i7-10610U,16 GB,SSD 512GB,Intel HD Graphics,14 inch Full HD,"4 Cell, 52WHr",Old,10.600.000
+HP,Core i5-10310U,8 GB,SSD 256GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,9.200.000
+HP,Core i5-10310U,16 GB,SSD 256GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,9.900.000
+HP,Core i7-10810U,8 GB,SSD 256GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,11.900.000
+HP,Core i7-10810U,16 GB,SSD 512GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,12.900.000
+Dell,Core i5-1145G7,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch Full HD,63 Wh Lithium-Ion,Old,10.400.000
+Dell,Core i7-1185G7,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch Full HD,63 Wh Lithium-Ion,Old,11.900.000
+Dell,Core i7-1185G7,32 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch Full HD,63 Wh Lithium-Ion,Old,12.500.000
+Dell,Core i5-1145G7,8 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,4 Cell 63Whr,Old,10.600.000
+Dell,Core i5-1145G7,16 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,4 Cell 63Whr,Old,11.000.000
+HP,Core i5-1145G7,16 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,"3-cell, 53 Wh Li-ion",Old,10.900.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,"3-cell, 56WHz",Old,18.900.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,"3-cell, 56WHz",Old,20.500.000
+Dell,Core i7-12700H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,"3-cell, 56WHz",Old,22.000.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050Ti 4GB,15.6 inch Full HD,"3-cell, 56WHz",Old,22.500.000
+Dell,Core i7-12650H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,"3-cell, 56WHz",Old,23.500.000
+Dell,Core i7-12700H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,"3-cell, 56WHz",Old,24.000.000
+Dell,Core i5-10310U,8 GB,SSD 512GB,Intel HD Graphics,14 inch Full HD,"4 Cell, 52WHr",Old,8.900.000
+Dell,Core i5-10310U,16 GB,SSD 512GB,Intel HD Graphics,14 inch Full HD,"4 Cell, 52WHr",Old,9.600.000
+Dell,Core i7-10610U,16 GB,SSD 512GB,Intel HD Graphics,14 inch Full HD,"4 Cell, 52WHr",Old,10.600.000
+HP,Core i5-10310U,8 GB,SSD 256GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,9.200.000
+HP,Core i5-10310U,16 GB,SSD 256GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,9.900.000
+HP,Core i7-10810U,8 GB,SSD 256GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,11.900.000
+HP,Core i7-10810U,16 GB,SSD 512GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,12.900.000
+Dell,Core i5-1145G7,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch Full HD,63 Wh Lithium-Ion,Old,10.400.000
+Dell,Core i7-1185G7,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch Full HD,63 Wh Lithium-Ion,Old,11.900.000
+Dell,Core i7-1185G7,32 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch Full HD,63 Wh Lithium-Ion,Old,12.500.000
+Dell,Core i5-1145G7,8 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,4 Cell 63Whr,Old,10.600.000
+Dell,Core i5-1145G7,16 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,4 Cell 63Whr,Old,11.000.000
+HP,Core i5-1145G7,16 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,"3-cell, 53 Wh Li-ion",Old,10.900.000
+Acer,Core i5-10300H,8 GB,SSD 512GB,Nvidia GeForce GTX 1650 4GB,15.6 inch Full HD,4 cell,Old,12.500.000
+Acer,Core i5-10300H,8 GB,SSD 512GB,Nvidia GeForce GTX 1650Ti 4GB,15.6 inch Full HD,4 cell,Old,12.900.000
+Acer,Core i5-10300H,8 GB,SSD 512GB,Nvidia Geforce GTX 1660Ti 6GB,15.6 inch Full HD,4 cell,Old,13.400.000
+Acer,Core i5-11400H,8 GB,SSD 512GB,Nvidia GeForce GTX 1650 4GB,15.6 inch Full HD,4 cell,Old,13.500.000
+Acer,Core i5-11400H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,4 cell,Old,14.900.000
+Acer,Core i5-11400H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,4 cell,Old,16.300.000
+Dell,AMD Ryzen 5 5600H,8 GB,SSD 256GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,56WHr,Old,15.700.000
+Dell,AMD Ryzen 5 5600H,16 GB,SSD 256GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,56WHr,Old,16.400.000
+Dell,AMD Ryzen 5 5600H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,56WHr,Old,16.700.000
+Dell,AMD Ryzen 5 5600H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,56WHr,Old,17.400.000
+Acer,Core i5-12500H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,4 Cell – 58.75 Wh,Old,17.600.000
+Acer,Core i5-12450H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,4 Cell – 58.75 Wh,Old,18.000.000
+Acer,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050Ti 4GB,15.6 inch Full HD 165GHz,4 Cell – 58.75 Wh,Old,18.900.000
+Acer,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD 165GHz,4 Cell – 58.75 Wh,Old,19.700.000
+Acer,Core i7-12700H,8 GB,SSD 512GB,Nvidia GeForce RTX 3050Ti 4GB,15.6 inch Full HD,4 Cell – 58.75 Wh,Old,19.800.000
+Acer,Core i7-12700H,16 GB,SSD 512GB,Nvidia GeForce RTX 4050 6GB,15.6 inch Full HD,4 Cell – 58.75 Wh,Old,22.700.000
+Acer,Core i9-12900H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,4 Cell – 58.75 Wh,Old,23.500.000
+Acer,Core i7-12650H,16 GB,SSD 512GB,Nvidia GeForce RTX 4060 8GB,15.6 inch Full HD,4 Cell – 58.75 Wh,Old,26.300.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,"3-cell, 56WHz",Old,18.900.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,"3-cell, 56WHz",Old,20.500.000
+Dell,Core i7-12700H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,"3-cell, 56WHz",Old,22.000.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050Ti 4GB,15.6 inch Full HD,"3-cell, 56WHz",Old,22.500.000
+Dell,Core i7-12650H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,"3-cell, 56WHz",Old,23.500.000
+Dell,Core i7-12700H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,"3-cell, 56WHz",Old,24.000.000
+Lenovo,AMD Ryzen 7-5800H,16 GB,SSD 512GB,,15.6 inch Full HD,"3-cell, 56WHz",Old,25.700.000
+Dell,Core i5-1135G7,8 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,"4 Cell, 63Whr",Old,9.400.000
+Dell,Core i5-1135G7,16 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,"4 Cell, 63Whr",Old,9.800.000
+Dell,Core i5-1135G7,16 GB,SSD 512GB,Intel Iris Xe Graphics,14 inch Full HD c?m ?ng,"4 Cell, 63Whr",Old,10.500.000
+Dell,Core i5-11300H,8 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch 2.5K,"4-Cell, 54WHr (pin li?n)",Old,12.200.000
+Dell,Core i5-11300H,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch 2.5K,"4-Cell, 54WHr (pin li?n)",Old,12.700.000
+Dell,Core i5-11300H,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch 2.5K,"4-Cell, 54WHr (pin li?n)",Old,14.800.000
+Dell,Core i5-11300H,8 GB,SSD 512GB,Nvidia Geforce MX450 2GB,13.3 inch 2.5K,"4-Cell, 54WHr (pin li?n)",Old,15.200.000
+Dell,Core i7-11390H,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch 2.5K,"4-Cell, 54WHr (pin li?n)",Old,16.900.000
+Dell,Core i5-11300H,16 GB,SSD 512GB,Intel Iris Plus Graphics,15.6 inch Full HD,4 cell,Old,12.200.000
+Dell,Core i5-11300H,16 GB,SSD 512GB,Nvidia Geforce MX450 2GB,15.6 inch Full HD,4 cell,Old,12.700.000
+Dell,Core i7-11370H,16 GB,SSD 512GB,Intel Iris Plus Graphics,15.6 inch Full HD,4 cell,Old,13.600.000
+Dell,Core i7-6820HQ,8 GB,SSD 256GB,Nvidia Quadro M1200,15.6 inch Full HD,6 Cell,Old,8.900.000
+Dell,Core i7-6820HQ,8 GB,SSD 256GB,Nvidia Quadro M2200,15.6 inch Full HD,6 Cell,Old,9.500.000
+Dell,Core i7-7820HQ,8 GB,SSD 256GB,Nvidia Quadro M1200,15.6 inch Full HD,6 Cell,Old,9.900.000
+Dell,Xeon E3 1545M,8 GB,SSD 256GB,Nvidia Quadro M1200,15.6 inch Full HD,6 Cell,Old,10.400.000
+Dell,Core i7-7820HQ,8 GB,SSD 256GB,Nvidia Quadro M2200,15.6 inch Full HD,6 Cell,Old,10.600.000
+Dell,Xeon E3 1545M,8 GB,SSD 256GB,Nvidia Quadro M2200,15.6 inch Full HD,6 Cell,Old,11.100.000
+Dell,Core i7-6820HQ,RAM 16GB + SSD 512GB,Nvidia Quadro M1000,15.6 inch Full HD,99%,6 Cell,Old,9.900.000
+Dell,Intel Xeon E3 1505M,RAM 16GB + SSD 512GB,Nvidia Quadro M1000,15.6 inch Full HD,99%,6 Cell,Old,10.800.000
+Lenovo,Core i7-7700HQ,8 GB,SSD 256GB,Nvidia Quadro M1200,15.6 inch Full HD,6 Cell,Old,10.900.000
+Lenovo,Core i7-7700HQ,16 GB,SSD 256GB,Nvidia Quadro M1200,15.6 inch Full HD,6 Cell,Old,11.400.000
+Lenovo,Core i7-7700HQ,8 GB,SSD 256GB,Nvidia Quadro M2200,15.6 inch Full HD,6 Cell,Old,12.400.000
+Lenovo,Core i7-7700HQ,16 GB,SSD 256GB,Nvidia Quadro M2200,15.6 inch Full HD,6 Cell,Old,12.900.000
+Dell,Core i7-9850H,16 GB,SSD 512GB,Nvidia Quadro T1000 4GB,15.6 inch Full HD,56Wh,Old,15.800.000
+Dell,Core i7-9750H,16 GB,SSD 512GB,Nvidia Quadro T2000 4GB,15.6 inch Full HD,56Wh,Old,16.800.000
+Dell,Core i7-9750H,16 GB,SSD 512GB,Nvidia Quadro T2000 4GB,15.6 inch 4K,56Wh,Old,17.700.000
+Dell,Core i9-9880H,16 GB,SSD 512GB,Nvidia Quadro T2000 4GB,15.6 inch Full HD,56Wh,Old,18.700.000
+HP,Core i5-8350U,8 GB,SSD 256GB,Intel HD Graphics 620,14 inch Full HD,3 Cell 50 WHr,Old,7.200.000
+HP,Core i7-8665U,8 GB,SSD 256GB,Intel HD Graphics 620,14 inch Full HD,3 Cell 50 WHr,Old,7.700.000
+Dell,Core i5-7200U,8 GB,SSD 256GB,Intel HD Graphics 620,13.3 inch Full HD,3 Cell 50 WHr,Old,8.500.000
+Dell,Core i5-8250U,8 GB,SSD 256GB,Intel HD Graphics 620,13.3 inch Full HD,3 Cell 50 WHr,Old,9.400.000
+Dell,Core i5-1035G1,8 GB,SSD 256GB,Nvidia GeForce MX330 2GB,14 inch Full HD,56Wh,Old,11.800.000
+Macbook,Intel Core i5,8 GB,SSD 256GB,Intel Iris Plus Graphics 655,13.3 inch (2560x1600)pixel,58Wh,Old,11.900.000
+Macbook,Intel Core i5,16 GB,SSD 512GB,Intel Iris Plus Graphics 655,13.3 inch (2560x1600)pixel,58Wh,Old,15.900.000
+MacBook,Apple M1,8 GB,SSD 256GB,Intel Iris Plus Graphics,13.3 inch (2560x1600)pixel,18 ti?ng,Old,14.900.000
+MacBook,Apple M1,8 GB,SSD 512GB,Intel Iris Plus Graphics,13.3 inch (2560x1600)pixel,18 ti?ng,Old,17.900.000
+MacBook,Apple M1,8 GB,SSD 256GB,Intel Iris Plus Graphics,13.3 inch (2560x1600)pixel,18 ti?ng,Old,18.900.000
+Dell,Core i7-1260P,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch 2K,4 Cell 54WHrs,Old,15.500.000
+Dell,Core i7-12700H,16 GB,SSD 1TB,Intel Iris Xe Graphics,16.0 inch 2K,"6 Cell, 87WHr",Old,20.500.000
+Dell,Core i5-10310U,8 GB,SSD 512GB,Intel HD Graphics,14 inch Full HD,"4 Cell, 52WHr",Old,8.900.000
+Dell,Core i5-10310U,16 GB,SSD 512GB,Intel HD Graphics,14 inch Full HD,"4 Cell, 52WHr",Old,9.600.000
+Dell,Core i7-10610U,16 GB,SSD 512GB,Intel HD Graphics,14 inch Full HD,"4 Cell, 52WHr",Old,10.600.000
+HP,Core i5-10310U,8 GB,SSD 256GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,9.200.000
+HP,Core i5-10310U,16 GB,SSD 256GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,9.900.000
+HP,Core i7-10810U,8 GB,SSD 256GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,11.900.000
+HP,Core i7-10810U,16 GB,SSD 512GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,12.900.000
+Dell,Core i5-1145G7,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch Full HD,63 Wh Lithium-Ion,Old,10.400.000
+Dell,Core i7-1185G7,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch Full HD,63 Wh Lithium-Ion,Old,11.900.000
+Dell,Core i7-1185G7,32 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch Full HD,63 Wh Lithium-Ion,Old,12.500.000
+Dell,Core i5-1145G7,8 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,4 Cell 63Whr,Old,10.600.000
+Dell,Core i5-1145G7,16 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,4 Cell 63Whr,Old,11.000.000
+HP,Core i5-1145G7,16 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,"3-cell, 53 Wh Li-ion",Old,10.900.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,"3-cell, 56WHz",Old,18.900.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,"3-cell, 56WHz",Old,20.500.000
+Dell,Core i7-12700H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,"3-cell, 56WHz",Old,22.000.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050Ti 4GB,15.6 inch Full HD,"3-cell, 56WHz",Old,22.500.000
+Dell,Core i7-12650H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,"3-cell, 56WHz",Old,23.500.000
+Dell,Core i7-12700H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,"3-cell, 56WHz",Old,24.000.000
+HP,Core i5-10210U,8 GB,SSD 256GB,Intel HD Graphics 620,14 inch Full HD,48 Wh Lithium-Ion,Old,8.200.000
+HP,Core i5-8265U,8 GB,SSD 256GB,Intel HD Graphics 620,14 inch Full HD,3 Cells 45WHr,Old,8.300.000
+HP,Core i5-8265U,8 GB,SSD 256GB,Nvidia Geforce MX130 2GB,14 inch Full HD,3 Cells 45WHr,Old,8.900.000
+HP,Core i3-1005G1,4 GB,SSD 256GB,Intel UHD Graphics,15.6 inch HD,"3-cell, 41 Wh Li-ion",Old,8.900.000
+HP,Core i5-10310U,8 GB,SSD 256GB,Intel UHD Graphics,13.3 inch Full HD,3-cell 53 Wh,Old,8.900.000
+Dell,Core i5-1135G7,16 GB,SSD 512GB,Nvidia GeFore MX350 2GB GDDR5,14 inch Full HD,"4-Cell Battery, 53WHr",Old,13.900.000
+Dell,Core i5-1235U,8 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,4 Cell 58 Wh,Old,15.000.000
+HP,Core i7-8550U,8 GB,SSD 512GB,Nvidia Geforce MX150 2GB,15.6 inch 4K, 3 cell,Old,15.500.000
+HP,Core i7-8550U,16 GB,SSD 512GB,Nvidia Geforce MX150 2GB,15.6 inch 4K, 3 cell,Old,16.400.000
+MacBook,Intel Core i5,16 GB,SSD 512GB,Intel Iris Plus Graphics 645,13.3 inch (2560x1600)pixel,49.9Wh Li-Poly,Old,17.000.000
+Surface,Core i7-8650U,16 GB,SSD 1TB,Intel HD Graphics 520,12.3 inch 2K+,9 gi?,Old,18.900.000
+Surface,Core i7-8650U,16 GB,SSD 512GB,Nvidia GeForce GTX 1050 2GB,13.5 inch 3K,Kho?ng 17 gi? (theo công b? c?a Microsoft),Old,20.900.000
+Macbook,Apple M1,8 GB,SSD 256GB,Onboard,13.3 inch (2560x1600)pixel,Pin li?n,Old,22.800.000
+Macbook,8 nhân GPU,16 nhân Neural Engine,8 GB,SSD 256GB,8 nhân GPU,Pin li?n,Old,21.900.000
+Macbook,8 nhân GPU,16 nhân Neural Engine,8 GB,SSD 256GB,8 nhân GPU,Pin li?n,Old,26.500.000
+MacBook,Apple M2,8 GB,SSD 256GB,10 nhân GPU,13.3 inch (2560x1600)pixel,10 ti?ng,Old,22.990.000
+MacBook,Apple M2,8 GB,SSD 256GB,10 nhân GPU,13.3 inch (2560x1600)pixel,10 ti?ng,Old,29.600.000
+Surface,Microsoft SQ1,16 GB,SSD 512GB,Microsoft SQ1 Adreno 685,13 inch (2880x1920) pixels,13Whr,Old,23.500.000
+Dell,Core i7-11800H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,6-Cell 86WHr,Old,28.900.000
+Macbook,Apple M1,16 GB,SSD 512GB,14 core-GPU,14.2 inch Liquid Retina XDR,6-Cell 86WHr,Old,37.500.000
+Lenovo,Core i5-8265U,8 GB,SSD 256GB,Intel HD Graphics 620,14 inch Full HD,3Cell 50WH,Old,7.900.000
+Lenovo,Core i5-10210U,16 GB,SSD 512GB,Intel HD Graphics 620,14 inch Full HD,3Cell 50WH,Old,11.900.000
+Dell,Core i5-10310U,8 GB,SSD 256GB,Intel UHD Graphics 650,15.6 inch Full HD,4 Cells,Old,9.500.000
+Dell,Core i5-1035G1,8 GB,SSD 256GB,Nvidia GeForce MX230 2GB,14 inch Full HD,"3-Cell, 42 WHr",Old,9.800.000
+Surface,Core i5-6200U,8 GB,SSD 256GB,Intel HD Graphics 520,12.3 inch 2K+,9 gi?,Old,10.500.000
+HP,Core i5-1135G7,8 GB,SSD 256GB,Intel UHD Graphics,13.3 inch Full HD,"3-cell Li-ion, 45 Wh",Old,11.500.000
+Lenovo,Core i5-10210U,16 GB,SSD 256GB,Intel UHD Graphics,14 inch Full HD,50 Wh,Old,11.500.000
+Acer,Core i5-1135G7,8 GB,SSD 512GB,Intel Iris Xe Graphics,13.5 inch 2K,58.7 Wh 4-cell Li-ion battery,Old,11.900.000
+Dell,Core i5-1145G7,8 GB,SSD 256GB,Intel Iris Xe Graphics,15.6 inch Full HD,4 Cell 63 Wh,Old,12.900.000
+Dell,Core i5-1145G7,16 GB,SSD 256GB,Intel Iris Xe Graphics,15.6 inch Full HD,4 Cell 63 Wh,Old,13.900.000
+Dell,Core i5-10310U,8 GB,SSD 512GB,Intel HD Graphics,14 inch Full HD,"4 Cell, 52WHr",Old,8.900.000
+Dell,Core i5-10310U,16 GB,SSD 512GB,Intel HD Graphics,14 inch Full HD,"4 Cell, 52WHr",Old,9.600.000
+Dell,Core i7-10610U,16 GB,SSD 512GB,Intel HD Graphics,14 inch Full HD,"4 Cell, 52WHr",Old,10.600.000
+HP,Core i5-10310U,8 GB,SSD 256GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,9.200.000
+HP,Core i5-10310U,16 GB,SSD 256GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,9.900.000
+HP,Core i7-10810U,8 GB,SSD 256GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,11.900.000
+HP,Core i7-10810U,16 GB,SSD 512GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,12.900.000
+Dell,Core i5-1145G7,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch Full HD,63 Wh Lithium-Ion,Old,10.400.000
+Dell,Core i7-1185G7,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch Full HD,63 Wh Lithium-Ion,Old,11.900.000
+Dell,Core i7-1185G7,32 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch Full HD,63 Wh Lithium-Ion,Old,12.500.000
+Dell,Core i5-1145G7,8 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,4 Cell 63Whr,Old,10.600.000
+Dell,Core i5-1145G7,16 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,4 Cell 63Whr,Old,11.000.000
+HP,Core i5-1145G7,16 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,"3-cell, 53 Wh Li-ion",Old,10.900.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,"3-cell, 56WHz",Old,18.900.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,"3-cell, 56WHz",Old,20.500.000
+Dell,Core i7-12700H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,"3-cell, 56WHz",Old,22.000.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050Ti 4GB,15.6 inch Full HD,"3-cell, 56WHz",Old,22.500.000
+Dell,Core i7-12650H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,"3-cell, 56WHz",Old,23.500.000
+Dell,Core i7-12700H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,"3-cell, 56WHz",Old,24.000.000
+Dell,AMD Ryzen 5-3500U,8 GB,SSD 480GB,AMD Radeon Vega 8,14 inch Full HD,3 cell – 45Whr,Old,13.500.000
+Dell,AMD Ryzen 5-3500U,16 GB,SSD 480GB,AMD Radeon Vega 8,14 inch Full HD,3 cell – 45Whr,Old,14.500.000
+Dell,Core i5-1135G7,8 GB,SSD 256GB,Intel Iris Xe Graphics,13.3 inch Full HD,52Wh,Old,13.500.000
+Dell,Core i5-1035G1,8 GB,SSD 256GB,Intel Iris Plus Graphics,13.4 inch FHD+,"4-Cell, 52WHr",Old,14.500.000
+Lenovo,Core i5-10210U,16 GB,SSD 256GB,Intel UHD Graphics,14 inch Full HD,4 Cell 51Wh,Old,14.500.000
+Lenovo,Core i7-10510U,16 GB,SSD 512GB,Intel UHD Graphics,14 inch WQHD,4 Cell 51Wh,Old,16.500.000
+Dell,Core i7-10850H,8 GB,SSD 512GB,Intel HD Graphics,15.6 inch Full HD,4 Cell 68Whr,Old,15.600.000
+Dell,Core i7-10850H,16 GB,SSD 512GB,Intel HD Graphics,15.6 inch Full HD,4 Cell 68Whr,Old,16.500.000
+Dell,Core i7-10850H,16 GB,SSD 1TB,Intel HD Graphics,15.6 inch Full HD,4 Cell 68Whr,Old,17.900.000
+Dell,Core i7-10850H,8 GB,SSD 1TB,Intel HD Graphics,15.6 inch Full HD,4 Cell 68Whr,Old,17.900.000
+Lenovo,Core i5-1135G7,12 GB,SSD 512GB,Intel Iris Xe Graphics,14 inch Full HD c?m ?ng,71Wh,Old,17.900.000
+Lenovo,Core i7-9750H,16 GB,SSD 512GB,Nvidia Quadro T1000 4GB,15.6 inch Full HD,4 Cell 80 Whrs,Old,17.900.000
+Lenovo,Core i5-1035G4,8 GB,SSD 256GB,Intel Iris Plus Graphics,14 inch Full HD,4Cell/60Whs,Old,20.900.000
+Lenovo,Core i5-10210U,8 GB,SSD 256GB,Intel UHD Graphics,14 inch Full HD,51Whr,Old,21.500.000
+Lenovo,Core i5-10210U,8 GB,SSD 512GB,Intel UHD Graphics,13.3 inch Full HD,"6 Cell, 48WH",Old,23.500.000
+Lenovo,Core i7-10510U,8 GB,SSD 256GB,Intel HD Graphics 620,15.6 inch Full HD,3 Cell 57 MHz,Old,24.500.000
+HP,Core i7-10710U,16 GB,SSD 1TB,Intel UHD Graphics,13.3 Inch Full HD ca?m ??ng,"4-cell, 54 Wh",Old,28.900.000
+HP,Core i7-10610U,16 GB,SSD 512GB,Intel UHD Graphics 630,14 inch Full HD,"4-cell, 78.5 Wh",Old,29.500.000
+Dell,Core i5-6200U,8 GB,SSD 240GB,Intel HD Graphics 520,12.5 inch HD,4 Cell,Old,4.400.000
+Dell,Core i5-6200U,8 GB,SSD 240GB,Intel HD Graphics 520,12.5 inch Full HD,4 Cell,Old,4.700.000
+Dell,Core i5-6300U,8 GB,SSD 256GB,Intel HD Graphics,14 inch HD,4 Cell,Old,4.400.000
+Dell,Core i5-6300U,8 GB,SSD 256GB,Intel HD Graphics,14 inch Full HD,4 Cell,Old,4.700.000
+Dell,Core i5-6300U,8 GB,SSD 256GB,NVIDIA GeForce 930MX 2GB,14 inch HD,4 Cell,Old,4.900.000
+Dell,Core i5-7200U,8 GB,SSD 256GB,Intel HD Graphics,14 inch Full HD,4 Cell,Old,5.200.000
+Dell,Core i5-6300U,8 GB,SSD 256GB,Intel HD Graphics 520,14 inch HD,4 Cell,Old,4.300.000
+Dell,Core i5-6300U,8 GB,SSD 256GB,Intel HD Graphics 520,14 inch Full HD,4 Cell,Old,4.600.000
+Dell,Core i5-6300U,8 GB,SSD 256GB,Intel HD Graphics 520,14 inch HD,4 Cell,Old,4.700.000
+Dell,Core i5-6300U,8 GB,SSD 256GB,Intel HD Graphics 520,14 inch Full HD,4 Cell,Old,5.000.000
+Dell,Core i5-6300U,8 GB,SSD 256GB,Intel HD Graphics 620,12 inch Full HD,4 Cell,Old,4.800.000
+Dell,Core i5-7200U,8 GB,SSD 256GB,Intel HD Graphics 620,12 inch Full HD,4 Cell,Old,5.100.000
+HP,Core i5-6300U,8 GB,SSD 240GB,Intel HD Graphics 520,14 inch HD,4 Cell,Old,4.800.000
+HP,Core i5-6300U,8 GB,SSD 240GB,Intel HD Graphics 520,14 inch HD+,4 Cell,Old,5.000.000
+HP,Core i5-6300U,8 GB,SSD 240GB,Intel HD Graphics 520,14 inch Full HD,4 Cell,Old,5.300.000
+HP,Core i3-4000M,4 GB,SSD 120GB,Intel Graphics 4600,14 inch HD,6-cell lithium ion,Old,4.900.000
+HP,Core i3-4000M,4 GB,SSD 120GB,AMD Radeon HD 8750M,14 inch HD,6-cell lithium ion,Old,5.400.000
+HP,Core i5-4200M,4 GB,SSD 120GB,Intel Graphics 4600,14 inch HD,6-cell lithium ion,Old,5.900.000
+HP,Core i5-4200M,4 GB,SSD 120GB,AMD Radeon HD 8750M,14 inch HD,6-cell lithium ion,Old,6.400.000
+Lenovo,Core i5-4300U,4 GB,SSD 120GB,Intel HD Graphics 4400,14 inch HD,6 Cells 48Wh,Old,4.900.000
+Lenovo,Core i5-4300U,4 GB,SSD 120GB,Intel HD Graphics 4400,14 inch HD+,6 Cells 48Wh,Old,5.100.000
+Lenovo,Core i7-4600U,4 GB,SSD 120GB,Intel HD Graphics 4400,14 inch HD,6 Cells 48Wh,Old,5.900.000
+Lenovo,Core i7-4600U,4 GB,SSD 120GB,Intel HD Graphics 4400,14 inch HD+,6 Cells 48Wh,Old,6.100.000
+Dell,Core i5-7200U,8 GB,SSD 256GB,Intel HD Graphics 620,14 inch Full HD,4 Cell,Old,5.200.000
+Dell,Core i5-8250U,8 GB,SSD 256GB,Intel HD Graphics 620,14 inch Full HD,4 Cell,Old,5.800.000
+Dell,Core i7-8560U,8 GB,SSD 256GB,Intel HD Graphics 620,14 inch Full HD,4 Cell,Old,6.600.000
+Dell,Core i5-6200U,8 GB,SSD 240GB,Intel HD Graphics 520,14 inch Full HD,4 Cell,Old,5.200.000
+Dell,Core i5-7300U,8 GB,SSD 256GB,Intel HD Graphics 620,12.5 inch HD,42 WHz,Old,5.300.000
+Dell,Core i5-7300U,8 GB,SSD 256GB,Intel HD Graphics 620,12.5 inch Full HD,42 WHz,Old,5.600.000
+Dell,Core i5-7300U,8 GB,SSD 256GB,Intel HD Graphics 620,12.5 Inch Full HD c?m ?ng,42 WHz,Old,6.100.000
+Dell,Core i5-10310U,8 GB,SSD 512GB,Intel HD Graphics,14 inch Full HD,"4 Cell, 52WHr",Old,8.900.000
+Dell,Core i5-10310U,16 GB,SSD 512GB,Intel HD Graphics,14 inch Full HD,"4 Cell, 52WHr",Old,9.600.000
+Dell,Core i7-10610U,16 GB,SSD 512GB,Intel HD Graphics,14 inch Full HD,"4 Cell, 52WHr",Old,10.600.000
+HP,Core i5-10310U,8 GB,SSD 256GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,9.200.000
+HP,Core i5-10310U,16 GB,SSD 256GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,9.900.000
+HP,Core i7-10810U,8 GB,SSD 256GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,11.900.000
+HP,Core i7-10810U,16 GB,SSD 512GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,12.900.000
+Dell,Core i5-1145G7,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch Full HD,63 Wh Lithium-Ion,Old,10.400.000
+Dell,Core i7-1185G7,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch Full HD,63 Wh Lithium-Ion,Old,11.900.000
+Dell,Core i7-1185G7,32 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch Full HD,63 Wh Lithium-Ion,Old,12.500.000
+Dell,Core i5-1145G7,8 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,4 Cell 63Whr,Old,10.600.000
+Dell,Core i5-1145G7,16 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,4 Cell 63Whr,Old,11.000.000
+HP,Core i5-1145G7,16 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,"3-cell, 53 Wh Li-ion",Old,10.900.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,"3-cell, 56WHz",Old,18.900.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,"3-cell, 56WHz",Old,20.500.000
+Dell,Core i7-12700H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,"3-cell, 56WHz",Old,22.000.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050Ti 4GB,15.6 inch Full HD,"3-cell, 56WHz",Old,22.500.000
+Dell,Core i7-12650H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,"3-cell, 56WHz",Old,23.500.000
+Dell,Core i7-12700H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,"3-cell, 56WHz",Old,24.000.000
+Lenovo,Core i5-5300U,8 GB,SSD 256GB,Intel HD Graphics 5500,14 inch HD,4 cell,Old,5.400.000
+Lenovo,Core i5-5300U,8 GB,SSD 256GB,Intel HD Graphics 5500,14 inch HD+,4 cell,Old,5.600.000
+Lenovo,Core i5-5300U,8 GB,SSD 256GB,Intel HD Graphics 5500,14 inch Full HD,4 cell,Old,5.900.000
+Dell,Core i5-6300U,8 GB,SSD 256GB,Intel HD Graphics 620,15.6 inch Full HD,4 cell,Old,5.500.000
+Dell,Core i5-7300U,8 GB,SSD 256GB,Intel HD Graphics 620,15.6 inch Full HD,4 cell,Old,5.900.000
+Dell,Core i5-6300HQ,8 GB,SSD 256GB,Intel HD Graphics 620,15.6 inch Full HD,4 cell,Old,6.200.000
+HP,Core i5-7200U,8 GB,SSD 256GB,Intel HD Graphics 620,14 inch Full HD,4 cell,Old,5.500.000
+Dell,Core i5-8365U,8 GB,SSD 256GB,Intel HD Graphics 620,14 inch HD,4 cell,Old,5.600.000
+Dell,Core i5-8365U,8 GB,SSD 256GB,Intel HD Graphics 620,14 inch Full HD,4 cell,Old,6.100.000
+Dell,Core i5-8365U,16 GB,SSD 256GB,Intel HD Graphics 620,14 inch HD,4 cell,Old,6.400.000
+Dell,Core i5-8365U,16 GB,SSD 256GB,Intel HD Graphics 620,14 inch Full HD,4 cell,Old,6.900.000
+Dell,Core i5-7200U,8 GB,SSD 256GB,Intel HD Graphics 620,14 inch Full HD,4 Cell 60WHr,Old,5.600.000
+Dell,Core i5-8250U,8 GB,SSD 256GB,Intel HD Graphics 620,14 inch Full HD,4 Cell 60WHr,Old,6.100.000
+Dell,Core i5-8250U,8 GB,SSD 256GB,Intel HD Graphics 620,14 inch Full HD c?m ?ng,4 Cell 60WHr,Old,6.600.000
+HP,Core i5-6300U,8 GB,SSD 256GB,Intel HD Graphics 520,14 inch Full HD,6 Cell,Old,5.900.000
+HP,Core i7-6600U,8 GB,SSD 256GB,Intel HD Graphics 520,14 inch Full HD,6 Cell,Old,6.700.000
+HP,Core i5-6300U,8 GB,SSD 256GB,Intel HD Graphics 520,14 inch 2K,6 Cell,Old,6.900.000
+HP,Core i7-6600U,8 GB,SSD 256GB,Intel HD Graphics 520,14 inch 2K,6 Cell,Old,7.700.000
+Hp,Core i5-7300U,8 GB,SSD 256GB,Intel HD Graphics 620,14 inch Full HD,6 Cell,Old,6.000.000
+Hp,Core i5-8350U,8 GB,SSD 256GB,Intel HD Graphics 620,14 inch Full HD,6 Cell,Old,6.500.000
+Hp,Core i5-8350U,8 GB,SSD 256GB,Intel HD Graphics 620,14 inch Full HD c?m ?ng,6 Cell,Old,6.700.000
+Hp,Core i5-7300U,8 GB,SSD 256GB,AMD Radeon RX 540,14 inch Full HD,6 Cell,Old,6.800.000
+Dell,Core i5-8350U,8 GB,SSD 256GB,Intel HD Graphics 620,13.3 inch Full HD,4 Cells,Old,6.100.000
+Dell,Core i5-8350U,8 GB,SSD 256GB,Intel HD Graphics 620,13.3 Inch Full HD ca?m ??ng,4 Cells,Old,6.900.000
+Dell,Core i7-8650U,8 GB,SSD 256GB,Intel HD Graphics 620,13.3 inch Full HD,4 Cells,Old,6.900.000
+Dell,Core i7-8650U,8 GB,SSD 256GB,Intel HD Graphics 620,13.3 Inch Full HD ca?m ??ng,4 Cells,Old,7.700.000
+HP,Core i5-8250U,8 GB,SSD 256GB,Intel HD Graphics 620,13.3 inch Full HD,4 Cells,Old,6.200.000
+Dell,Core i5-8265U,8 GB,SSD 256GB,Intel HD Graphics 620,13.3 inch Full HD,42 Wh,Old,6.100.000
+Dell,Core i7-8665U,8 GB,SSD 256GB,Intel HD Graphics 620,13.3 inch Full HD,42 Wh,Old,7.000.000
+HP,Core i5-8250U,8 GB,SSD 256GB,Intel HD Graphics 620,14 inch Full HD,3 Cell,Old,6.300.000
+HP,Core i5-6300U,4 GB,SSD 120GB,Intel HD Graphics 520,14 inch HD,6 Cells,Old,6.400.000
+HP,Core i5-6300U,4 GB,SSD 120GB,Intel HD Graphics 520,14 inch Full HD,6 Cells,Old,6.900.000
+Dell,Core i5-8365U,8 GB,SSD 256GB,Intel HD Graphics 620,14 inch Full HD,4 Cell 60Whr,Old,6.500.000
+Dell,Core i7-8665U,8 GB,SSD 256GB,Intel HD Graphics 620,14 inch Full HD,4 Cell 60Whr,Old,7.500.000
+Dell,Core i5-8350U,8 GB,SSD 256GB,Intel UHD 620M,13.3 inch Full HD,3 Cells 38Whrs,Old,6.500.000
+HP,Core i5-7200U,8 GB,HDD 500GB + SSD 120GB,Intel HD Graphics 620,15.6 inch HD,48Whr,Old,6.800.000
+HP,Core i5-8365U,8 GB,SSD 256GB,Intel UHD Graphics,13 inch Full HD,"3 Cell, 53Whr",Old,6.900.000
+Dell,Core i5-8365U,8 GB,SSD 256GB,Intel HD Graphics 620,15.6 inch Full HD,68 Wh Lithium-Ion,Old,6.900.000
+Dell,Core i5-7200U,8 GB,SSD 256GB,Intel HD Graphics 620,14 inch Full HD,68 Wh Lithium-Ion,Old,7.100.000
+Dell,Core i5-7200U,8 GB,SSD 256GB,Nvidia Geforce 940MX 2GB,14 inch Full HD,68 Wh Lithium-Ion,Old,7.600.000
+Lenovo,Core i5-8250U,8 GB,SSD 256GB,Intel HD Graphics 620,14 inch Full HD,68 Wh Lithium-Ion,Old,7.700.000
+Lenovo,Core i5-8250U,8 GB,SSD 256GB,Intel HD Graphics 620,14 inch Full HD,68 Wh Lithium-Ion,Old,7.900.000
+Dell,Core i5-6200U,8 GB,SSD 240GB,AMD ATI Radion R5M335,14 inch HD,68 Wh Lithium-Ion,Old,9.200.000
+Surface,Core i5-8250U,8 GB,SSD 256GB,Intel HD Graphics 620,13.5 inch 2K ca?m ??ng,S?? du?ng 14.5 gi?? ?ô?ng hô?,Old,10.900.000
+Dell,Core i5-6300HQ,8 GB,SSD 256GB,Nvidia GTX 960M 4GB,15.6 inch Full HD,S?? du?ng 14.5 gi?? ?ô?ng hô?,Old,7.500.000
+Dell,Core i5-9300H,16 GB,SSD 512GB,Nvidia GeForce GTX 1650 4GB,15.6 inch Full HD,3 Cells 51 Whr,Old,10.900.000
+Dell,Core i5-10310U,8 GB,SSD 512GB,Intel HD Graphics,14 inch Full HD,"4 Cell, 52WHr",Old,8.900.000
+Dell,Core i5-10310U,16 GB,SSD 512GB,Intel HD Graphics,14 inch Full HD,"4 Cell, 52WHr",Old,9.600.000
+Dell,Core i7-10610U,16 GB,SSD 512GB,Intel HD Graphics,14 inch Full HD,"4 Cell, 52WHr",Old,10.600.000
+HP,Core i5-10310U,8 GB,SSD 256GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,9.200.000
+HP,Core i5-10310U,16 GB,SSD 256GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,9.900.000
+HP,Core i7-10810U,8 GB,SSD 256GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,11.900.000
+HP,Core i7-10810U,16 GB,SSD 512GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,12.900.000
+Dell,Core i5-1145G7,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch Full HD,63 Wh Lithium-Ion,Old,10.400.000
+Dell,Core i7-1185G7,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch Full HD,63 Wh Lithium-Ion,Old,11.900.000
+Dell,Core i7-1185G7,32 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch Full HD,63 Wh Lithium-Ion,Old,12.500.000
+Dell,Core i5-1145G7,8 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,4 Cell 63Whr,Old,10.600.000
+Dell,Core i5-1145G7,16 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,4 Cell 63Whr,Old,11.000.000
+HP,Core i5-1145G7,16 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,"3-cell, 53 Wh Li-ion",Old,10.900.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,"3-cell, 56WHz",Old,18.900.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,"3-cell, 56WHz",Old,20.500.000
+Dell,Core i7-12700H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,"3-cell, 56WHz",Old,22.000.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050Ti 4GB,15.6 inch Full HD,"3-cell, 56WHz",Old,22.500.000
+Dell,Core i7-12650H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,"3-cell, 56WHz",Old,23.500.000
+Dell,Core i7-12700H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,"3-cell, 56WHz",Old,24.000.000
+Dell,Core i7-7700HQ,8 GB,SSD 256GB,Nvidia GeForce GTX 1050 2GB,15.6 inch Full HD,74 WHr,Old,9.400.000
+Dell,Core i7-7700HQ,8 GB,SSD 128GB + HDD 1TB,Nvidia GeForce GTX 1050 2GB,15.6 inch Full HD,74 WHr,Old,9.700.000
+Dell,Core i7-7700HQ,8 GB,SSD 256GB,Nvidia Geforce GTX 1050Ti 4GB,15.6 inch Full HD,74 WHr,Old,10.500.000
+Dell,Core i5-7300HQ,8 GB,SSD 128GB + HDD 500GB,Nvidia GeForce GTX 1050 2GB,15.6 inch Full HD,74 WHr,Old,7.500.000
+Dell,Core i5-7300HQ,8 GB,SSD 256GB,Nvidia GeForce GTX 1050 2GB,15.6 inch Full HD,74 WHr,Old,7.600.000
+Dell,Core i5-7300HQ,8 GB,SSD 256GB,Nvidia Geforce GTX 1050Ti 4GB,15.6 inch Full HD,74 WHr,Old,8.000.000
+Dell,Core i5 4210H,4 GB,SSD 120GB,Nvidia Geforce GTX 850M,14 inch HD,4 Cells,Old,8.600.000
+Dell,Core i5 4210H,4 GB,SSD 240GB,Nvidia Geforce GTX 850M,14 inch HD,4 Cells,Old,9.000.000
+Dell,Core i5 4210H,4 GB,SSD 120GB,Nvidia Geforce GTX 950M,14 inch HD,4 Cells,Old,9.100.000
+Dell,Core i5 4210H,4 GB,SSD 240GB,Nvidia Geforce GTX 950M,14 inch HD,4 Cells,Old,9.600.000
+Dell,Core i7-6700HQ,8 GB,HDD 500GB + SSD 120GB,Nvidia GTX 960M 4GB,15.6 inch Full HD,4 Cells,Old,8.800.000
+Dell,Core i7-6700HQ,8 GB,HDD 1TB + SSD 120GB,Nvidia GTX 960M 4GB,15.6 inch Full HD,4 Cells,Old,9.200.000
+Dell,Core i5-8300H,8 GB,SSD 128GB + HDD 1TB,Nvidia Geforce GTX 1050 4GB,15.6 inch Full HD,4 Cell 56WHr,Old,8.900.000
+Dell,Core i5-8300H,8 GB,SSD 128GB + HDD 1TB,Nvidia Geforce GTX 1050Ti 4GB,15.6 inch Full HD,4 Cell 56WHr,Old,9.500.000
+Dell,Core i5-7300HQ,8 GB,HDD 500GB + SSD 120GB,Nvidia GeForce GTX 1050 2GB,15.6 inch Full HD,6-Cell 74 WHr,Old,9.900.000
+Dell,Core i5-7300HQ,8 GB,HDD 500GB + SSD 120GB,Nvidia Geforce GTX 1050Ti 4GB,15.6 inch Full HD,6-Cell 74 WHr,Old,10.700.000
+Acer,AMD Ryzen 5 5500U,8 GB,SSD 256GB,Nvidia GeForce GTX 1650 4GB,15.6 inch Full HD,4 Cell 48Wh,Old,9.900.000
+Acer,AMD Ryzen 5 5500U,8 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD 144GHz,4 Cell 48Wh,Old,12.900.000
+Dell,Core i7-8750H,8 GB,HDD 500GB + SSD 120GB,Nvidia GeForce GTX 1050 2GB,15.6 inch Full HD,4 Cell 48Wh,Old,10.500.000
+Dell,Core i7-8750H,8 GB,HDD 1TB + SSD 120GB,Nvidia GeForce GTX 1050 2GB,15.6 inch Full HD,4 Cell 48Wh,Old,11.000.000
+Dell,Core i7-8750H,8 GB,HDD 500GB + SSD 120GB,Nvidia Geforce GTX 1050Ti 4GB,15.6 inch Full HD,4 Cell 48Wh,Old,11.000.000
+Dell,Core i7-8750H,8 GB,HDD 1TB + SSD 120GB,Nvidia Geforce GTX 1050Ti 4GB,15.6 inch Full HD,4 Cell 48Wh,Old,11.300.000
+Dell,Core i5-10200H,8 GB,SSD 256GB,Nvidia GeForce GTX 1650 4GB,15.6 inch Full HD,"3-Cell, 56WHr",Old,13.500.000
+Dell,Core i7-9750H,16 GB,SSD 512GB,Nvidia GeForce GTX 1650 4GB,15.6 inch Full HD,3 Cell,Old,13.900.000
+Dell,Core i7-7700HQ,8 GB,HDD 1TB + SSD 120GB,Nvidia GeForce GTX 1050 2GB,15.6 inch Full HD,6-Cell 74 WHr,Old,17.400.000
+Dell,Core i7-7700HQ,8 GB,HDD 1TB + SSD 120GB,Nvidia Geforce GTX 1050Ti 4GB,15.6 inch Full HD,6-Cell 74 WHr,Old,18.400.000
+HP,Core i5-9300H,8 GB,SSD 256GB,Nvidia GeForce GTX 1050 2GB,15.6 inch Full HD,3 cell; 52 Wh; Pin li?n,Old,17.700.000
+HP,Core i5-9300H,8 GB,SSD 256GB,Nvidia GeForce GTX 1650 4GB,15.6 inch Full HD,3 cell; 52 Wh; Pin li?n,Old,18.300.000
+HP,Core i5-10300H,8 GB,SSD 256GB,Nvidia GeForce GTX 1050 2GB,15.6 inch Full HD,3 cell; 52 Wh; Pin li?n,Old,18.700.000
+HP,Core i5-10300H,8 GB,SSD 256GB,Nvidia GeForce GTX 1650 4GB,15.6 inch Full HD,3 cell; 52 Wh; Pin li?n,Old,19.300.000
+Dell,Core i7-8750H,8 GB,HDD 1TB + SSD 128GB,Nvidia Geforce GTX 1050Ti 4GB,15.6 inch Full HD,4 cell,Old,18.900.000
+Lenovo,Core i7-8750H,16 GB,SSD 256GB,Nvidia Quadro P1000 4GB,15.6 inch Full HD,6 Cell 90WHr,Old,12.900.000
+Lenovo,Xeon E-2176M,16 GB,SSD 256GB,Nvidia Quadro P1000 4GB,15.6 inch Full HD,6 Cell 90WHr,Old,13.700.000
+Lenovo,Core i7-8750H,16 GB,SSD 256GB,Nvidia Quadro P2000 4GB,15.6 inch Full HD,6 Cell 90WHr,Old,14.700.000
+Lenovo,Xeon E-2176M,16 GB,SSD 256GB,Nvidia Quadro P2000 4GB,15.6 inch Full HD,6 Cell 90WHr,Old,15.700.000
+Dell,Core i7-8750H,16 GB,SSD 512GB,Nvidia Quadro P1000 4GB,15.6 inch Full HD,6 Cell 97WHr,Old,12.800.000
+Dell,Core i7-8750H,16 GB,SSD 512GB,Nvidia Quadro P2000 4GB,15.6 inch Full HD,6 Cell 97WHr,Old,13.800.000
+Dell,Xeon E-2176M,16 GB,SSD 512GB,Nvidia Quadro P1000 4GB,15.6 inch Full HD,6 Cell 97WHr,Old,14.900.000
+Dell,Core i7-8750H,16 GB,SSD 512GB,Nvidia Quadro P3200 4GB,15.6 inch Full HD,6 Cell 97WHr,Old,15.900.000
+Dell,Xeon E-2176M,16 GB,SSD 512GB,Nvidia Quadro P2000 4GB,15.6 inch Full HD,6 Cell 97WHr,Old,15.900.000
+Dell,Core i7-9750H,8 GB,SSD 256GB,Nvidia Quadro T1000 4GB,15.6 inch Full HD,6 Cells,Old,14.500.000
+Dell,Core i7-9850H,8 GB,SSD 256GB,Nvidia Quadro T1000 4GB,15.6 inch Full HD,6 Cells,Old,14.800.000
+Dell,Core i7-9750H,8 GB,SSD 512GB,Nvidia Quadro T2000 4GB,15.6 inch Full HD,6 Cells,Old,16.500.000
+Dell,Core i7-9850H,8 GB,SSD 512GB,Nvidia Quadro T2000 4GB,15.6 inch Full HD,6 Cells,Old,16.900.000
+Dell,Core i7-9750H,16 GB,SSD 512GB,Nvidia Quadro RTX3000 6GB,15.6 inch Full HD,6 Cells,Old,18.500.000
+Dell,Core i7-10750H,16 GB,SSD 512GB,Nvidia Quadro T1000 4GB,15.6 inch Full HD,95WHr,Old,20.900.000
+Dell,Core i7-10750H,16 GB,SSD 512GB,Nvidia Quadro T2000 4GB,15.6 inch Full HD,95WHr,Old,22.100.000
+Dell,Core i7-10750H,16 GB,SSD 512GB,Nvidia Quadro RTX3000 6GB,15.6 inch Full HD,95WHr,Old,24.000.000
+Dell,Core i7-10850H,16 GB,SSD 256GB,Nvidia Quadro T1000 4GB,15.6 inch Full HD,56WHr,Old,21.500.000
+Dell,Core i7-10850H,32 GB,SSD 256GB,Nvidia Quadro T1000 4GB,15.6 inch Full HD,56WHr,Old,22.400.000
+Dell,Core i7-10750H,16 GB,SSD 512GB,Nvidia Quadro T2000 4GB,15.6 inch Full HD,56WHr,Old,22.900.000
+Dell,Core i7-10750H,16 GB,SSD 512GB,Nvidia Quadro T2000 4GB,15.6 inch 4K,56WHr,Old,23.900.000
+Lenovo,Core i7-1165G7,16 GB,SSD 512GB,Nvidia Quadro T500 4GB,15.6 inch Full HD,4 Cell 50Wh,Old,21.500.000
+Lenovo,Core i7-10850H,16 GB,SSD 512GB,Nvidia Quadro T1000 4GB,15.6 inch Full HD,94WHr,Old,23.900.000
+Dell,Xeon W-10855M,16 GB,SSD 512GB,Nvidia Quadro T1000 4GB,15.6 inch Full HD,95WHr,Old,23.900.000
+Dell,Xeon W-10855M,32 GB,SSD 512GB,Nvidia Quadro T1000 4GB,15.6 inch Full HD,95WHr,Old,24.900.000
+Dell,Xeon W-10855M,16 GB,SSD 512GB,Nvidia Quadro T2000 4GB,15.6 inch Full HD,95WHr,Old,25.300.000
+Dell,Xeon W-10855M,32 GB,SSD 512GB,Nvidia Quadro T2000 4GB,15.6 inch Full HD,95WHr,Old,26.300.000
+HP,Core i7-10875H,32 GB,SSD 512GB,Nvidia Quadro T1000 4GB,15.6 inch Full HD,83 Wh,Old,25.500.000
+Dell,Core i7-10750H,16 GB,SSD 512GB,Nvidia Quadro RTX3000 6GB,17.3 inch Full HD,6 Cell 95Whr,Old,30.900.000
+Dell,Core i5-10310U,8 GB,SSD 512GB,Intel HD Graphics,14 inch Full HD,"4 Cell, 52WHr",Old,8.900.000
+Dell,Core i5-10310U,16 GB,SSD 512GB,Intel HD Graphics,14 inch Full HD,"4 Cell, 52WHr",Old,9.600.000
+Dell,Core i7-10610U,16 GB,SSD 512GB,Intel HD Graphics,14 inch Full HD,"4 Cell, 52WHr",Old,10.600.000
+HP,Core i5-10310U,8 GB,SSD 256GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,9.200.000
+HP,Core i5-10310U,16 GB,SSD 256GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,9.900.000
+HP,Core i7-10810U,8 GB,SSD 256GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,11.900.000
+HP,Core i7-10810U,16 GB,SSD 512GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,12.900.000
+Dell,Core i5-1145G7,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch Full HD,63 Wh Lithium-Ion,Old,10.400.000
+Dell,Core i7-1185G7,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch Full HD,63 Wh Lithium-Ion,Old,11.900.000
+Dell,Core i7-1185G7,32 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch Full HD,63 Wh Lithium-Ion,Old,12.500.000
+Dell,Core i5-1145G7,8 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,4 Cell 63Whr,Old,10.600.000
+Dell,Core i5-1145G7,16 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,4 Cell 63Whr,Old,11.000.000
+HP,Core i5-1145G7,16 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,"3-cell, 53 Wh Li-ion",Old,10.900.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,"3-cell, 56WHz",Old,18.900.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,"3-cell, 56WHz",Old,20.500.000
+Dell,Core i7-12700H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,"3-cell, 56WHz",Old,22.000.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050Ti 4GB,15.6 inch Full HD,"3-cell, 56WHz",Old,22.500.000
+Dell,Core i7-12650H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,"3-cell, 56WHz",Old,23.500.000
+Dell,Core i7-12700H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,"3-cell, 56WHz",Old,24.000.000
+Dell,Core i5-6300HQ,4 GB,SSD 120GB,AMD FirePro W5130M,15.6 inch Full HD,84 Wh,Old,7.200.000
+Dell,Core i5-6400HQ,4 GB,SSD 120GB,AMD FirePro W5130M,15.6 inch Full HD,84 Wh,Old,7.700.000
+Dell,Core i7-6820HQ,RAM 8GB + SSD 256GB,Nvidia Quadro M1000,15.6 inch Full HD,99%,6 Cell,Old,7.600.000
+Dell,Core i7-6920HQ,RAM 8GB + SSD 256GB,Nvidia Quadro M1000,15.6 inch Full HD,99%,6 Cell,Old,8.400.000
+Dell,Xeon E3-1535Mv5,RAM 8GB + SSD 256GB,Nvidia Quadro M1000,15.6 inch Full HD,99%,6 Cell,Old,8.600.000
+Dell,Core i7-6820HQ,RAM 8GB + SSD 256GB,Nvidia Quadro M2000,15.6 inch Full HD,99%,6 Cell,Old,8.600.000
+Dell,Core i7-6920HQ,RAM 8GB + SSD 256GB,Nvidia Quadro M2000,15.6 inch Full HD,99%,6 Cell,Old,9.400.000
+Lenovo,Core i7-4800MQ,8 GB,SSD 256GB,Nvidia Quadro K1100M,15.6 inch Full HD,9-cell,Old,7.900.000
+Dell,Core i7-6820HQ,16 GB,SSD 256GB,AMD FirePro W5170M,17.3 inch Full HD,6 Cells,Old,8.500.000
+Dell,Core i7-6820HQ,16 GB,SSD 256GB,Nvidia Quadro M3000M,17.3 inch Full HD,6 Cells,Old,9.500.000
+Dell,Core i7-6820HQ,16 GB,SSD 256GB,Nvidia Quadro M5000M,17.3 inch Full HD,6 Cells,Old,10.500.000
+Dell,Core i5-7300HQ,8 GB,SSD 256GB,Nvidia Quadro M620,15.6 inch Full HD,"68 Wh Lithium-Ion, 4 cell",Old,9.800.000
+Dell,Core i7-7820HQ,8 GB,SSD 256GB,Nvidia Quadro M620,15.6 inch Full HD,"68 Wh Lithium-Ion, 4 cell",Old,11.800.000
+HP,Core i7-6500U,8 GB,SSD 256GB,AMD FirePro W4190M,15.6 inch Full HD,90 Wh,Old,9.900.000
+HP,Core i7-6500U,16 GB,SSD 256GB,AMD FirePro W4190M,15.6 inch Full HD,90 Wh,Old,11.200.000
+Lenovo,Core i7-6820HQ,8 GB,SSD 256GB,Nvidia Quadro M1000M 2GB,15.6 inch Full HD,90 Wh,Old,10.400.000
+Lenovo,Core i7-6820HQ,8 GB,SSD 256GB,Nvidia Quadro M1000M 2GB,15.6 inch Full HD ca?m ??ng,90 Wh,Old,10.900.000
+Lenovo,Xeon E3-1505,8 GB,SSD 256GB,Nvidia Quadro M1000M 2GB,15.6 inch Full HD,90 Wh,Old,10.900.000
+Lenovo,Xeon E3-1505,8 GB,SSD 256GB,Nvidia Quadro M1000M 2GB,15.6 inch Full HD ca?m ??ng,90 Wh,Old,11.400.000
+Lenovo,Core i7-6820HQ,8 GB,SSD 256GB,Nvidia Quadro M2000,15.6 inch Full HD,90 Wh,Old,11.400.000
+Lenovo,Xeon E3-1505,8 GB,SSD 256GB,Nvidia Quadro M2000,15.6 inch Full HD,90 Wh,Old,11.900.000
+Lenovo,Core i7-6820HQ,8 GB,SSD 256GB,Nvidia Quadro M2000,15.6 inch Full HD ca?m ??ng,90 Wh,Old,11.900.000
+Lenovo,Xeon E3-1505,8 GB,SSD 256GB,Nvidia Quadro M2000,15.6 inch Full HD ca?m ??ng,90 Wh,Old,12.400.000
+Dell,Core i7-6820HQ,16 GB,SSD 512GB,Nvidia Quadro M1200M 4GB,15.6 inch Full HD,6 Cell,Old,10.900.000
+Dell,Core i7-6820HQ,16 GB,SSD 512GB,Nvidia Quadro M1200M 4GB,15.6 inch 4K,6 Cell,Old,11.900.000
+Dell,Core i7-7820HQ,16 GB,SSD 512GB,Nvidia Quadro M1200M 4GB,15.6 inch Full HD,6 Cell,Old,12.300.000
+Dell,Intel Xeon E3 1505M,16 GB,SSD 512GB,Nvidia Quadro M1200M 4GB,15.6 inch Full HD,6 Cell,Old,13.000.000
+Dell,Core i7-7820HQ,16 GB,SSD 512GB,Nvidia Quadro M1200M 4GB,15.6 inch 4K,6 Cell,Old,13.300.000
+Dell,Intel Xeon E3 1505M,16 GB,SSD 512GB,Nvidia Quadro M1200M 4GB,15.6 inch 4K,6 Cell,Old,14.000.000
+Dell,Core i7-7820HQ,16 GB,SSD 256GB,NVIDIA Quadro P3000,17.3 inch Full HD,91WHr,Old,12.600.000
+Dell,Core i7-7820HQ,16 GB,SSD 512GB,NVIDIA Quadro P3000,17.3 inch Full HD,91WHr,Old,13.500.000
+Dell,Core i7-7820HQ,16 GB,SSD 256GB,NVIDIA Quadro P4000,17.3 inch Full HD,91WHr,Old,14.100.000
+Dell,Core i7-7820HQ,16 GB,SSD 512GB,NVIDIA Quadro P4000,17.3 inch Full HD,91WHr,Old,15.000.000
+Dell,Core i7-8850H,16 GB,SSD 512GB,Nvidia Quadro P1000 4GB,15.6 inch Full HD,6 Cells,Old,13.200.000
+Dell,Core i7-8850H,16 GB,SSD 512GB,Nvidia Quadro P2000 4GB,15.6 inch Full HD,6 Cells,Old,14.000.000
+Lenovo,Core i7-8850H,16 GB,SSD 512GB,Nvidia Quadro P2000 4GB,15.6 inch Full HD,6 Cells,Old,15.900.000
+HP,Core i7-9750H,16 GB,,Nvidia Quadro T1000 4GB,15.6 inch Full HD,4 cells Li-poly 90 Wh,Old,15.900.000
+Lenovo,Core i7-9750H,16 GB,SSD 256GB,Nvidia Quadro T1000 4GB,15.6 inch Full HD,90Whz,Old,16.900.000
+Lenovo,Core i7-9750H,16 GB,SSD 256GB,Nvidia Quadro T2000 4GB,15.6 inch Full HD,90Whz,Old,18.900.000
+Dell,Core i7-8850H,32 GB,SSD 512GB,Nvidia Quadro P3200 6GB + Intel UHD Graphics 630,17.3 inch Full HD,6 Cell 97WHr,Old,17.900.000
+Dell,Core i7-9850H,16 GB,SSD 512GB,Nvidia Quadro RTX3000 6GB,17.3 inch Full HD,6 Cells 97 Whr,Old,20.500.000
+Dell,Core i9-9980H,32 GB,SSD 512GB,Nvidia Quadro RTX3000 6GB,17.3 inch Full HD,6 Cells 97 Whr,Old,22.500.000
+Dell,Core i5-10310U,8 GB,SSD 256GB,Intel HD Graphics 620,13.3 inch Full HD,4 Cell 68Whr,Old,8.700.000
+Dell,Core i7-10610U,8 GB,SSD 512GB,Intel HD Graphics 620,13.3 inch Full HD,4 Cell 68Whr,Old,9.700.000
+Dell,Core i7-10610U,16 GB,SSD 512GB,Intel HD Graphics 620,13.3 inch Full HD,4 Cell 68Whr,Old,10.300.000
+Dell,Core i7-7600U,8 GB,SSD 256GB,Intel HD Graphics 620,13.3 inch Full HD,4 Cell 68Whr,Old,9.800.000
+Dell,Core i7-6700HQ,8 GB,SSD 512GB,Nvidia GeForce GTX 960M + Intel HD Graphics 530,15.6 inch Full HD,6 Cell – 84WHr,Old,10.500.000
+Dell,Core i7-6700HQ,8 GB,SSD 512GB,Nvidia GeForce GTX 960M + Intel HD Graphics 530,15.6 inch 4K,6 Cell – 84WHr,Old,12.500.000
+Dell,Core i5-8265U,8 GB,SSD 256GB,Intel HD Graphics 620,13.3 inch Full HD,52WHr,Old,11.500.000
+Dell,Core i5-8265U,16 GB,SSD 256GB,Intel HD Graphics 620,13.3 inch Full HD,52WHr,Old,12.500.000
+Dell,Core i7-8565U,8 GB,SSD 256GB,Intel HD Graphics 620,13.3 inch Full HD,52WHr,Old,12.900.000
+Dell,Core i7-8565U,16 GB,SSD 256GB,Intel HD Graphics 620,13.3 inch Full HD,52WHr,Old,14.500.000
+Dell,Core i7-8565U,16 GB,SSD 256GB,Intel HD Graphics 620,13.3 inch Full HD,52WHr,Old,15.900.000
+Dell,Core i7-7700HQ,16 GB,SSD 512GB,Nvidia GeForce GTX 1050 2GB,15.6 inch Full HD,52WHr,Old,11.900.000
+Lenovo,AMD Ryzen 5 PRO 4650U,8 GB,SSD 256GB,Intel UHD Graphics,14 inch Full HD,6 cell,Old,12.500.000
+Lenovo,Core i7-5600U,8 GB,SSD 240GB,Intel HD Graphics 5500,14 inch Full HD,8-cell (50Wh),Old,12.900.000
+Lenovo,Core i5-8250U,8 GB,SSD 256GB,Intel HD Graphics 620,14 inch Full HD,"3Cell, 57WHr",Old,16.500.000
+Dell,Core i7-8750H,16 GB,SSD 512GB,Nvidia GTX 1050Ti 4GB + Intel UHD Graphics 630,15.6 inch Full HD,6 Cell 97WHr,Old,16.500.000
+Dell,Core i5-10310U,8 GB,SSD 512GB,Intel HD Graphics,14 inch Full HD,"4 Cell, 52WHr",Old,8.900.000
+Dell,Core i5-10310U,16 GB,SSD 512GB,Intel HD Graphics,14 inch Full HD,"4 Cell, 52WHr",Old,9.600.000
+Dell,Core i7-10610U,16 GB,SSD 512GB,Intel HD Graphics,14 inch Full HD,"4 Cell, 52WHr",Old,10.600.000
+HP,Core i5-10310U,8 GB,SSD 256GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,9.200.000
+HP,Core i5-10310U,16 GB,SSD 256GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,9.900.000
+HP,Core i7-10810U,8 GB,SSD 256GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,11.900.000
+HP,Core i7-10810U,16 GB,SSD 512GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,12.900.000
+Dell,Core i5-1145G7,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch Full HD,63 Wh Lithium-Ion,Old,10.400.000
+Dell,Core i7-1185G7,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch Full HD,63 Wh Lithium-Ion,Old,11.900.000
+Dell,Core i7-1185G7,32 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch Full HD,63 Wh Lithium-Ion,Old,12.500.000
+Dell,Core i5-1145G7,8 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,4 Cell 63Whr,Old,10.600.000
+Dell,Core i5-1145G7,16 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,4 Cell 63Whr,Old,11.000.000
+HP,Core i5-1145G7,16 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,"3-cell, 53 Wh Li-ion",Old,10.900.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,"3-cell, 56WHz",Old,18.900.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,"3-cell, 56WHz",Old,20.500.000
+Dell,Core i7-12700H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,"3-cell, 56WHz",Old,22.000.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050Ti 4GB,15.6 inch Full HD,"3-cell, 56WHz",Old,22.500.000
+Dell,Core i7-12650H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,"3-cell, 56WHz",Old,23.500.000
+Dell,Core i7-12700H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,"3-cell, 56WHz",Old,24.000.000
+Lenovo,Core i7-8550U,8 GB,SSD 256GB,Intel HD Graphics 620,14 inch 2K c?m ?ng,4 cell Li-Polymer 54Whr,Old,25.900.000
+Dell,Core i3-4005U,4 GB,SSD 120GB,Intel HD Graphics 4400,15.6 inch HD,4 cell Li-Polymer 54Whr,Old,4.900.000
+Dell,Core i3-4005U,4 GB,SSD 120GB,Intel HD Graphics 4400,15.6 inch Full HD,4 cell Li-Polymer 54Whr,Old,5.400.000
+Dell,Core i3-4005U,4 GB,SSD 120GB,Nvidia GeForce GT 720M,15.6 inch HD,4 cell Li-Polymer 54Whr,Old,5.400.000
+Dell,Core i3-4005U,4 GB,SSD 120GB,Nvidia GeForce GT 720M,15.6 inch Full HD,4 cell Li-Polymer 54Whr,Old,5.900.000
+Dell,Core i5-4200U,4 GB,SSD 120GB,Intel HD Graphics 4400,15.6 inch HD,4 cell Li-Polymer 54Whr,Old,5.900.000
+Dell,Core i5-4200U,4 GB,SSD 120GB,Intel HD Graphics 4400,15.6 inch Full HD,4 cell Li-Polymer 54Whr,Old,6.400.000
+Dell,Core i5-4200U,4 GB,SSD 120GB,Nvidia GeForce GT 720M,15.6 inch HD,4 cell Li-Polymer 54Whr,Old,6.400.000
+Dell,Core i5-4200U,4 GB,SSD 120GB,Nvidia GeForce GT 720M,15.6 inch Full HD,4 cell Li-Polymer 54Whr,Old,6.900.000
+HP,Core i5-4300U,4 GB,SSD 120GB,Intel HD Graphics 4400,14 inch HD,4 cell Li-Polymer 54Whr,Old,5.300.000
+Dell,Core i5-8250U,8 GB,SSD 256GB,Intel Graphics HD,14 inch HD,4 cell,Old,5.800.000
+Lenovo,Core i5-6300U,8 GB,SSD 256GB,Intel HD Graphics 620,14 inch Full HD,58Wh,Old,7.400.000
+Lenovo,Core i5-6300U,8 GB,SSD 256GB,Intel HD Graphics 620,14 inch Full HD c?m ?ng,58Wh,Old,7.900.000
+Lenovo,Core i7-7600U,8 GB,SSD 256GB,Intel HD Graphics 620,14 inch Full HD,58Wh,Old,8.100.000
+Lenovo,Core i7-7600U,8 GB,SSD 256GB,Intel HD Graphics 620,14 inch Full HD c?m ?ng,58Wh,Old,8.600.000
+HP,Core i5-5300U,4 GB,SSD 120GB,Intel HD Graphics 5500,14 inch HD,58Wh,Old,8.800.000
+HP,Core i5-5300U,4 GB,SSD 240GB,Intel HD Graphics 5500,14 inch HD,58Wh,Old,9.200.000
+HP,Core i5-5300U,8 GB,SSD 120GB,Intel HD Graphics 5500,14 inch HD,58Wh,Old,9.200.000
+HP,Core i5-5300U,8 GB,SSD 240GB,Intel HD Graphics 5500,14 inch HD,58Wh,Old,9.600.000
+Lenovo,Core i5-6200U,8 GB,SSD 240GB,Intel HD Graphics 520,14 inch Full HD,58Wh,Old,8.900.000
+Lenovo,Core i5-6300U,8 GB,SSD 120GB,Intel HD Graphics 520,14 inch HD,3 cell,Old,10.300.000
+Lenovo,Core i5-6300U,8 GB,SSD 240GB,Intel HD Graphics 520,14 inch HD,3 cell,Old,10.800.000
+Dell,Core i5-8250U,8 GB,SSD 256GB,Intel HD Graphics 620,13.3 inch Full HD,52WWHz,Old,10.500.000
+Dell,Core i7-8650U,8 GB,SSD 256GB,Intel HD Graphics 620,13.3 inch Full HD,52WWHz,Old,11.500.000
+Dell,Core i5-8250U,8 GB,SSD 256GB,Intel HD Graphics 620,13.3 inch 4K,52WWHz,Old,12.500.000
+Dell,Core i7-8650U,8 GB,SSD 256GB,Intel HD Graphics 620,13.3 inch 4K,52WWHz,Old,13.500.000
+Dell,Core i5-6200U,4 GB,SSD 128GB,Intel HD Graphics 520,13.3 inch Full HD,52WWHz,Old,10.600.000
+Dell,Core i5-6200U,8 GB,SSD 128GB,Intel HD Graphics 520,13.3 inch Full HD,52WWHz,Old,11.200.000
+Lenovo,Core i5-6300U,8 GB,SSD 256GB,Intel HD Graphics 620,14 inch Full HD,57Wh,Old,10.700.000
+Lenovo,Core i5-7300U,8 GB,SSD 256GB,Intel HD Graphics 620,14 inch Full HD,57Wh,Old,11.100.000
+Dell,Core i7-6560U,8 GB,SSD 256GB,Intel HD Graphics 540,13.3 inch Full HD,57Wh,Old,12.500.000
+Dell,Core i7-6560U,8 GB,SSD 256GB,Intel HD Graphics 540,13.3 inch 3K c?m ?ng,57Wh,Old,13.300.000
+Dell,Core i5-4200M,4 GB,SSD 120GB,Intel Graphics 4600,14 inch HD,57Wh,Old,4.900.000
+Dell,Core i5-4200M,4 GB,SSD 120GB,Intel Graphics 4600,14 inch HD+,57Wh,Old,5.100.000
+Dell,Core i5-4200M,4 GB,SSD 120GB,AMD Radeon HD 8690M,14 inch HD,57Wh,Old,5.400.000
+Dell,Core i5-4200M,4 GB,SSD 120GB,AMD Radeon HD 8690M,14 inch HD+,57Wh,Old,5.600.000
+HP,Core i3-4000M,4 GB,SSD 120GB,Intel Graphics 4600,15.6 inch HD,57Wh,Old,5.200.000
+HP,Core i5-4200M,4 GB,SSD 120GB,Intel Graphics 4600,15.6 inch HD,57Wh,Old,5.900.000
+HP,AMD PRO A10-8730B,4 GB,SSD 120GB,AMD Radeon R5,14 inch Full HD,3-cell (51 WHr),Old,6.900.000
+HP,AMD PRO A10-8730B,4 GB,SSD 256GB,AMD Radeon R5,14 inch Full HD,3-cell (51 WHr),Old,7.300.000
+HP,AMD PRO A10-8730B,8 GB,SSD 120GB,AMD Radeon R5,14 inch Full HD,3-cell (51 WHr),Old,7.400.000
+HP,AMD PRO A10-8730B,8 GB,SSD 256GB,AMD Radeon R5,14 inch Full HD,3-cell (51 WHr),Old,7.800.000
+HP,Core i5-4300U,4 GB,SSD 120GB,Intel HD Graphics 4400,14 inch HD,3-cell (51 WHr),Old,6.900.000
+HP,Core i5-4300U,4 GB,SSD 120GB,Intel HD Graphics 4400,14 inch HD+,3-cell (51 WHr),Old,7.100.000
+Dell,Core i5-8250U,8 GB,SSD 256GB,Intel HD Graphics 620,13.3 inch Full HD,3Cell 42Whr,Old,6.900.000
+HP,Core i7-8650U,8 GB,SSD 256GB,Intel HD Graphics 620,14 inch Full HD,3Cell 42Whr,Old,7.400.000
+HP,Core i5-7200U,8 GB,SSD 256GB,Intel HD Graphics 620,14 inch Full HD,6 Cell 30WHr,Old,8.900.000
+HP,Core i5-7200U,4 GB,SSD 120GB,AMD R5 M330,14 inch HD,3 cell,Old,9.200.000
+HP,Core i7-4800MQ,8 GB,SSD 256GB,Nvidia Quadro K1100M,15.6 inch Full HD,3 cell,Old,6.400.000
+HP,Core i7-4810MQ,8 GB,SSD 256GB,Nvidia Quadro K1100M,15.6 inch Full HD,3 cell,Old,6.600.000
+HP,Core i7-4900MQ,8 GB,SSD 256GB,Nvidia Quadro K1100M,15.6 inch Full HD,3 cell,Old,6.900.000
+HP,Core i7-4800MQ,8 GB,SSD 256GB,Nvidia Quadro K2100M,15.6 inch Full HD,3 cell,Old,7.400.000
+HP,Core i7-4810MQ,8 GB,SSD 256GB,Nvidia Quadro K2100M,15.6 inch Full HD,3 cell,Old,7.600.000
+HP,Core i7-4900MQ,8 GB,SSD 256GB,Nvidia Quadro K2100M,15.6 inch Full HD,3 cell,Old,7.900.000
+HP,Core i7-4810MQ,8 GB,SSD 256GB,Nvidia Quadro K1100M,15.6 inch Full HD,8 Cell,Old,6.800.000
+HP,Core i7-4810MQ,8 GB,SSD 256GB,Nvidia Quadro K2100M,15.6 inch Full HD,8 Cell,Old,7.800.000
+Dell,Core i7-4800MQ,8 GB,SSD 256GB,Nvidia Quadro K1100M,15.6 inch Full HD,8 Cell,Old,7.500.000
+Dell,Core i7-4810MQ,8 GB,SSD 256GB,Nvidia Quadro K1100M,15.6 inch Full HD,8 Cell,Old,7.700.000
+Dell,Core i7-4900MQ,8 GB,SSD 256GB,Nvidia Quadro K1100M,15.6 inch Full HD,8 Cell,Old,8.000.000
+Dell,Core i7-4800MQ,8 GB,SSD 256GB,Nvidia Quadro K2100M,15.6 inch Full HD,8 Cell,Old,8.200.000
+Dell,Core i7-4810MQ,8 GB,SSD 256GB,Nvidia Quadro K2100M,15.6 inch Full HD,8 Cell,Old,8.400.000
+Dell,Core i7-4800MQ,8 GB,SSD 256GB,Nvidia Quadro K1100M,15.6 inch 3K,8 Cell,Old,8.500.000
+Dell,Core i7-4800MQ,8 GB,SSD 256GB,Nvidia Quadro K1100M,15.6 inch 4K,8 Cell,Old,8.700.000
+Dell,Core i7-4810MQ,8 GB,SSD 256GB,Nvidia Quadro K1100M,15.6 inch 3K,8 Cell,Old,8.700.000
+Dell,Core i7-4900MQ,8 GB,SSD 256GB,Nvidia Quadro K2100M,15.6 inch Full HD,8 Cell,Old,8.700.000
+Dell,Core i7-4810MQ,8 GB,SSD 256GB,Nvidia Quadro K1100M,15.6 inch 4K,8 Cell,Old,8.900.000
+Dell,Core i7-4900MQ,8 GB,SSD 256GB,Nvidia Quadro K1100M,15.6 inch 3K,8 Cell,Old,9.000.000
+Dell,Core i7-4900MQ,8 GB,SSD 256GB,Nvidia Quadro K1100M,15.6 inch 4K,8 Cell,Old,9.200.000
+Dell,Core i7-4800MQ,8 GB,SSD 256GB,Nvidia Quadro K2100M,15.6 inch 3K,8 Cell,Old,9.200.000
+Dell,Core i7-4800MQ,8 GB,SSD 256GB,Nvidia Quadro K2100M,15.6 inch 4K,8 Cell,Old,9.400.000
+Dell,Core i7-4810MQ,8 GB,SSD 256GB,Nvidia Quadro K2100M,15.6 inch 3K,8 Cell,Old,9.400.000
+Dell,Core i7-4810MQ,8 GB,SSD 256GB,Nvidia Quadro K2100M,15.6 inch 4K,8 Cell,Old,9.600.000
+Dell,Core i7-4900MQ,8 GB,SSD 256GB,Nvidia Quadro K2100M,15.6 inch 3K,8 Cell,Old,9.700.000
+Dell,Core i7-4900MQ,8 GB,SSD 256GB,Nvidia Quadro K2100M,15.6 inch 4K,8 Cell,Old,9.900.000
+Dell,Core i5-10310U,8 GB,SSD 512GB,Intel HD Graphics,14 inch Full HD,"4 Cell, 52WHr",Old,8.900.000
+Dell,Core i5-10310U,16 GB,SSD 512GB,Intel HD Graphics,14 inch Full HD,"4 Cell, 52WHr",Old,9.600.000
+Dell,Core i7-10610U,16 GB,SSD 512GB,Intel HD Graphics,14 inch Full HD,"4 Cell, 52WHr",Old,10.600.000
+HP,Core i5-10310U,8 GB,SSD 256GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,9.200.000
+HP,Core i5-10310U,16 GB,SSD 256GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,9.900.000
+HP,Core i7-10810U,8 GB,SSD 256GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,11.900.000
+HP,Core i7-10810U,16 GB,SSD 512GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,12.900.000
+Dell,Core i5-1145G7,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch Full HD,63 Wh Lithium-Ion,Old,10.400.000
+Dell,Core i7-1185G7,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch Full HD,63 Wh Lithium-Ion,Old,11.900.000
+Dell,Core i7-1185G7,32 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch Full HD,63 Wh Lithium-Ion,Old,12.500.000
+Dell,Core i5-1145G7,8 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,4 Cell 63Whr,Old,10.600.000
+Dell,Core i5-1145G7,16 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,4 Cell 63Whr,Old,11.000.000
+HP,Core i5-1145G7,16 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,"3-cell, 53 Wh Li-ion",Old,10.900.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,"3-cell, 56WHz",Old,18.900.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,"3-cell, 56WHz",Old,20.500.000
+Dell,Core i7-12700H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,"3-cell, 56WHz",Old,22.000.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050Ti 4GB,15.6 inch Full HD,"3-cell, 56WHz",Old,22.500.000
+Dell,Core i7-12650H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,"3-cell, 56WHz",Old,23.500.000
+Dell,Core i7-12700H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,"3-cell, 56WHz",Old,24.000.000
+HP,Core i7-6820HQ,RAM 8GB + SSD 256GB,Nvidia Quadro M1000,15.6 inch Full HD,99%,9-cell Lithium ion 90 Wh,Old,7.500.000
+HP,Core i7-6820HQ,RAM 8GB + SSD 256GB,Nvidia Quadro M2000,15.6 inch Full HD,99%,9-cell Lithium ion 90 Wh,Old,8.500.000
+HP,Core i7-6820HQ,RAM 16GB + SSD 512GB,Nvidia Quadro M1000,15.6 inch Full HD,99%,9-cell Lithium ion 90 Wh,Old,9.300.000
+HP,Core i7-6820HQ,RAM 16GB + SSD 512GB,Nvidia Quadro M2000,15.6 inch Full HD,99%,9-cell Lithium ion 90 Wh,Old,10.300.000
+Dell,Core i7-6820HQ,8 GB,SSD 240GB,AMD FirePro W5130M,15.6 inch Full HD,84 Wh,Old,8.200.000
+Dell,Intel Xeon E3 1505M,8 GB,SSD 240GB,AMD FirePro W5130M,15.6 inch Full HD,84 Wh,Old,8.900.000
+HP,Core i7-8750H,8 GB,SSD 256GB + HDD 500GB,Nvidia Quadro P1000 4GB,15.6 inch Full HD,72WHr,Old,13.900.000
+HP,Core i7-8750H,16 GB,SSD 256GB + HDD 500GB,Nvidia Quadro P1000 4GB,15.6 inch Full HD,72WHr,Old,14.800.000
+HP,Core i7-8750H,8 GB,SSD 256GB + HDD 500GB,Nvidia Quadro P2000 4GB,15.6 inch Full HD,72WHr,Old,14.900.000
+HP,Core i7-8750H,16 GB,SSD 256GB + HDD 500GB,Nvidia Quadro P2000 4GB,15.6 inch Full HD,72WHr,Old,15.800.000
+Dell,Core i7-4800MQ,8 GB,HDD 500GB + SSD 120GB,AMD FirePro M6100M,17.3 inch Full HD,72WHr,Old,14.400.000
+Dell,Core i7-4900MQ,8 GB,HDD 500GB + SSD 120GB,AMD FirePro M6100M,17.3 inch Full HD,72WHr,Old,14.900.000
+Dell,Core i7-4800MQ,8 GB,HDD 500GB + SSD 120GB,Nvidia Quadro K3100M,17.3 inch Full HD,72WHr,Old,15.700.000
+Dell,Core i7-4940MX,8 GB,HDD 500GB + SSD 120GB,AMD FirePro M6100M,17.3 inch Full HD,72WHr,Old,15.900.000
+Dell,Core i7-4900MQ,8 GB,HDD 500GB + SSD 120GB,Nvidia Quadro K3100M,17.3 inch Full HD,72WHr,Old,16.200.000
+Dell,Core i7-4800MQ,8 GB,HDD 500GB + SSD 120GB,Nvidia Quadro K4100M,17.3 inch Full HD,72WHr,Old,17.200.000
+Dell,Core i7-4940MX,8 GB,HDD 500GB + SSD 120GB,Nvidia Quadro K3100M,17.3 inch Full HD,72WHr,Old,17.200.000
+Dell,Core i7-4900MQ,8 GB,HDD 500GB + SSD 120GB,Nvidia Quadro K4100M,17.3 inch Full HD,72WHr,Old,17.700.000
+Dell,Core i7-4940MX,8 GB,HDD 500GB + SSD 120GB,Nvidia Quadro K4100M,17.3 inch Full HD,72WHr,Old,18.700.000
+Dell,Core i7-4900MQ,8 GB,HDD 500GB + SSD 120GB,Nvidia Quadro K5100M,17.3 inch Full HD,72WHr,Old,19.200.000
+Dell,Core i7-4940MX,8 GB,HDD 500GB + SSD 120GB,Nvidia Quadro K5100M,17.3 inch Full HD,72WHr,Old,20.200.000
+HP,Core i7-7700HQ,8 GB,SSD 256GB,Nvidia Quadro M2200,15.6 inch Full HD,9 Cells (51Wh),Old,23.900.000
+HP,Core i7-7820HQ,8 GB,SSD 256GB,Nvidia Quadro M2200,15.6 inch Full HD,9 Cells (51Wh),Old,24.900.000
+HP,Core i7-7700HQ,16 GB,SSD 512GB,Nvidia Quadro P5000 16GB,17.3 inch Full HD,9 Cell 90 WHr Long Life,Old,24.900.000
+HP,Core i5-10210U,8 GB,SSD 256GB,Intel UHD Graphics,14 inch Full HD,"3-cell, 41 Wh Li-ion",Old,8.700.000
+Dell,Core i5-11300H,16 GB,,Intel Iris Xe Graphics,14 inch Full HD,4 Cell 54WHr,Old,11.800.000
+Dell,Core i5-1145G7,8 GB,SSD 256GB,Intel Iris Xe Graphics,15.6 inch Full HD,4 Cell 63 Wh,Old,12.900.000
+Dell,Core i5-1145G7,16 GB,SSD 256GB,Intel Iris Xe Graphics,15.6 inch Full HD,4 Cell 63 Wh,Old,13.900.000
+Lenovo,Core i7-12700H,16 GB,SSD 1TB,Nvidia GeForce RTX 3050 4GB,16 inch Full HD,80Wh,Old,22.500.000
+HP,Core i5-2520M,4 GB,SSD 120GB,Intel HD Graphics 3000,15.6 inch HD,6 cells,Old,3.900.000
+Dell,Core i5-4200U,4 GB,SSD 120GB,Intel HD Graphics 4400,14 inch HD,6 cells,Old,4.500.000
+Dell,Core i5-4200U,4 GB,SSD 120GB,Nvidia GeForce GT 720M,14 inch HD,6 cells,Old,5.000.000
+Dell,Core i5-5300U,4 GB,SSD 120GB,Intel HD Graphics 5500,12.5 inch HD,6 cells,Old,4.700.000
+Dell,Core i7-5600U,4 GB,SSD 120GB,Intel HD Graphics 5500,12.5 inch HD,6 cells,Old,5.300.000
+Dell,Core i5-5300U,4 GB,SSD 120GB,Intel HD Graphics 5500,14 inch HD,4 cell,Old,4.800.000
+Dell,Core i5-5300U,4 GB,SSD 120GB,Intel HD Graphics 5500,14 inch HD+,4 cell,Old,5.000.000
+Dell,Core i5-5300U,4 GB,SSD 120GB,Intel HD Graphics 5500,14 inch Full HD,4 cell,Old,5.300.000
+HP,Core i5-5300U,4 GB,SSD 120GB,Intel HD Graphics 5500,14 inch HD,4 cell,Old,4.900.000
+HP,Core i5-5300U,4 GB,SSD 120GB,Intel HD Graphics 5500,14 inch HD+,4 cell,Old,5.200.000
+Asus,Core i5-11400H,16 GB,SSD 512GB,Nvidia GeForce RTX 2050 4GB,15.6 inch Full HD,"48WHrs, 3S1P, 3-cell Li-ion",Old,14.800.000
+Dell,Core i5-4200M,8 GB,SSD 240GB,Intel Graphics 4600,15.6 inch HD,"48WHrs, 3S1P, 3-cell Li-ion",Old,5.900.000
+Dell,Core i5-4200M,8 GB,SSD 240GB,Intel Graphics 4600,15.6 inch Full HD,"48WHrs, 3S1P, 3-cell Li-ion",Old,6.400.000
+Dell,Core i5-4300U,4 GB,SSD 128GB,Intel HD Graphics 4400,12.5 inch HD,"48WHrs, 3S1P, 3-cell Li-ion",Old,3.500.000
+Dell,Core i5-4200U,4 GB,SSD 120GB,Intel HD Graphics 5500,14 inch HD,51Whr,Old,4.500.000
+Asus,Core i7-10750H,16 GB,SSD 512GB,Nvidia GeForce GTX 1650Ti 4GB,15.6 inch Full HD,3 Cell 48WHr,Old,15.500.000
+Dell,Core i5-10310U,8 GB,SSD 512GB,Intel HD Graphics,14 inch Full HD,"4 Cell, 52WHr",Old,8.900.000
+Dell,Core i5-10310U,16 GB,SSD 512GB,Intel HD Graphics,14 inch Full HD,"4 Cell, 52WHr",Old,9.600.000
+Dell,Core i7-10610U,16 GB,SSD 512GB,Intel HD Graphics,14 inch Full HD,"4 Cell, 52WHr",Old,10.600.000
+HP,Core i5-10310U,8 GB,SSD 256GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,9.200.000
+HP,Core i5-10310U,16 GB,SSD 256GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,9.900.000
+HP,Core i7-10810U,8 GB,SSD 256GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,11.900.000
+HP,Core i7-10810U,16 GB,SSD 512GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,12.900.000
+Dell,Core i5-1145G7,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch Full HD,63 Wh Lithium-Ion,Old,10.400.000
+Dell,Core i7-1185G7,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch Full HD,63 Wh Lithium-Ion,Old,11.900.000
+Dell,Core i7-1185G7,32 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch Full HD,63 Wh Lithium-Ion,Old,12.500.000
+Dell,Core i5-1145G7,8 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,4 Cell 63Whr,Old,10.600.000
+Dell,Core i5-1145G7,16 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,4 Cell 63Whr,Old,11.000.000
+HP,Core i5-1145G7,16 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,"3-cell, 53 Wh Li-ion",Old,10.900.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,"3-cell, 56WHz",Old,18.900.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,"3-cell, 56WHz",Old,20.500.000
+Dell,Core i7-12700H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,"3-cell, 56WHz",Old,22.000.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050Ti 4GB,15.6 inch Full HD,"3-cell, 56WHz",Old,22.500.000
+Dell,Core i7-12650H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,"3-cell, 56WHz",Old,23.500.000
+Dell,Core i7-12700H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,"3-cell, 56WHz",Old,24.000.000
+Msi,Core i5-10500H,8 GB,SSD 256GB,Nvidia GeForce GTX 1650 4GB,15.6 inch Full HD,"3 cell, 51Wh",Old,11.400.000
+Msi,Core i5-10500H,16 GB,SSD 256GB,Nvidia GeForce GTX 1650 4GB,15.6 inch Full HD,"3 cell, 51Wh",Old,12.800.000
+Msi,Core i5-10500H,8 GB,SSD 256GB,Nvidia GeForce GTX 1650 4GB,15.6 inch Full HD,"3 cell, 51Wh",Old,13.800.000
+Msi,Core i5-10500H,16 GB,SSD 256GB,Nvidia GeForce GTX 1650 4GB,15.6 inch Full HD,"3 cell, 51Wh",Old,14.300.000
+HP,AMD Ryzen 7 2700U,8 GB,SSD 512GB,AMD Radeon Vega 8,13.3 inch Full HD,3 cell,Old,15.900.000
+HP,AMD Ryzen 7 2700U,16 GB,SSD 512GB,AMD Radeon Vega 8,13.3 inch Full HD,3 cell,Old,16.900.000
+Dell,Core i7-10750H,16 GB,SSD 512GB,Nvidia GeForce GTX 1650Ti 4GB,15.6 inch Full HD,4 Cell,Old,15.500.000
+Lenovo,Core i5-6200U,8 GB,SSD 240GB,Intel HD Graphics 520,14 inch Full HD,4 Cell,Old,6.800.000
+HP,Core i5-8250U,8 GB,SSD 256GB,Intel HD Graphics 620,14 inch Full HD,"3-cell, Long Life 48 WHr Li-ion",Old,6.900.000
+Lenovo,Core i3-6100U,4 GB,SSD 120GB,Intel HD Graphics 520,12.5 inch HD,"3-cell, Long Life 48 WHr Li-ion",Old,7.200.000
+Dell,Core i3-6006U,4 GB,SSD 128GB,Intel HD Graphics 520,13.3 inch HD,4 cells,Old,7.500.000
+Dell,Core i5-5200U,4 GB,SSD 120GB,Nvidia GeForce 820M,15.6 inch HD,4 cells,Old,8.100.000
+Dell,Core i5-5200U,4 GB,SSD 120GB,Intel HD Graphics 5500,14 inch HD,3Cell 43Whr,Old,8.500.000
+Dell,Core i7-8750H,8 GB,SSD 256GB,Nvidia Geforce MX130 2GB,15.6 inch Full HD,"3 Cell 51 WHr, Li-ion/Polymer",Old,8.900.000
+Dell,Core i5-5200U,4 GB,SSD 120GB,AMD Radeon R7 M265 2 GB,14 inch HD,"3 Cell 51 WHr, Li-ion/Polymer",Old,9.500.000
+Lenovo,Core i3-8130U,8 GB,HDD 1TB + SSD 120GB,Intel HD Graphics 620,14 inch Full HD,"3 Cell 51 WHr, Li-ion/Polymer",Old,9.800.000
+HP,Core i5-7200U,8 GB,SSD 240GB,Intel HD Graphics 620,14 inch HD,72WHr,Old,10.500.000
+Lenovo,Core i7-8550U,8 GB,SSD 256GB,Intel HD Graphics 620,14 inch Full HD,3 cell 57Wh,Old,17.200.000
+Lenovo,Core i7-8550U,8 GB,SSD 256GB,Intel HD Graphics 620,12.5 inch HD,3 cell 57Wh,Old,20.500.000
+Lenovo,Core i5-8250U,8 GB,SSD 256GB,Intel HD Graphics 620,14 inch 2K c?m ?ng,4 Cell,Old,23.900.000
+Dell,Core i7-4720HQ,8 GB,HDD 500GB + SSD 120GB,Nvidia Geforce GTX 850M,14 inch HD,4 Cells,Old,9.600.000
+Dell,Core i7-4720HQ,8 GB,HDD 1TB + SSD 120GB,Nvidia Geforce GTX 850M,14 inch HD,4 Cells,Old,10.000.000
+Dell,Core i7-8750H,8 GB,HDD 1TB + SSD 128GB,Nvidia Geforce GTX 1050Ti 4GB,15.6 inch Full HD,4 Cell 56WHr,Old,10.300.000
+Acer,AMD Ryzen 7 3750H,8 GB,SSD 512GB,Nvidia GeForce GTX 1650Ti 4GB GDDR6 + Radeon Vega 8 Graphics,15.6 inch Full HD,4 Cell 48Whr,Old,12.900.000
+Dell,Core i7-9750H,8 GB,SSD 512GB,Nvidia GeForce GTX 1650 4GB,15.6 inch Full HD,3 Cells 51 Whr,Old,12.900.000
+Dell,Core i7-9750H,8 GB,SSD 512GB,Nvidia Geforce GTX 1660Ti 6GB,15.6 inch Full HD,3 Cells 51 Whr,Old,13.500.000
+Asus,Core i5-8250U,8 GB,HDD 1TB,Nvidia GeForce GTX 1050 2GB,15.6 inch Full HD,3 Cells 51 Whr,Old,14.600.000
+Dell,Core i5-10310U,8 GB,SSD 512GB,Intel HD Graphics,14 inch Full HD,"4 Cell, 52WHr",Old,8.900.000
+Dell,Core i5-10310U,16 GB,SSD 512GB,Intel HD Graphics,14 inch Full HD,"4 Cell, 52WHr",Old,9.600.000
+Dell,Core i7-10610U,16 GB,SSD 512GB,Intel HD Graphics,14 inch Full HD,"4 Cell, 52WHr",Old,10.600.000
+HP,Core i5-10310U,8 GB,SSD 256GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,9.200.000
+HP,Core i5-10310U,16 GB,SSD 256GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,9.900.000
+HP,Core i7-10810U,8 GB,SSD 256GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,11.900.000
+HP,Core i7-10810U,16 GB,SSD 512GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,12.900.000
+Dell,Core i5-1145G7,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch Full HD,63 Wh Lithium-Ion,Old,10.400.000
+Dell,Core i7-1185G7,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch Full HD,63 Wh Lithium-Ion,Old,11.900.000
+Dell,Core i7-1185G7,32 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch Full HD,63 Wh Lithium-Ion,Old,12.500.000
+Dell,Core i5-1145G7,8 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,4 Cell 63Whr,Old,10.600.000
+Dell,Core i5-1145G7,16 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,4 Cell 63Whr,Old,11.000.000
+HP,Core i5-1145G7,16 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,"3-cell, 53 Wh Li-ion",Old,10.900.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,"3-cell, 56WHz",Old,18.900.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,"3-cell, 56WHz",Old,20.500.000
+Dell,Core i7-12700H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,"3-cell, 56WHz",Old,22.000.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050Ti 4GB,15.6 inch Full HD,"3-cell, 56WHz",Old,22.500.000
+Dell,Core i7-12650H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,"3-cell, 56WHz",Old,23.500.000
+Dell,Core i7-12700H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,"3-cell, 56WHz",Old,24.000.000
+Dell,Core i7-8750H,8 GB,HDD 1TB + SSD 128GB,Nvidia Geforce GTX 1050Ti 4GB,15.6 inch Full HD,56Wh,Old,21.000.000
+Lenovo,Core i5-5200U,8 GB,SSD 240GB,Intel HD Graphics 5500,14 inch HD,56Wh,Old,4.900.000
+Lenovo,Core i5-4300U,4 GB,SSD 128GB,Intel HD Graphics 4400,14 inch HD,56Wh,Old,6.300.000
+Lenovo,Core i5-5300U,4 GB,SSD 120GB,Intel HD Graphics 5500,12.5 inch HD,56Wh,Old,7.700.000
+Lenovo,Core i7-6600U,8 GB,SSD 240GB,Intel HD Graphics 520,14 inch Full HD,6-cell 51Whr,Old,7.700.000
+Lenovo,Core i5-6300U,8 GB,SSD 256GB,Intel HD Graphics 620,14 inch Full HD,3 Cells,Old,7.900.000
+Lenovo,Core i5-6300U,4 GB,SSD 120GB,Intel HD Graphics 520,12.5 inch HD,3 Cell,Old,8.500.000
+Lenovo,Core i5-6300U,4 GB,SSD 240GB,Intel HD Graphics 520,12.5 inch HD,3 Cell,Old,9.000.000
+Lenovo,Core i5-6300U,8 GB,SSD 120GB,Intel HD Graphics 520,12.5 inch HD,3 Cell,Old,9.000.000
+Lenovo,Core i5-6300U,8 GB,SSD 240GB,Intel HD Graphics 520,12.5 inch HD,3 Cell,Old,9.500.000
+Lenovo,Core i7-8550U,8 GB,SSD 256GB,Intel HD Graphics 620,14 inch Full HD,3 Cells 24 Whrs,Old,8.500.000
+Lenovo,Core i5-7200U,4 GB,SSD 120GB,Intel HD Graphics 520,12.5 inch Full HD,3 Cells 24 Whrs,Old,8.600.000
+Lenovo,Core i5-7200U,8 GB,SSD 120GB,Intel HD Graphics 520,12.5 inch Full HD,3 Cells 24 Whrs,Old,9.000.000
+Lenovo,Core i5-7200U,4 GB,SSD 256GB,Intel HD Graphics 520,12.5 inch Full HD,3 Cells 24 Whrs,Old,9.000.000
+Lenovo,Core i5-7200U,8 GB,SSD 256GB,Intel HD Graphics 520,12.5 inch Full HD,3 Cells 24 Whrs,Old,9.400.000
+Lenovo,Core i5-4200U,8 GB,SSD 240GB,Intel HD Graphics 4400,12.5 Inch Full HD c?m ?ng,3 Cells 24 Whrs,Old,8.800.000
+Lenovo,Core i7-5600U,8 GB,SSD 240GB,Intel HD Graphics 5500,14 inch Full HD,4 cell,Old,9.900.000
+Lenovo,Core i5-5200U,8 GB,SSD 120GB,Intel HD Graphics 5500,14 inch Full HD,Lithium Polymer 8-cell RapidCharge,Old,10.800.000
+Lenovo,Core i5-5200U,8 GB,SSD 256GB,Intel HD Graphics 5500,14 inch Full HD,Lithium Polymer 8-cell RapidCharge,Old,11.200.000
+Lenovo,Core i5-8365U,16 GB,SSD 256GB,Intel UHD Graphics,14 inch Full HD,51WHr Li-Polymer,Old,11.900.000
+Lenovo,Core i7-10510U,16 GB,SSD 256GB,Intel UHD Graphics,14 inch Full HD,51WHr Li-Polymer,Old,14.300.000
+Lenovo,Core i5-8365U,8 GB,SSD 256GB,Intel HD Graphics 620,14 inch Full HD,3 Cells,Old,8.400.000
+Lenovo,Core i5-8250U,8 GB,SSD 256GB,Intel HD Graphics 620,12.5 inch HD,3 Cells,Old,14.900.000
+HP,Core i5-6200U,4 GB,SSD 120GB,Intel HD Graphics 520,15.6 inch HD,44Whr,Old,5.200.000
+Dell,Core i5-6200U,8 GB,SSD 256GB,Intel HD Graphics 520,14 inch HD,6 Cell – 65Whr,Old,5.900.000
+Dell,Core i5-7300U,8 GB,SSD 256GB,Intel HD Graphics,15.6 inch HD,4 cell,Old,6.200.000
+Dell,Core i5-7300U,8 GB,SSD 256GB,Intel HD Graphics,15.6 inch Full HD,4 cell,Old,6.700.000
+Dell,Core i5-8350U,8 GB,SSD 256GB,Intel HD Graphics,15.6 inch HD,4 cell,Old,6.900.000
+Dell,Core i5-8350U,8 GB,SSD 256GB,Intel HD Graphics,15.6 inch Full HD,4 cell,Old,7.200.000
+Dell,Core i7-8560U,8 GB,SSD 256GB,Intel HD Graphics,15.6 inch Full HD,4 cell,Old,7.500.000
+Dell,Core i7-8560U,8 GB,SSD 256GB,Nvidia Geforce MX130 2GB,15.6 inch Full HD,4 cell,Old,7.900.000
+Dell,Core i7-8565U,8 GB,SSD 256GB,Nvidia MX130,14 inch Full HD,56 Wh,Old,7.900.000
+HP,Core i5-6200U,4 GB,SSD 128GB,Intel HD Graphics 520,15.6 inch HD,56 Wh,Old,8.400.000
+HP,Core i5-6200U,4 GB,SSD 128GB,Intel HD Graphics 520,15.6 inch Full HD,56 Wh,Old,8.900.000
+HP,Core i5-6200U,8 GB,SSD 128GB,Intel HD Graphics 520,15.6 inch HD,56 Wh,Old,8.900.000
+HP,Core i5-6200U,8 GB,SSD 128GB,Intel HD Graphics 520,15.6 inch Full HD,56 Wh,Old,9.400.000
+Dell,Core i5-3320M,4 GB,SSD 128GB,Intel HD Graphics 4000,14 inch HD,56 Wh,Old,4.500.000
+Dell,Core i5-3320M,4 GB,SSD 128GB,Intel HD Graphics 4000,14 inch HD+,56 Wh,Old,4.800.000
+Dell,Core i5-3320M,4 GB,SSD 128GB,Intel HD Graphics 4000,14 inch Full HD,56 Wh,Old,5.000.000
+HP,Core i5-3427U,4 GB,SSD 120GB,Intel HD Graphics 4000,14 inch HD,56 Wh,Old,4.900.000
+HP,Core i5-3427U,4 GB,SSD 120GB,Intel HD Graphics 4000,14 inch HD+,56 Wh,Old,5.200.000
+Dell,Core i5-4300U,4 GB,SSD 120GB,Intel HD Graphics 4400,14 inch HD,56 Wh,Old,4.400.000
+Dell,Core i5-4300U,4 GB,SSD 120GB,Intel HD Graphics 4400,14 inch Full HD,56 Wh,Old,4.900.000
+Dell,Core i5-10310U,8 GB,SSD 512GB,Intel HD Graphics,14 inch Full HD,"4 Cell, 52WHr",Old,8.900.000
+Dell,Core i5-10310U,16 GB,SSD 512GB,Intel HD Graphics,14 inch Full HD,"4 Cell, 52WHr",Old,9.600.000
+Dell,Core i7-10610U,16 GB,SSD 512GB,Intel HD Graphics,14 inch Full HD,"4 Cell, 52WHr",Old,10.600.000
+HP,Core i5-10310U,8 GB,SSD 256GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,9.200.000
+HP,Core i5-10310U,16 GB,SSD 256GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,9.900.000
+HP,Core i7-10810U,8 GB,SSD 256GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,11.900.000
+HP,Core i7-10810U,16 GB,SSD 512GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,12.900.000
+Dell,Core i5-1145G7,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch Full HD,63 Wh Lithium-Ion,Old,10.400.000
+Dell,Core i7-1185G7,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch Full HD,63 Wh Lithium-Ion,Old,11.900.000
+Dell,Core i7-1185G7,32 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch Full HD,63 Wh Lithium-Ion,Old,12.500.000
+Dell,Core i5-1145G7,8 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,4 Cell 63Whr,Old,10.600.000
+Dell,Core i5-1145G7,16 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,4 Cell 63Whr,Old,11.000.000
+HP,Core i5-1145G7,16 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,"3-cell, 53 Wh Li-ion",Old,10.900.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,"3-cell, 56WHz",Old,18.900.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,"3-cell, 56WHz",Old,20.500.000
+Dell,Core i7-12700H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,"3-cell, 56WHz",Old,22.000.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050Ti 4GB,15.6 inch Full HD,"3-cell, 56WHz",Old,22.500.000
+Dell,Core i7-12650H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,"3-cell, 56WHz",Old,23.500.000
+Dell,Core i7-12700H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,"3-cell, 56WHz",Old,24.000.000
+Dell,Intel Celeron 3215U,4 GB,SSD 120GB,Intel HD Graphics 4400,14 inch HD,5 cells,Old,6.200.000
+Dell,Core i5-3320M,4 GB,SSD 120GB,Intel HD Graphics 4000,15.6 inch HD,5 cells,Old,5.300.000
+Dell,Core i3-6100U,4 GB,SSD 120GB,Intel HD Graphics 520,15.6 inch HD,5 cells,Old,6.500.000
+Dell,Core i3-6100U,4 GB,SSD 120GB,Intel HD Graphics 520,15.6 inch Full HD,5 cells,Old,7.000.000
+Dell,Core i5-6200U,4 GB,SSD 120GB,Intel HD Graphics 520,15.6 inch HD,5 cells,Old,7.500.000
+Dell,Core i5-6200U,4 GB,SSD 120GB,Intel HD Graphics 520,15.6 inch Full HD,5 cells,Old,8.000.000
+Dell,Core i7-4600U,4 GB,SSD 120GB,Intel HD Graphics 4400,12.5 inch HD,5 cells,Old,4.300.000
+Dell,Core i5-6200U,8 GB,SSD 240GB,Intel HD Graphics 520,15.6 inch HD,62Whr,Old,4.900.000
+Dell,Core i5-6200U,8 GB,SSD 240GB,Intel HD Graphics 520,15.6 inch Full HD,62Whr,Old,5.300.000
+Dell,Core i5-6440HQ,8 GB,SSD 240GB,Intel HD Graphics 520,15.6 inch Full HD,62Whr,Old,5.900.000
+Dell,Core i7-6820HQ,8 GB,SSD 240GB,Intel HD Graphics 520,15.6 inch Full HD,62Whr,Old,6.900.000
+Dell,Core i7-6820HQ,8 GB,SSD 240GB,AMD M370,15.6 inch Full HD,62Whr,Old,7.500.000
+HP,Core i3-4000M,4 GB,SSD 120GB,Intel Graphics 4600,15.6 inch HD,45Whr,Old,4.900.000
+HP,Core i3-4000M,4 GB,SSD 120GB,Intel Graphics 4600,15.6 Inch HD+,45Whr,Old,5.100.000
+HP,Core i3-4000M,4 GB,SSD 120GB,Intel Graphics 4600,15.6 inch Full HD,45Whr,Old,5.400.000
+HP,Core i5-4300M,4 GB,SSD 120GB,Intel Graphics 4600,15.6 inch HD,45Whr,Old,5.800.000
+HP,Core i5-4300M,4 GB,SSD 120GB,Intel Graphics 4600,15.6 Inch HD+,45Whr,Old,6.000.000
+HP,Core i5-4300M,4 GB,SSD 120GB,Intel Graphics 4600,15.6 inch Full HD,45Whr,Old,6.300.000
+Dell,Core i5-5200U,8 GB,SSD 256GB,Intel HD Graphics 5500,15.6 inch HD,45Whr,Old,5.900.000
+Dell,Core i5-5200U,8 GB,SSD 256GB,Intel HD Graphics 5500,15.6 inch Full HD,45Whr,Old,6.400.000
+Dell,Core i3-5005U,4 GB,SSD 120GB,Intel HD Graphics 5500,15.6 inch HD,6 Cells,Old,4.900.000
+Dell,Core i5-5200U,4 GB,SSD 120GB,Intel HD Graphics 5500,15.6 inch HD,6 Cells,Old,5.900.000
+Dell,Core i5-5200U,8 GB,SSD 120GB,Intel HD Graphics 5500,15.6 inch HD,6 Cells,Old,6.300.000
+Dell,Core i5-5200U,4 GB,SSD 120GB,Intel HD Graphics 5500,15.6 inch Full HD,6 Cells,Old,6.400.000
+Dell,Core i5-5200U,8 GB,SSD 120GB,Intel HD Graphics 5500,15.6 inch Full HD,6 Cells,Old,6.800.000
+Dell,Core i7-7600U,8 GB,SSD 256GB,Intel HD Graphics,14 inch Full HD,6 Cells,Old,6.200.000
+Dell,Core i7-7820HQ,8 GB,SSD 256GB,Intel HD Graphics,14 inch Full HD,6 Cells,Old,6.800.000
+Asus,Ryzen 5-3550H,8 GB,SSD 256GB,Nvidia GeForce GTX 1050 2GB,15.6 inch Full HD,6 Cells,Old,12.900.000
+Dell,Core i5-9400H,8 GB,SSD 256GB,Intel UHD Graphics 630,14 inch Full HD,4 Cell (68wh),Old,7.500.000
+HP,Core i3-4030U,4 GB,SSD 120GB,Intel HD Graphics 4400,15.6 inch HD,4 Cell (68wh),Old,4.900.000
+HP,Core i3-4030U,4 GB,SSD 256GB,Intel HD Graphics 4400,15.6 inch HD,4 Cell (68wh),Old,5.300.000
+HP,Core i3-5010U,4 GB,SSD 120GB,Intel HD Graphics 4400,15.6 inch HD,4 Cell (68wh),Old,5.500.000
+HP,Core i3-5010U,4 GB,SSD 256GB,Intel HD Graphics 4400,15.6 inch HD,4 Cell (68wh),Old,5.900.000
+Dell,Core i5-5200U,4 GB,SSD 120GB,AMD Radeon R7 M265 2 GB,15.6 inch HD,4 Cell (68wh),Old,8.300.000
+Dell,Core i5-8400H,8 GB,SSD 256GB,Intel UHD Graphics 630,14 inch Full HD,4 Cell 68 Wh,Old,6.900.000
+Dell,Core i5-10310U,8 GB,SSD 512GB,Intel HD Graphics,14 inch Full HD,"4 Cell, 52WHr",Old,8.900.000
+Dell,Core i5-10310U,16 GB,SSD 512GB,Intel HD Graphics,14 inch Full HD,"4 Cell, 52WHr",Old,9.600.000
+Dell,Core i7-10610U,16 GB,SSD 512GB,Intel HD Graphics,14 inch Full HD,"4 Cell, 52WHr",Old,10.600.000
+HP,Core i5-10310U,8 GB,SSD 256GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,9.200.000
+HP,Core i5-10310U,16 GB,SSD 256GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,9.900.000
+HP,Core i7-10810U,8 GB,SSD 256GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,11.900.000
+HP,Core i7-10810U,16 GB,SSD 512GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,12.900.000
+Dell,Core i5-1145G7,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch Full HD,63 Wh Lithium-Ion,Old,10.400.000
+Dell,Core i7-1185G7,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch Full HD,63 Wh Lithium-Ion,Old,11.900.000
+Dell,Core i7-1185G7,32 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch Full HD,63 Wh Lithium-Ion,Old,12.500.000
+Dell,Core i5-1145G7,8 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,4 Cell 63Whr,Old,10.600.000
+Dell,Core i5-1145G7,16 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,4 Cell 63Whr,Old,11.000.000
+HP,Core i5-1145G7,16 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,"3-cell, 53 Wh Li-ion",Old,10.900.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,"3-cell, 56WHz",Old,18.900.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,"3-cell, 56WHz",Old,20.500.000
+Dell,Core i7-12700H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,"3-cell, 56WHz",Old,22.000.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050Ti 4GB,15.6 inch Full HD,"3-cell, 56WHz",Old,22.500.000
+Dell,Core i7-12650H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,"3-cell, 56WHz",Old,23.500.000
+Dell,Core i7-12700H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,"3-cell, 56WHz",Old,24.000.000
+Hp,Core i7-8550U,8 GB,SSD 256GB,Intel HD Graphics 620,13.3 inch Full HD,3-cell,Old,7.400.000
+Dell,Core i7-6600U,8 GB,SSD 240GB,Intel HD Graphics 520,14 inch Full HD,3-cell,Old,5.400.000
+HP,Core i3-6100U,4 GB,SSD 120GB,Intel HD Graphics 520,13.3 inch HD,3-cell,Old,8.300.000
+HP,Core i5-6300U,4 GB,SSD 120GB,Intel HD Graphics 520,13.3 inch HD,3-cell,Old,8.900.000
+HP,Core i5-5200U,4 GB,SSD 240GB,Intel HD Graphics 5500,15.6 inch HD,3-cell,Old,8.600.000
+Dell,Core i5-8265U,8 GB,HDD 1TB + SSD 128GB,Nvidia Geforce MX130 2GB,15.6 inch Full HD,3-cell,Old,6.900.000
+Dell,Core i7-4600U,4 GB,SSD 120GB,Intel HD Graphics 4400,14 inch HD,6 cells (s? d?ng liên t?c ???c 2-3 gi?),Old,4.700.000
+Dell,Core i7-4600U,4 GB,SSD 120GB,Intel HD Graphics 4400,14 inch Full HD,6 cells (s? d?ng liên t?c ???c 2-3 gi?),Old,5.200.000
+Dell,Core i3-4005U,4 GB,SSD 128GB,Intel HD Graphics 4400,15.6 inch HD,65Whr ho?c 40Whr,Old,6.200.000
+Dell,Core i3-4005U,4 GB,SSD 128GB,Intel HD Graphics 4400,15.6 inch Full HD,65Whr ho?c 40Whr,Old,6.700.000
+Dell,Core i5-4200U,4 GB,SSD 128GB,Intel HD Graphics 4400,15.6 inch HD,65Whr ho?c 40Whr,Old,7.000.000
+Dell,Core i5-4200U,4 GB,SSD 128GB,Intel HD Graphics 4400,15.6 inch Full HD,65Whr ho?c 40Whr,Old,7.500.000
+Dell,Core i7-4600M,4 GB,SSD 120GB,Intel Graphics 4600,14 inch HD,6 cell,Old,5.900.000
+Dell,Core i7-4600M,4 GB,SSD 120GB,Intel Graphics 4600,14 inch HD+,6 cell,Old,6.300.000
+Dell,Core i7-4600M,4 GB,SSD 120GB,AMD Radeon HD 8690M,14 inch HD,6 cell,Old,6.500.000
+Dell,Core i7-4600M,4 GB,SSD 120GB,AMD Radeon HD 8690M,14 inch HD+,6 cell,Old,6.800.000
+Dell,Core i7-8650U,8 GB,SSD 256GB,Intel HD Graphics 620,14 inch Full HD,"4Cell, 60WHr",Old,7.100.000
+Dell,Core i7-8650U,16 GB,SSD 256GB,Intel HD Graphics 620,14 inch Full HD,"4Cell, 60WHr",Old,7.700.000
+Asus,Core i5-8250U,8 GB,SSD 256GB,Intel HD Graphics 620,13.3 inch Full HD,"3 cell 50 Wh , Pin li?n",Old,16.900.000
+Dell,Core i7-6600U,8 GB,SSD 240GB,Intel HD Graphics 520,14 inch HD,"3 cell 50 Wh , Pin li?n",Old,6.100.000
+Dell,Core i7-7600U,8 GB,SSD 240GB,Intel HD Graphics 520,14 inch HD,"3 cell 50 Wh , Pin li?n",Old,6.400.000
+Dell,Core i7-6600U,8 GB,SSD 240GB,Intel HD Graphics 520,14 inch Full HD,"3 cell 50 Wh , Pin li?n",Old,6.600.000
+Dell,Core i7-7600U,8 GB,SSD 240GB,Intel HD Graphics 520,14 inch Full HD,"3 cell 50 Wh , Pin li?n",Old,6.900.000
+Dell,Core i5-8250U,4 GB,HDD 1TB,AMD Radeon 520,15.6 inch Full HD,"3 cell 50 Wh , Pin li?n",Old,12.600.000
+Dell,Core i5-10310U,8 GB,SSD 512GB,Intel HD Graphics,14 inch Full HD,"4 Cell, 52WHr",Old,8.900.000
+Dell,Core i5-10310U,16 GB,SSD 512GB,Intel HD Graphics,14 inch Full HD,"4 Cell, 52WHr",Old,9.600.000
+Dell,Core i7-10610U,16 GB,SSD 512GB,Intel HD Graphics,14 inch Full HD,"4 Cell, 52WHr",Old,10.600.000
+HP,Core i5-10310U,8 GB,SSD 256GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,9.200.000
+HP,Core i5-10310U,16 GB,SSD 256GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,9.900.000
+HP,Core i7-10810U,8 GB,SSD 256GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,11.900.000
+HP,Core i7-10810U,16 GB,SSD 512GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,12.900.000
+Dell,Core i5-1145G7,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch Full HD,63 Wh Lithium-Ion,Old,10.400.000
+Dell,Core i7-1185G7,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch Full HD,63 Wh Lithium-Ion,Old,11.900.000
+Dell,Core i7-1185G7,32 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch Full HD,63 Wh Lithium-Ion,Old,12.500.000
+Dell,Core i5-1145G7,8 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,4 Cell 63Whr,Old,10.600.000
+Dell,Core i5-1145G7,16 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,4 Cell 63Whr,Old,11.000.000
+HP,Core i5-1145G7,16 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,"3-cell, 53 Wh Li-ion",Old,10.900.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,"3-cell, 56WHz",Old,18.900.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,"3-cell, 56WHz",Old,20.500.000
+Dell,Core i7-12700H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,"3-cell, 56WHz",Old,22.000.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050Ti 4GB,15.6 inch Full HD,"3-cell, 56WHz",Old,22.500.000
+Dell,Core i7-12650H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,"3-cell, 56WHz",Old,23.500.000
+Dell,Core i7-12700H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,"3-cell, 56WHz",Old,24.000.000
+Asus,Core i5-8250U,4 GB,HDD 1TB,Intel HD Graphics 620,14 inch Full HD,"3-cell, 56WHz",Old,10.500.000
+Dell,Core i5-6200U,4 GB,SSD 256GB,Intel HD Graphics 620,15.6 inch HD,"3-cell, 56WHz",Old,8.400.000
+Dell,Core i5-6200U,8 GB,SSD 256GB,Intel HD Graphics 620,15.6 inch HD,"3-cell, 56WHz",Old,8.900.000
+Dell,Core i5-7200U,4 GB,SSD 256GB,Intel HD Graphics 620,15.6 inch HD,"3-cell, 56WHz",Old,9.400.000
+Dell,Core i5-7200U,8 GB,SSD 256GB,Intel HD Graphics 620,15.6 inch HD,"3-cell, 56WHz",Old,9.900.000
+Dell,Core i5-8265U,4 GB,SSD 256GB,Intel HD Graphics 620,15.6 inch HD,"3-cell, 56WHz",Old,13.400.000
+Dell,Core i5-8265U,8 GB,SSD 256GB,Intel HD Graphics 620,15.6 inch HD,"3-cell, 56WHz",Old,13.900.000
+HP,Core i5-4300U,4 GB,SSD 128GB,Intel HD Graphics 520,14 inch HD,"3-cell, 56WHz",Old,7.200.000
+HP,Core i7-4600U,4 GB,SSD 128GB,Intel HD Graphics 520,14 inch HD,"3-cell, 56WHz",Old,8.200.000
+HP,Core i5-3320M,4 GB,SSD 120GB,Intel HD Graphics 4000,15.6 inch HD,"3-cell, 56WHz",Old,6.900.000
+HP,Core i5-4300U,4 GB,SSD 120GB,Intel HD Graphics 4400,15.6 inch HD,"3-cell, 56WHz",Old,7.300.000
+HP,Core i5-4300U,4 GB,SSD 120GB,Intel HD Graphics 4400,15.6 Inch HD+,"3-cell, 56WHz",Old,7.600.000
+HP,Core i5-4300U,4 GB,SSD 120GB,Intel HD Graphics 4400,15.6 inch Full HD,"3-cell, 56WHz",Old,7.800.000
+Hp,Core i7-6600U,8 GB,SSD 240GB,Intel HD Graphics 520,14 inch Full HD,"3Cell, 46WHr",Old,5.700.000
+Dell,Core i7-4800MQ,8 GB,SSD 256GB,AMD Radeon HD 8790 2GB,15.6 inch Full HD,"3Cell, 46WHr",Old,6.800.000
+Dell,Core i7-6600U,8 GB,SSD 240GB,Intel HD Graphics 520,12.5 inch HD,4 Cell,Old,5.200.000
+Dell,Core i7-6600U,8 GB,SSD 240GB,Intel HD Graphics 520,12.5 inch Full HD,4 Cell,Old,5.500.000
+Dell,Core i5-10310U,8 GB,SSD 512GB,Intel HD Graphics,14 inch Full HD,"4 Cell, 52WHr",Old,8.900.000
+Dell,Core i5-10310U,16 GB,SSD 512GB,Intel HD Graphics,14 inch Full HD,"4 Cell, 52WHr",Old,9.600.000
+Dell,Core i7-10610U,16 GB,SSD 512GB,Intel HD Graphics,14 inch Full HD,"4 Cell, 52WHr",Old,10.600.000
+HP,Core i5-10310U,8 GB,SSD 256GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,9.200.000
+HP,Core i5-10310U,16 GB,SSD 256GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,9.900.000
+HP,Core i7-10810U,8 GB,SSD 256GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,11.900.000
+HP,Core i7-10810U,16 GB,SSD 512GB,Intel UHD Graphics 630,14 inch Full HD,3 cell 53 Wh Lithium-Ion,Old,12.900.000
+Dell,Core i5-1145G7,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch Full HD,63 Wh Lithium-Ion,Old,10.400.000
+Dell,Core i7-1185G7,16 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch Full HD,63 Wh Lithium-Ion,Old,11.900.000
+Dell,Core i7-1185G7,32 GB,SSD 512GB,Intel Iris Xe Graphics,13.3 inch Full HD,63 Wh Lithium-Ion,Old,12.500.000
+Dell,Core i5-1145G7,8 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,4 Cell 63Whr,Old,10.600.000
+Dell,Core i5-1145G7,16 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,4 Cell 63Whr,Old,11.000.000
+HP,Core i5-1145G7,16 GB,SSD 256GB,Intel Iris Xe Graphics,14 inch Full HD,"3-cell, 53 Wh Li-ion",Old,10.900.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,"3-cell, 56WHz",Old,18.900.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050 4GB,15.6 inch Full HD,"3-cell, 56WHz",Old,20.500.000
+Dell,Core i7-12700H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,"3-cell, 56WHz",Old,22.000.000
+Dell,Core i5-12500H,16 GB,SSD 512GB,Nvidia GeForce RTX 3050Ti 4GB,15.6 inch Full HD,"3-cell, 56WHz",Old,22.500.000
+Dell,Core i7-12650H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,"3-cell, 56WHz",Old,23.500.000
+Dell,Core i7-12700H,16 GB,SSD 512GB,Nvidia GeForce RTX 3060 6GB,15.6 inch Full HD,"3-cell, 56WHz",Old,24.000.000
+Dell,Core i3-4005U,4 GB,SSD 120GB,Intel HD Graphics,15.6 inch HD,"3-cell, 56WHz",Old,7.400.000
+Asus,Core i7-6500U,8 GB,SSD 256GB,Intel HD Graphics 520,13.3 inch Full HD, 6 Cell good,Old,14.500.000
+Dell,Core i5-6200U,4 GB,HDD 500GB,AMD Radeon R5 M315,15.6 inch HD, 6 Cell good,Old,9.500.000
+Dell,Core i5-6200U,4 GB,SSD 120GB,AMD Radeon R5 M335 2GB,15.6 inch HD, 6 Cell good,Old,10.200.000
+Dell,Core i5-5200U,4 GB,SSD 120GB,AMD R5 M240 2GB,15.6 inch HD, 6 Cell good,Old,9.200.000
+Dell,Core i5-6200U,4 GB,HDD 500GB,Intel HD Graphics 520,15.6 inch Full HD ca?m ??ng, 6 Cell good,Old,15.500.000
+Dell,Core i5-4200U,4 GB,HDD 500GB,Nvidia Geforce GT740,14 inch HD, 6 Cell good,Old,6.300.000
+Dell,Core i5-5200U,4 GB,HDD 500GB,Nvidia GT830M,14 inch HD, 6 Cell good,Old,9.300.000
+Dell,Core i5-4210U,4 GB,HDD 500GB,AMD Radeon R7 M265 2 GB,15.6 inch HD, 6 Cell good,Old,7.800.000
+Dell,Core i5-4210U,4 GB,SSD 120GB,AMD Radeon R7 M265 2 GB,15.6 inch HD, 6 Cell good,Old,8.800.000
+Dell,Core i5-5200U,4 GB,HDD 500GB,NVIDIA GeForce GT820,14 inch HD, 6 Cell good,Old,7.700.000
